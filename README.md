@@ -5,7 +5,7 @@ Highlights:
 - We created gender bias evaluation datasets for Pre-trained Language Models (PLM). The task is Natural Language Inference (NLI).
 - We proposed a bias evaluation measurement method that considers all output labels of NLI task (entailment, neutral, contradiction).
 - We also created datasets that are used for meta-evaluation (evaluation of evaluation) our NLI bias measure.
-- There are datasets available for English, Japanese, and Chinese PLMs 🇬🇧🇯🇵🇨🇳
+- There are datasets available for English, Japanese, and Chinese PLMs 🇺🇸🇯🇵🇨🇳
 
 # About the datasets and how to use
 
@@ -75,17 +75,7 @@ For details and reasons behind the meta-evaluation, please refer to the paper.
 Downsampled datasets are for meta-evaluation (2.). The number of occupation words is downsampled corresponding to the train set in meta-evaluation for label-balancing purpose.
 
 # Reference
-
-```
-@InProceedings{Anantaprayoon_nlp2023,
-  author = 	"Panatchakorn Anantaprayoon and 金子正弘 and 岡崎直観",
-  title = 	"下流タスクでの日本語事前学習モデルの性別バイアスの評価",
-  booktitle = 	"言語処理学会第29回年次大会 (NLP2023)",
-  year =	"2023",
-  url = "https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/A7-3.pdf"
-  note= "in Japanese"
-}
-```
+to be updated.
 
 # License
 Please refer to the LICENSE file
