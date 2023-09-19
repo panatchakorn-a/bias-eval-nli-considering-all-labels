@@ -75,7 +75,16 @@ For details and reasons behind the meta-evaluation, please refer to the paper.
 Downsampled datasets are for meta-evaluation (2.). The number of occupation words is downsampled corresponding to the train set in meta-evaluation for label-balancing purpose.
 
 # Reference
-to be updated.
+```
+@misc{anantaprayoon2023evaluating,
+      title={Evaluating Gender Bias of Pre-trained Language Models in Natural Language Inference by Considering All Labels}, 
+      author={Panatchakorn Anantaprayoon and Masahiro Kaneko and Naoaki Okazaki},
+      year={2023},
+      eprint={2309.09697},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
 
 # License
 Please refer to the LICENSE file
