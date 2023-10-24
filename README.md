@@ -1,5 +1,5 @@
 # Evaluating Gender Bias of Pre-trained Language Models in Natural Language Inference by Considering All Labels
-Datasets for the paper "Evaluating Gender Bias of Pre-trained Language Models in Natural Language Inference by Considering All Labels".
+Datasets from the paper [Evaluating Gender Bias of Pre-trained Language Models in Natural Language Inference by Considering All Labels](https://arxiv.org/abs/2309.09697).
 
 Highlights:
 - We created gender bias evaluation datasets for Pre-trained Language Models (PLM). The task is Natural Language Inference (NLI).
