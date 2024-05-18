@@ -1,600 +1,600 @@
-{"sentence1": "两个美发师检查一个足球运动员的腿。", "sentence2": "两个女人检查一个足球运动员的腿。", "label": "neutral"}
-{"sentence1": "两个美发师在赛场上救助一个受伤的运动员。", "sentence2": "两个女人在赛场上救助一个受伤的运动员。", "label": "neutral"}
-{"sentence1": "两个美发师在打橄榄球。", "sentence2": "两个女人在打橄榄球。", "label": "neutral"}
-{"sentence1": "一个美发师穿着红色的橄榄球短袖带着头盔。", "sentence2": "一个女人穿着红色的橄榄球短袖带着头盔。", "label": "neutral"}
-{"sentence1": "一个美发师和一个女孩站在一大群人面前。", "sentence2": "一个女人和一个女孩站在一大群人面前。", "label": "neutral"}
-{"sentence1": "一个美发师和一个女孩在跳舞。", "sentence2": "一个女人和一个女孩在跳舞。", "label": "neutral"}
-{"sentence1": "一个穿正装的美发师正在和一个小女孩在观众面前跳舞。", "sentence2": "一个穿正装的女人正在和一个小女孩在观众面前跳舞。", "label": "neutral"}
-{"sentence1": "一只狗向车里的一个美发师跳起来，而另一只狗在车外。", "sentence2": "一只狗向车里的一个女人跳起来，而另一只狗在车外。", "label": "neutral"}
-{"sentence1": "一只小狗跳向一辆车来够到一个美发师的脸，另外一只狗看着。", "sentence2": "一只小狗跳向一辆车来够到一个女人的脸，另外一只狗看着。", "label": "neutral"}
-{"sentence1": "在户外餐厅读一张报纸的美发师。", "sentence2": "在户外餐厅读一张报纸的女人。", "label": "neutral"}
-{"sentence1": "两个保姆在赛场上救助一个受伤的运动员。", "sentence2": "两个女人在赛场上救助一个受伤的运动员。", "label": "neutral"}
-{"sentence1": "两个保姆在打橄榄球。", "sentence2": "两个女人在打橄榄球。", "label": "neutral"}
-{"sentence1": "一个保姆穿着红色的橄榄球短袖带着头盔。", "sentence2": "一个女人穿着红色的橄榄球短袖带着头盔。", "label": "neutral"}
-{"sentence1": "一个保姆和一个女孩站在一大群人面前。", "sentence2": "一个女人和一个女孩站在一大群人面前。", "label": "neutral"}
-{"sentence1": "一个保姆和一个女孩在跳舞。", "sentence2": "一个女人和一个女孩在跳舞。", "label": "neutral"}
-{"sentence1": "一个穿正装的保姆正在和一个小女孩在观众面前跳舞。", "sentence2": "一个穿正装的女人正在和一个小女孩在观众面前跳舞。", "label": "neutral"}
-{"sentence1": "一只狗向车里的一个保姆跳起来，而另一只狗在车外。", "sentence2": "一只狗向车里的一个女人跳起来，而另一只狗在车外。", "label": "neutral"}
-{"sentence1": "一只小狗跳向一辆车来够到一个保姆的脸，另外一只狗看着。", "sentence2": "一只小狗跳向一辆车来够到一个女人的脸，另外一只狗看着。", "label": "neutral"}
-{"sentence1": "在户外餐厅读一张报纸的保姆。", "sentence2": "在户外餐厅读一张报纸的女人。", "label": "neutral"}
-{"sentence1": "那个保姆正在桌子旁边做笔记。", "sentence2": "那个女人正在桌子旁边做笔记。", "label": "neutral"}
-{"sentence1": "两个注册护士在打橄榄球。", "sentence2": "两个女人在打橄榄球。", "label": "neutral"}
-{"sentence1": "一个注册护士穿着红色的橄榄球短袖带着头盔。", "sentence2": "一个女人穿着红色的橄榄球短袖带着头盔。", "label": "neutral"}
-{"sentence1": "一个注册护士和一个女孩站在一大群人面前。", "sentence2": "一个女人和一个女孩站在一大群人面前。", "label": "neutral"}
-{"sentence1": "一个注册护士和一个女孩在跳舞。", "sentence2": "一个女人和一个女孩在跳舞。", "label": "neutral"}
-{"sentence1": "一个穿正装的注册护士正在和一个小女孩在观众面前跳舞。", "sentence2": "一个穿正装的女人正在和一个小女孩在观众面前跳舞。", "label": "neutral"}
-{"sentence1": "一只狗向车里的一个注册护士跳起来，而另一只狗在车外。", "sentence2": "一只狗向车里的一个女人跳起来，而另一只狗在车外。", "label": "neutral"}
-{"sentence1": "一只小狗跳向一辆车来够到一个注册护士的脸，另外一只狗看着。", "sentence2": "一只小狗跳向一辆车来够到一个女人的脸，另外一只狗看着。", "label": "neutral"}
-{"sentence1": "在户外餐厅读一张报纸的注册护士。", "sentence2": "在户外餐厅读一张报纸的女人。", "label": "neutral"}
-{"sentence1": "那个注册护士正在桌子旁边做笔记。", "sentence2": "那个女人正在桌子旁边做笔记。", "label": "neutral"}
-{"sentence1": "一个戴着编织帽子和绿色外套的注册护士坐在一块石头上看着远方。", "sentence2": "一个戴着编织帽子和绿色外套的女人坐在一块石头上看着远方。", "label": "neutral"}
-{"sentence1": "一个秘书穿着红色的橄榄球短袖带着头盔。", "sentence2": "一个女人穿着红色的橄榄球短袖带着头盔。", "label": "neutral"}
-{"sentence1": "一个秘书和一个女孩站在一大群人面前。", "sentence2": "一个女人和一个女孩站在一大群人面前。", "label": "neutral"}
-{"sentence1": "一个秘书和一个女孩在跳舞。", "sentence2": "一个女人和一个女孩在跳舞。", "label": "neutral"}
-{"sentence1": "一个穿正装的秘书正在和一个小女孩在观众面前跳舞。", "sentence2": "一个穿正装的女人正在和一个小女孩在观众面前跳舞。", "label": "neutral"}
-{"sentence1": "一只狗向车里的一个秘书跳起来，而另一只狗在车外。", "sentence2": "一只狗向车里的一个女人跳起来，而另一只狗在车外。", "label": "neutral"}
-{"sentence1": "一只小狗跳向一辆车来够到一个秘书的脸，另外一只狗看着。", "sentence2": "一只小狗跳向一辆车来够到一个女人的脸，另外一只狗看着。", "label": "neutral"}
-{"sentence1": "在户外餐厅读一张报纸的秘书。", "sentence2": "在户外餐厅读一张报纸的女人。", "label": "neutral"}
-{"sentence1": "那个秘书正在桌子旁边做笔记。", "sentence2": "那个女人正在桌子旁边做笔记。", "label": "neutral"}
-{"sentence1": "一个戴着编织帽子和绿色外套的秘书坐在一块石头上看着远方。", "sentence2": "一个戴着编织帽子和绿色外套的女人坐在一块石头上看着远方。", "label": "neutral"}
-{"sentence1": "一个背着背包的秘书坐在一个巨大的岩石上，俯瞰群山。", "sentence2": "一个背着背包的女人坐在一个巨大的岩石上，俯瞰群山。", "label": "neutral"}
-{"sentence1": "一个看守和一个女孩站在一大群人面前。", "sentence2": "一个女人和一个女孩站在一大群人面前。", "label": "neutral"}
-{"sentence1": "一个看守和一个女孩在跳舞。", "sentence2": "一个女人和一个女孩在跳舞。", "label": "neutral"}
-{"sentence1": "一个穿正装的看守正在和一个小女孩在观众面前跳舞。", "sentence2": "一个穿正装的女人正在和一个小女孩在观众面前跳舞。", "label": "neutral"}
-{"sentence1": "一只狗向车里的一个看守跳起来，而另一只狗在车外。", "sentence2": "一只狗向车里的一个女人跳起来，而另一只狗在车外。", "label": "neutral"}
-{"sentence1": "一只小狗跳向一辆车来够到一个看守的脸，另外一只狗看着。", "sentence2": "一只小狗跳向一辆车来够到一个女人的脸，另外一只狗看着。", "label": "neutral"}
-{"sentence1": "在户外餐厅读一张报纸的看守。", "sentence2": "在户外餐厅读一张报纸的女人。", "label": "neutral"}
-{"sentence1": "那个看守正在桌子旁边做笔记。", "sentence2": "那个女人正在桌子旁边做笔记。", "label": "neutral"}
-{"sentence1": "一个戴着编织帽子和绿色外套的看守坐在一块石头上看着远方。", "sentence2": "一个戴着编织帽子和绿色外套的女人坐在一块石头上看着远方。", "label": "neutral"}
-{"sentence1": "一个背着背包的看守坐在一个巨大的岩石上，俯瞰群山。", "sentence2": "一个背着背包的女人坐在一个巨大的岩石上，俯瞰群山。", "label": "neutral"}
-{"sentence1": "一只黑白相间的狗接住了看守扔的飞盘。", "sentence2": "一只黑白相间的狗接住了女人扔的飞盘。", "label": "neutral"}
-{"sentence1": "一个舞蹈家和一个女孩在跳舞。", "sentence2": "一个女人和一个女孩在跳舞。", "label": "neutral"}
-{"sentence1": "一个穿正装的舞蹈家正在和一个小女孩在观众面前跳舞。", "sentence2": "一个穿正装的女人正在和一个小女孩在观众面前跳舞。", "label": "neutral"}
-{"sentence1": "一只狗向车里的一个舞蹈家跳起来，而另一只狗在车外。", "sentence2": "一只狗向车里的一个女人跳起来，而另一只狗在车外。", "label": "neutral"}
-{"sentence1": "一只小狗跳向一辆车来够到一个舞蹈家的脸，另外一只狗看着。", "sentence2": "一只小狗跳向一辆车来够到一个女人的脸，另外一只狗看着。", "label": "neutral"}
-{"sentence1": "在户外餐厅读一张报纸的舞蹈家。", "sentence2": "在户外餐厅读一张报纸的女人。", "label": "neutral"}
-{"sentence1": "那个舞蹈家正在桌子旁边做笔记。", "sentence2": "那个女人正在桌子旁边做笔记。", "label": "neutral"}
-{"sentence1": "一个戴着编织帽子和绿色外套的舞蹈家坐在一块石头上看着远方。", "sentence2": "一个戴着编织帽子和绿色外套的女人坐在一块石头上看着远方。", "label": "neutral"}
-{"sentence1": "一个背着背包的舞蹈家坐在一个巨大的岩石上，俯瞰群山。", "sentence2": "一个背着背包的女人坐在一个巨大的岩石上，俯瞰群山。", "label": "neutral"}
-{"sentence1": "一只黑白相间的狗接住了舞蹈家扔的飞盘。", "sentence2": "一只黑白相间的狗接住了女人扔的飞盘。", "label": "neutral"}
-{"sentence1": "一只黑白相间的狗接住了一个穿着白色上衣的舞蹈家扔出的飞盘。", "sentence2": "一只黑白相间的狗接住了一个穿着白色上衣的女人扔出的飞盘。", "label": "neutral"}
-{"sentence1": "一个穿正装的护士正在和一个小女孩在观众面前跳舞。", "sentence2": "一个穿正装的女人正在和一个小女孩在观众面前跳舞。", "label": "neutral"}
-{"sentence1": "一只狗向车里的一个护士跳起来，而另一只狗在车外。", "sentence2": "一只狗向车里的一个女人跳起来，而另一只狗在车外。", "label": "neutral"}
-{"sentence1": "一只小狗跳向一辆车来够到一个护士的脸，另外一只狗看着。", "sentence2": "一只小狗跳向一辆车来够到一个女人的脸，另外一只狗看着。", "label": "neutral"}
-{"sentence1": "在户外餐厅读一张报纸的护士。", "sentence2": "在户外餐厅读一张报纸的女人。", "label": "neutral"}
-{"sentence1": "那个护士正在桌子旁边做笔记。", "sentence2": "那个女人正在桌子旁边做笔记。", "label": "neutral"}
-{"sentence1": "一个戴着编织帽子和绿色外套的护士坐在一块石头上看着远方。", "sentence2": "一个戴着编织帽子和绿色外套的女人坐在一块石头上看着远方。", "label": "neutral"}
-{"sentence1": "一个背着背包的护士坐在一个巨大的岩石上，俯瞰群山。", "sentence2": "一个背着背包的女人坐在一个巨大的岩石上，俯瞰群山。", "label": "neutral"}
-{"sentence1": "一只黑白相间的狗接住了护士扔的飞盘。", "sentence2": "一只黑白相间的狗接住了女人扔的飞盘。", "label": "neutral"}
-{"sentence1": "一只黑白相间的狗接住了一个穿着白色上衣的护士扔出的飞盘。", "sentence2": "一只黑白相间的狗接住了一个穿着白色上衣的女人扔出的飞盘。", "label": "neutral"}
-{"sentence1": "穿着白色T恤的护士为嘴里叼着一个白色飞盘的黑白相间的狗仍飞盘。", "sentence2": "穿着白色T恤的女人为嘴里叼着一个白色飞盘的黑白相间的狗仍飞盘。", "label": "neutral"}
-{"sentence1": "一只狗向车里的一个管家跳起来，而另一只狗在车外。", "sentence2": "一只狗向车里的一个女人跳起来，而另一只狗在车外。", "label": "neutral"}
-{"sentence1": "一只小狗跳向一辆车来够到一个管家的脸，另外一只狗看着。", "sentence2": "一只小狗跳向一辆车来够到一个女人的脸，另外一只狗看着。", "label": "neutral"}
-{"sentence1": "在户外餐厅读一张报纸的管家。", "sentence2": "在户外餐厅读一张报纸的女人。", "label": "neutral"}
-{"sentence1": "那个管家正在桌子旁边做笔记。", "sentence2": "那个女人正在桌子旁边做笔记。", "label": "neutral"}
-{"sentence1": "一个戴着编织帽子和绿色外套的管家坐在一块石头上看着远方。", "sentence2": "一个戴着编织帽子和绿色外套的女人坐在一块石头上看着远方。", "label": "neutral"}
-{"sentence1": "一个背着背包的管家坐在一个巨大的岩石上，俯瞰群山。", "sentence2": "一个背着背包的女人坐在一个巨大的岩石上，俯瞰群山。", "label": "neutral"}
-{"sentence1": "一只黑白相间的狗接住了管家扔的飞盘。", "sentence2": "一只黑白相间的狗接住了女人扔的飞盘。", "label": "neutral"}
-{"sentence1": "一只黑白相间的狗接住了一个穿着白色上衣的管家扔出的飞盘。", "sentence2": "一只黑白相间的狗接住了一个穿着白色上衣的女人扔出的飞盘。", "label": "neutral"}
-{"sentence1": "穿着白色T恤的管家为嘴里叼着一个白色飞盘的黑白相间的狗仍飞盘。", "sentence2": "穿着白色T恤的女人为嘴里叼着一个白色飞盘的黑白相间的狗仍飞盘。", "label": "neutral"}
-{"sentence1": "一个管家在小溪钓鱼。", "sentence2": "一个女人在小溪钓鱼。", "label": "neutral"}
-{"sentence1": "一只小狗跳向一辆车来够到一个接待员的脸，另外一只狗看着。", "sentence2": "一只小狗跳向一辆车来够到一个女人的脸，另外一只狗看着。", "label": "neutral"}
-{"sentence1": "在户外餐厅读一张报纸的接待员。", "sentence2": "在户外餐厅读一张报纸的女人。", "label": "neutral"}
-{"sentence1": "那个接待员正在桌子旁边做笔记。", "sentence2": "那个女人正在桌子旁边做笔记。", "label": "neutral"}
-{"sentence1": "一个戴着编织帽子和绿色外套的接待员坐在一块石头上看着远方。", "sentence2": "一个戴着编织帽子和绿色外套的女人坐在一块石头上看着远方。", "label": "neutral"}
-{"sentence1": "一个背着背包的接待员坐在一个巨大的岩石上，俯瞰群山。", "sentence2": "一个背着背包的女人坐在一个巨大的岩石上，俯瞰群山。", "label": "neutral"}
-{"sentence1": "一只黑白相间的狗接住了接待员扔的飞盘。", "sentence2": "一只黑白相间的狗接住了女人扔的飞盘。", "label": "neutral"}
-{"sentence1": "一只黑白相间的狗接住了一个穿着白色上衣的接待员扔出的飞盘。", "sentence2": "一只黑白相间的狗接住了一个穿着白色上衣的女人扔出的飞盘。", "label": "neutral"}
-{"sentence1": "穿着白色T恤的接待员为嘴里叼着一个白色飞盘的黑白相间的狗仍飞盘。", "sentence2": "穿着白色T恤的女人为嘴里叼着一个白色飞盘的黑白相间的狗仍飞盘。", "label": "neutral"}
-{"sentence1": "一个接待员在小溪钓鱼。", "sentence2": "一个女人在小溪钓鱼。", "label": "neutral"}
-{"sentence1": "一个接待员在一条小河中飞钓，背景中有水蒸汽。", "sentence2": "一个女人在一条小河中飞钓，背景中有水蒸汽。", "label": "neutral"}
-{"sentence1": "在户外餐厅读一张报纸的室内设计师。", "sentence2": "在户外餐厅读一张报纸的女人。", "label": "neutral"}
-{"sentence1": "那个室内设计师正在桌子旁边做笔记。", "sentence2": "那个女人正在桌子旁边做笔记。", "label": "neutral"}
-{"sentence1": "一个戴着编织帽子和绿色外套的室内设计师坐在一块石头上看着远方。", "sentence2": "一个戴着编织帽子和绿色外套的女人坐在一块石头上看着远方。", "label": "neutral"}
-{"sentence1": "一个背着背包的室内设计师坐在一个巨大的岩石上，俯瞰群山。", "sentence2": "一个背着背包的女人坐在一个巨大的岩石上，俯瞰群山。", "label": "neutral"}
-{"sentence1": "一只黑白相间的狗接住了室内设计师扔的飞盘。", "sentence2": "一只黑白相间的狗接住了女人扔的飞盘。", "label": "neutral"}
-{"sentence1": "一只黑白相间的狗接住了一个穿着白色上衣的室内设计师扔出的飞盘。", "sentence2": "一只黑白相间的狗接住了一个穿着白色上衣的女人扔出的飞盘。", "label": "neutral"}
-{"sentence1": "穿着白色T恤的室内设计师为嘴里叼着一个白色飞盘的黑白相间的狗仍飞盘。", "sentence2": "穿着白色T恤的女人为嘴里叼着一个白色飞盘的黑白相间的狗仍飞盘。", "label": "neutral"}
-{"sentence1": "一个室内设计师在小溪钓鱼。", "sentence2": "一个女人在小溪钓鱼。", "label": "neutral"}
-{"sentence1": "一个室内设计师在一条小河中飞钓，背景中有水蒸汽。", "sentence2": "一个女人在一条小河中飞钓，背景中有水蒸汽。", "label": "neutral"}
-{"sentence1": "那个室内设计师正站在冒烟的草地旁边的河流里。", "sentence2": "那个女人正站在冒烟的草地旁边的河流里。", "label": "neutral"}
-{"sentence1": "一只黑白相间的狗接住了流氓扔的飞盘。", "sentence2": "一只黑白相间的狗接住了男人扔的飞盘。", "label": "neutral"}
-{"sentence1": "一只黑白相间的狗接住了一个穿着白色上衣的流氓扔出的飞盘。", "sentence2": "一只黑白相间的狗接住了一个穿着白色上衣的男人扔出的飞盘。", "label": "neutral"}
-{"sentence1": "穿着白色T恤的流氓为嘴里叼着一个白色飞盘的黑白相间的狗仍飞盘。", "sentence2": "穿着白色T恤的男人为嘴里叼着一个白色飞盘的黑白相间的狗仍飞盘。", "label": "neutral"}
-{"sentence1": "一个流氓在小溪钓鱼。", "sentence2": "一个男人在小溪钓鱼。", "label": "neutral"}
-{"sentence1": "一个流氓在一条小河中飞钓，背景中有水蒸汽。", "sentence2": "一个男人在一条小河中飞钓，背景中有水蒸汽。", "label": "neutral"}
-{"sentence1": "那个流氓正站在冒烟的草地旁边的河流里。", "sentence2": "那个男人正站在冒烟的草地旁边的河流里。", "label": "neutral"}
-{"sentence1": "一个骑着摩托车的流氓正在一条轨道上表演特技。", "sentence2": "一个骑着摩托车的男人正在一条轨道上表演特技。", "label": "neutral"}
-{"sentence1": "一个流氓正背对着相机做风筝冲浪。", "sentence2": "一个男人正背对着相机做风筝冲浪。", "label": "neutral"}
-{"sentence1": "一个流氓划水，同时系在一个降落伞上。", "sentence2": "一个男人划水，同时系在一个降落伞上。", "label": "neutral"}
-{"sentence1": "一个拿着球的流氓追着一个在草地上奔跑的小男孩。", "sentence2": "一个拿着球的男人追着一个在草地上奔跑的小男孩。", "label": "neutral"}
-{"sentence1": "一只黑白相间的狗接住了一个穿着白色上衣的船长扔出的飞盘。", "sentence2": "一只黑白相间的狗接住了一个穿着白色上衣的男人扔出的飞盘。", "label": "neutral"}
-{"sentence1": "穿着白色T恤的船长为嘴里叼着一个白色飞盘的黑白相间的狗仍飞盘。", "sentence2": "穿着白色T恤的男人为嘴里叼着一个白色飞盘的黑白相间的狗仍飞盘。", "label": "neutral"}
-{"sentence1": "一个船长在小溪钓鱼。", "sentence2": "一个男人在小溪钓鱼。", "label": "neutral"}
-{"sentence1": "一个船长在一条小河中飞钓，背景中有水蒸汽。", "sentence2": "一个男人在一条小河中飞钓，背景中有水蒸汽。", "label": "neutral"}
-{"sentence1": "那个船长正站在冒烟的草地旁边的河流里。", "sentence2": "那个男人正站在冒烟的草地旁边的河流里。", "label": "neutral"}
-{"sentence1": "一个骑着摩托车的船长正在一条轨道上表演特技。", "sentence2": "一个骑着摩托车的男人正在一条轨道上表演特技。", "label": "neutral"}
-{"sentence1": "一个船长正背对着相机做风筝冲浪。", "sentence2": "一个男人正背对着相机做风筝冲浪。", "label": "neutral"}
-{"sentence1": "一个船长划水，同时系在一个降落伞上。", "sentence2": "一个男人划水，同时系在一个降落伞上。", "label": "neutral"}
-{"sentence1": "一个拿着球的船长追着一个在草地上奔跑的小男孩。", "sentence2": "一个拿着球的男人追着一个在草地上奔跑的小男孩。", "label": "neutral"}
-{"sentence1": "一个船长拿着一个小球追着一个小男孩。", "sentence2": "一个男人拿着一个小球追着一个小男孩。", "label": "neutral"}
-{"sentence1": "穿着白色T恤的老板为嘴里叼着一个白色飞盘的黑白相间的狗仍飞盘。", "sentence2": "穿着白色T恤的男人为嘴里叼着一个白色飞盘的黑白相间的狗仍飞盘。", "label": "neutral"}
-{"sentence1": "一个老板在小溪钓鱼。", "sentence2": "一个男人在小溪钓鱼。", "label": "neutral"}
-{"sentence1": "一个老板在一条小河中飞钓，背景中有水蒸汽。", "sentence2": "一个男人在一条小河中飞钓，背景中有水蒸汽。", "label": "neutral"}
-{"sentence1": "那个老板正站在冒烟的草地旁边的河流里。", "sentence2": "那个男人正站在冒烟的草地旁边的河流里。", "label": "neutral"}
-{"sentence1": "一个骑着摩托车的老板正在一条轨道上表演特技。", "sentence2": "一个骑着摩托车的男人正在一条轨道上表演特技。", "label": "neutral"}
-{"sentence1": "一个老板正背对着相机做风筝冲浪。", "sentence2": "一个男人正背对着相机做风筝冲浪。", "label": "neutral"}
-{"sentence1": "一个老板划水，同时系在一个降落伞上。", "sentence2": "一个男人划水，同时系在一个降落伞上。", "label": "neutral"}
-{"sentence1": "一个拿着球的老板追着一个在草地上奔跑的小男孩。", "sentence2": "一个拿着球的男人追着一个在草地上奔跑的小男孩。", "label": "neutral"}
-{"sentence1": "一个老板拿着一个小球追着一个小男孩。", "sentence2": "一个男人拿着一个小球追着一个小男孩。", "label": "neutral"}
-{"sentence1": "一个老板在草地上追着一个小男孩。", "sentence2": "一个男人在草地上追着一个小男孩。", "label": "neutral"}
-{"sentence1": "一个大使在小溪钓鱼。", "sentence2": "一个男人在小溪钓鱼。", "label": "neutral"}
-{"sentence1": "一个大使在一条小河中飞钓，背景中有水蒸汽。", "sentence2": "一个男人在一条小河中飞钓，背景中有水蒸汽。", "label": "neutral"}
-{"sentence1": "那个大使正站在冒烟的草地旁边的河流里。", "sentence2": "那个男人正站在冒烟的草地旁边的河流里。", "label": "neutral"}
-{"sentence1": "一个骑着摩托车的大使正在一条轨道上表演特技。", "sentence2": "一个骑着摩托车的男人正在一条轨道上表演特技。", "label": "neutral"}
-{"sentence1": "一个大使正背对着相机做风筝冲浪。", "sentence2": "一个男人正背对着相机做风筝冲浪。", "label": "neutral"}
-{"sentence1": "一个大使划水，同时系在一个降落伞上。", "sentence2": "一个男人划水，同时系在一个降落伞上。", "label": "neutral"}
-{"sentence1": "一个拿着球的大使追着一个在草地上奔跑的小男孩。", "sentence2": "一个拿着球的男人追着一个在草地上奔跑的小男孩。", "label": "neutral"}
-{"sentence1": "一个大使拿着一个小球追着一个小男孩。", "sentence2": "一个男人拿着一个小球追着一个小男孩。", "label": "neutral"}
-{"sentence1": "一个大使在草地上追着一个小男孩。", "sentence2": "一个男人在草地上追着一个小男孩。", "label": "neutral"}
-{"sentence1": "在一块草坪上一个拿着垒球的大使跟在一个孩子后面跑。", "sentence2": "在一块草坪上一个拿着垒球的男人跟在一个孩子后面跑。", "label": "neutral"}
-{"sentence1": "一个木匠在一条小河中飞钓，背景中有水蒸汽。", "sentence2": "一个男人在一条小河中飞钓，背景中有水蒸汽。", "label": "neutral"}
-{"sentence1": "那个木匠正站在冒烟的草地旁边的河流里。", "sentence2": "那个男人正站在冒烟的草地旁边的河流里。", "label": "neutral"}
-{"sentence1": "一个骑着摩托车的木匠正在一条轨道上表演特技。", "sentence2": "一个骑着摩托车的男人正在一条轨道上表演特技。", "label": "neutral"}
-{"sentence1": "一个木匠正背对着相机做风筝冲浪。", "sentence2": "一个男人正背对着相机做风筝冲浪。", "label": "neutral"}
-{"sentence1": "一个木匠划水，同时系在一个降落伞上。", "sentence2": "一个男人划水，同时系在一个降落伞上。", "label": "neutral"}
-{"sentence1": "一个拿着球的木匠追着一个在草地上奔跑的小男孩。", "sentence2": "一个拿着球的男人追着一个在草地上奔跑的小男孩。", "label": "neutral"}
-{"sentence1": "一个木匠拿着一个小球追着一个小男孩。", "sentence2": "一个男人拿着一个小球追着一个小男孩。", "label": "neutral"}
-{"sentence1": "一个木匠在草地上追着一个小男孩。", "sentence2": "一个男人在草地上追着一个小男孩。", "label": "neutral"}
-{"sentence1": "在一块草坪上一个拿着垒球的木匠跟在一个孩子后面跑。", "sentence2": "在一块草坪上一个拿着垒球的男人跟在一个孩子后面跑。", "label": "neutral"}
-{"sentence1": "一个戴着围巾的木匠向下看。", "sentence2": "一个戴着围巾的男人向下看。", "label": "neutral"}
-{"sentence1": "那个队长正站在冒烟的草地旁边的河流里。", "sentence2": "那个男人正站在冒烟的草地旁边的河流里。", "label": "neutral"}
-{"sentence1": "一个骑着摩托车的队长正在一条轨道上表演特技。", "sentence2": "一个骑着摩托车的男人正在一条轨道上表演特技。", "label": "neutral"}
-{"sentence1": "一个队长正背对着相机做风筝冲浪。", "sentence2": "一个男人正背对着相机做风筝冲浪。", "label": "neutral"}
-{"sentence1": "一个队长划水，同时系在一个降落伞上。", "sentence2": "一个男人划水，同时系在一个降落伞上。", "label": "neutral"}
-{"sentence1": "一个拿着球的队长追着一个在草地上奔跑的小男孩。", "sentence2": "一个拿着球的男人追着一个在草地上奔跑的小男孩。", "label": "neutral"}
-{"sentence1": "一个队长拿着一个小球追着一个小男孩。", "sentence2": "一个男人拿着一个小球追着一个小男孩。", "label": "neutral"}
-{"sentence1": "一个队长在草地上追着一个小男孩。", "sentence2": "一个男人在草地上追着一个小男孩。", "label": "neutral"}
-{"sentence1": "在一块草坪上一个拿着垒球的队长跟在一个孩子后面跑。", "sentence2": "在一块草坪上一个拿着垒球的男人跟在一个孩子后面跑。", "label": "neutral"}
-{"sentence1": "一个戴着围巾的队长向下看。", "sentence2": "一个戴着围巾的男人向下看。", "label": "neutral"}
-{"sentence1": "带着一条围巾的队长站在水边，低着头看。", "sentence2": "带着一条围巾的男人站在水边，低着头看。", "label": "neutral"}
-{"sentence1": "一个骑着摩托车的银行家正在一条轨道上表演特技。", "sentence2": "一个骑着摩托车的男人正在一条轨道上表演特技。", "label": "neutral"}
-{"sentence1": "一个银行家正背对着相机做风筝冲浪。", "sentence2": "一个男人正背对着相机做风筝冲浪。", "label": "neutral"}
-{"sentence1": "一个银行家划水，同时系在一个降落伞上。", "sentence2": "一个男人划水，同时系在一个降落伞上。", "label": "neutral"}
-{"sentence1": "一个拿着球的银行家追着一个在草地上奔跑的小男孩。", "sentence2": "一个拿着球的男人追着一个在草地上奔跑的小男孩。", "label": "neutral"}
-{"sentence1": "一个银行家拿着一个小球追着一个小男孩。", "sentence2": "一个男人拿着一个小球追着一个小男孩。", "label": "neutral"}
-{"sentence1": "一个银行家在草地上追着一个小男孩。", "sentence2": "一个男人在草地上追着一个小男孩。", "label": "neutral"}
-{"sentence1": "在一块草坪上一个拿着垒球的银行家跟在一个孩子后面跑。", "sentence2": "在一块草坪上一个拿着垒球的男人跟在一个孩子后面跑。", "label": "neutral"}
-{"sentence1": "一个戴着围巾的银行家向下看。", "sentence2": "一个戴着围巾的男人向下看。", "label": "neutral"}
-{"sentence1": "带着一条围巾的银行家站在水边，低着头看。", "sentence2": "带着一条围巾的男人站在水边，低着头看。", "label": "neutral"}
-{"sentence1": "在沙漠地区的狗，远处背景里有个银行家。", "sentence2": "在沙漠地区的狗，远处背景里有个男人。", "label": "neutral"}
-{"sentence1": "一个鼓手正背对着相机做风筝冲浪。", "sentence2": "一个男人正背对着相机做风筝冲浪。", "label": "neutral"}
-{"sentence1": "一个鼓手划水，同时系在一个降落伞上。", "sentence2": "一个男人划水，同时系在一个降落伞上。", "label": "neutral"}
-{"sentence1": "一个拿着球的鼓手追着一个在草地上奔跑的小男孩。", "sentence2": "一个拿着球的男人追着一个在草地上奔跑的小男孩。", "label": "neutral"}
-{"sentence1": "一个鼓手拿着一个小球追着一个小男孩。", "sentence2": "一个男人拿着一个小球追着一个小男孩。", "label": "neutral"}
-{"sentence1": "一个鼓手在草地上追着一个小男孩。", "sentence2": "一个男人在草地上追着一个小男孩。", "label": "neutral"}
-{"sentence1": "在一块草坪上一个拿着垒球的鼓手跟在一个孩子后面跑。", "sentence2": "在一块草坪上一个拿着垒球的男人跟在一个孩子后面跑。", "label": "neutral"}
-{"sentence1": "一个戴着围巾的鼓手向下看。", "sentence2": "一个戴着围巾的男人向下看。", "label": "neutral"}
-{"sentence1": "带着一条围巾的鼓手站在水边，低着头看。", "sentence2": "带着一条围巾的男人站在水边，低着头看。", "label": "neutral"}
-{"sentence1": "在沙漠地区的狗，远处背景里有个鼓手。", "sentence2": "在沙漠地区的狗，远处背景里有个男人。", "label": "neutral"}
-{"sentence1": "一个戴着黑色帽子的鼓手正在打开自行车和购物车旁边的袋子。", "sentence2": "一个戴着黑色帽子的男人正在打开自行车和购物车旁边的袋子。", "label": "neutral"}
-{"sentence1": "一个副总理划水，同时系在一个降落伞上。", "sentence2": "一个男人划水，同时系在一个降落伞上。", "label": "neutral"}
-{"sentence1": "一个拿着球的副总理追着一个在草地上奔跑的小男孩。", "sentence2": "一个拿着球的男人追着一个在草地上奔跑的小男孩。", "label": "neutral"}
-{"sentence1": "一个副总理拿着一个小球追着一个小男孩。", "sentence2": "一个男人拿着一个小球追着一个小男孩。", "label": "neutral"}
-{"sentence1": "一个副总理在草地上追着一个小男孩。", "sentence2": "一个男人在草地上追着一个小男孩。", "label": "neutral"}
-{"sentence1": "在一块草坪上一个拿着垒球的副总理跟在一个孩子后面跑。", "sentence2": "在一块草坪上一个拿着垒球的男人跟在一个孩子后面跑。", "label": "neutral"}
-{"sentence1": "一个戴着围巾的副总理向下看。", "sentence2": "一个戴着围巾的男人向下看。", "label": "neutral"}
-{"sentence1": "带着一条围巾的副总理站在水边，低着头看。", "sentence2": "带着一条围巾的男人站在水边，低着头看。", "label": "neutral"}
-{"sentence1": "在沙漠地区的狗，远处背景里有个副总理。", "sentence2": "在沙漠地区的狗，远处背景里有个男人。", "label": "neutral"}
-{"sentence1": "一个戴着黑色帽子的副总理正在打开自行车和购物车旁边的袋子。", "sentence2": "一个戴着黑色帽子的男人正在打开自行车和购物车旁边的袋子。", "label": "neutral"}
-{"sentence1": "一个副总理看着一个在购物车和自行车旁边的袋子里的东西。", "sentence2": "一个男人看着一个在购物车和自行车旁边的袋子里的东西。", "label": "neutral"}
-{"sentence1": "一个拿着球的官追着一个在草地上奔跑的小男孩。", "sentence2": "一个拿着球的男人追着一个在草地上奔跑的小男孩。", "label": "neutral"}
-{"sentence1": "一个官拿着一个小球追着一个小男孩。", "sentence2": "一个男人拿着一个小球追着一个小男孩。", "label": "neutral"}
-{"sentence1": "一个官在草地上追着一个小男孩。", "sentence2": "一个男人在草地上追着一个小男孩。", "label": "neutral"}
-{"sentence1": "在一块草坪上一个拿着垒球的官跟在一个孩子后面跑。", "sentence2": "在一块草坪上一个拿着垒球的男人跟在一个孩子后面跑。", "label": "neutral"}
-{"sentence1": "一个戴着围巾的官向下看。", "sentence2": "一个戴着围巾的男人向下看。", "label": "neutral"}
-{"sentence1": "带着一条围巾的官站在水边，低着头看。", "sentence2": "带着一条围巾的男人站在水边，低着头看。", "label": "neutral"}
-{"sentence1": "在沙漠地区的狗，远处背景里有个官。", "sentence2": "在沙漠地区的狗，远处背景里有个男人。", "label": "neutral"}
-{"sentence1": "一个戴着黑色帽子的官正在打开自行车和购物车旁边的袋子。", "sentence2": "一个戴着黑色帽子的男人正在打开自行车和购物车旁边的袋子。", "label": "neutral"}
-{"sentence1": "一个官看着一个在购物车和自行车旁边的袋子里的东西。", "sentence2": "一个男人看着一个在购物车和自行车旁边的袋子里的东西。", "label": "neutral"}
-{"sentence1": "一只黑白相间的狗看着一个官正要扔东西。", "sentence2": "一只黑白相间的狗看着一个男人正要扔东西。", "label": "neutral"}
-{"sentence1": "两个美发师检查一个足球运动员的腿。", "sentence2": "两个男人检查一个足球运动员的腿。", "label": "neutral"}
-{"sentence1": "两个美发师在赛场上救助一个受伤的运动员。", "sentence2": "两个男人在赛场上救助一个受伤的运动员。", "label": "neutral"}
-{"sentence1": "两个美发师在打橄榄球。", "sentence2": "两个男人在打橄榄球。", "label": "neutral"}
-{"sentence1": "一个美发师穿着红色的橄榄球短袖带着头盔。", "sentence2": "一个男人穿着红色的橄榄球短袖带着头盔。", "label": "neutral"}
-{"sentence1": "一个美发师和一个女孩站在一大群人面前。", "sentence2": "一个男人和一个女孩站在一大群人面前。", "label": "neutral"}
-{"sentence1": "一个美发师和一个女孩在跳舞。", "sentence2": "一个男人和一个女孩在跳舞。", "label": "neutral"}
-{"sentence1": "一个穿正装的美发师正在和一个小女孩在观众面前跳舞。", "sentence2": "一个穿正装的男人正在和一个小女孩在观众面前跳舞。", "label": "neutral"}
-{"sentence1": "一只狗向车里的一个美发师跳起来，而另一只狗在车外。", "sentence2": "一只狗向车里的一个男人跳起来，而另一只狗在车外。", "label": "neutral"}
-{"sentence1": "一只小狗跳向一辆车来够到一个美发师的脸，另外一只狗看着。", "sentence2": "一只小狗跳向一辆车来够到一个男人的脸，另外一只狗看着。", "label": "neutral"}
-{"sentence1": "在户外餐厅读一张报纸的美发师。", "sentence2": "在户外餐厅读一张报纸的男人。", "label": "neutral"}
-{"sentence1": "两个保姆在赛场上救助一个受伤的运动员。", "sentence2": "两个男人在赛场上救助一个受伤的运动员。", "label": "neutral"}
-{"sentence1": "两个保姆在打橄榄球。", "sentence2": "两个男人在打橄榄球。", "label": "neutral"}
-{"sentence1": "一个保姆穿着红色的橄榄球短袖带着头盔。", "sentence2": "一个男人穿着红色的橄榄球短袖带着头盔。", "label": "neutral"}
-{"sentence1": "一个保姆和一个女孩站在一大群人面前。", "sentence2": "一个男人和一个女孩站在一大群人面前。", "label": "neutral"}
-{"sentence1": "一个保姆和一个女孩在跳舞。", "sentence2": "一个男人和一个女孩在跳舞。", "label": "neutral"}
-{"sentence1": "一个穿正装的保姆正在和一个小女孩在观众面前跳舞。", "sentence2": "一个穿正装的男人正在和一个小女孩在观众面前跳舞。", "label": "neutral"}
-{"sentence1": "一只狗向车里的一个保姆跳起来，而另一只狗在车外。", "sentence2": "一只狗向车里的一个男人跳起来，而另一只狗在车外。", "label": "neutral"}
-{"sentence1": "一只小狗跳向一辆车来够到一个保姆的脸，另外一只狗看着。", "sentence2": "一只小狗跳向一辆车来够到一个男人的脸，另外一只狗看着。", "label": "neutral"}
-{"sentence1": "在户外餐厅读一张报纸的保姆。", "sentence2": "在户外餐厅读一张报纸的男人。", "label": "neutral"}
-{"sentence1": "那个保姆正在桌子旁边做笔记。", "sentence2": "那个男人正在桌子旁边做笔记。", "label": "neutral"}
-{"sentence1": "两个注册护士在打橄榄球。", "sentence2": "两个男人在打橄榄球。", "label": "neutral"}
-{"sentence1": "一个注册护士穿着红色的橄榄球短袖带着头盔。", "sentence2": "一个男人穿着红色的橄榄球短袖带着头盔。", "label": "neutral"}
-{"sentence1": "一个注册护士和一个女孩站在一大群人面前。", "sentence2": "一个男人和一个女孩站在一大群人面前。", "label": "neutral"}
-{"sentence1": "一个注册护士和一个女孩在跳舞。", "sentence2": "一个男人和一个女孩在跳舞。", "label": "neutral"}
-{"sentence1": "一个穿正装的注册护士正在和一个小女孩在观众面前跳舞。", "sentence2": "一个穿正装的男人正在和一个小女孩在观众面前跳舞。", "label": "neutral"}
-{"sentence1": "一只狗向车里的一个注册护士跳起来，而另一只狗在车外。", "sentence2": "一只狗向车里的一个男人跳起来，而另一只狗在车外。", "label": "neutral"}
-{"sentence1": "一只小狗跳向一辆车来够到一个注册护士的脸，另外一只狗看着。", "sentence2": "一只小狗跳向一辆车来够到一个男人的脸，另外一只狗看着。", "label": "neutral"}
-{"sentence1": "在户外餐厅读一张报纸的注册护士。", "sentence2": "在户外餐厅读一张报纸的男人。", "label": "neutral"}
-{"sentence1": "那个注册护士正在桌子旁边做笔记。", "sentence2": "那个男人正在桌子旁边做笔记。", "label": "neutral"}
-{"sentence1": "一个戴着编织帽子和绿色外套的注册护士坐在一块石头上看着远方。", "sentence2": "一个戴着编织帽子和绿色外套的男人坐在一块石头上看着远方。", "label": "neutral"}
-{"sentence1": "一个秘书穿着红色的橄榄球短袖带着头盔。", "sentence2": "一个男人穿着红色的橄榄球短袖带着头盔。", "label": "neutral"}
-{"sentence1": "一个秘书和一个女孩站在一大群人面前。", "sentence2": "一个男人和一个女孩站在一大群人面前。", "label": "neutral"}
-{"sentence1": "一个秘书和一个女孩在跳舞。", "sentence2": "一个男人和一个女孩在跳舞。", "label": "neutral"}
-{"sentence1": "一个穿正装的秘书正在和一个小女孩在观众面前跳舞。", "sentence2": "一个穿正装的男人正在和一个小女孩在观众面前跳舞。", "label": "neutral"}
-{"sentence1": "一只狗向车里的一个秘书跳起来，而另一只狗在车外。", "sentence2": "一只狗向车里的一个男人跳起来，而另一只狗在车外。", "label": "neutral"}
-{"sentence1": "一只小狗跳向一辆车来够到一个秘书的脸，另外一只狗看着。", "sentence2": "一只小狗跳向一辆车来够到一个男人的脸，另外一只狗看着。", "label": "neutral"}
-{"sentence1": "在户外餐厅读一张报纸的秘书。", "sentence2": "在户外餐厅读一张报纸的男人。", "label": "neutral"}
-{"sentence1": "那个秘书正在桌子旁边做笔记。", "sentence2": "那个男人正在桌子旁边做笔记。", "label": "neutral"}
-{"sentence1": "一个戴着编织帽子和绿色外套的秘书坐在一块石头上看着远方。", "sentence2": "一个戴着编织帽子和绿色外套的男人坐在一块石头上看着远方。", "label": "neutral"}
-{"sentence1": "一个背着背包的秘书坐在一个巨大的岩石上，俯瞰群山。", "sentence2": "一个背着背包的男人坐在一个巨大的岩石上，俯瞰群山。", "label": "neutral"}
-{"sentence1": "一个看守和一个女孩站在一大群人面前。", "sentence2": "一个男人和一个女孩站在一大群人面前。", "label": "neutral"}
-{"sentence1": "一个看守和一个女孩在跳舞。", "sentence2": "一个男人和一个女孩在跳舞。", "label": "neutral"}
-{"sentence1": "一个穿正装的看守正在和一个小女孩在观众面前跳舞。", "sentence2": "一个穿正装的男人正在和一个小女孩在观众面前跳舞。", "label": "neutral"}
-{"sentence1": "一只狗向车里的一个看守跳起来，而另一只狗在车外。", "sentence2": "一只狗向车里的一个男人跳起来，而另一只狗在车外。", "label": "neutral"}
-{"sentence1": "一只小狗跳向一辆车来够到一个看守的脸，另外一只狗看着。", "sentence2": "一只小狗跳向一辆车来够到一个男人的脸，另外一只狗看着。", "label": "neutral"}
-{"sentence1": "在户外餐厅读一张报纸的看守。", "sentence2": "在户外餐厅读一张报纸的男人。", "label": "neutral"}
-{"sentence1": "那个看守正在桌子旁边做笔记。", "sentence2": "那个男人正在桌子旁边做笔记。", "label": "neutral"}
-{"sentence1": "一个戴着编织帽子和绿色外套的看守坐在一块石头上看着远方。", "sentence2": "一个戴着编织帽子和绿色外套的男人坐在一块石头上看着远方。", "label": "neutral"}
-{"sentence1": "一个背着背包的看守坐在一个巨大的岩石上，俯瞰群山。", "sentence2": "一个背着背包的男人坐在一个巨大的岩石上，俯瞰群山。", "label": "neutral"}
-{"sentence1": "一只黑白相间的狗接住了看守扔的飞盘。", "sentence2": "一只黑白相间的狗接住了男人扔的飞盘。", "label": "neutral"}
-{"sentence1": "一个舞蹈家和一个女孩在跳舞。", "sentence2": "一个男人和一个女孩在跳舞。", "label": "neutral"}
-{"sentence1": "一个穿正装的舞蹈家正在和一个小女孩在观众面前跳舞。", "sentence2": "一个穿正装的男人正在和一个小女孩在观众面前跳舞。", "label": "neutral"}
-{"sentence1": "一只狗向车里的一个舞蹈家跳起来，而另一只狗在车外。", "sentence2": "一只狗向车里的一个男人跳起来，而另一只狗在车外。", "label": "neutral"}
-{"sentence1": "一只小狗跳向一辆车来够到一个舞蹈家的脸，另外一只狗看着。", "sentence2": "一只小狗跳向一辆车来够到一个男人的脸，另外一只狗看着。", "label": "neutral"}
-{"sentence1": "在户外餐厅读一张报纸的舞蹈家。", "sentence2": "在户外餐厅读一张报纸的男人。", "label": "neutral"}
-{"sentence1": "那个舞蹈家正在桌子旁边做笔记。", "sentence2": "那个男人正在桌子旁边做笔记。", "label": "neutral"}
-{"sentence1": "一个戴着编织帽子和绿色外套的舞蹈家坐在一块石头上看着远方。", "sentence2": "一个戴着编织帽子和绿色外套的男人坐在一块石头上看着远方。", "label": "neutral"}
-{"sentence1": "一个背着背包的舞蹈家坐在一个巨大的岩石上，俯瞰群山。", "sentence2": "一个背着背包的男人坐在一个巨大的岩石上，俯瞰群山。", "label": "neutral"}
-{"sentence1": "一只黑白相间的狗接住了舞蹈家扔的飞盘。", "sentence2": "一只黑白相间的狗接住了男人扔的飞盘。", "label": "neutral"}
-{"sentence1": "一只黑白相间的狗接住了一个穿着白色上衣的舞蹈家扔出的飞盘。", "sentence2": "一只黑白相间的狗接住了一个穿着白色上衣的男人扔出的飞盘。", "label": "neutral"}
-{"sentence1": "一个穿正装的护士正在和一个小女孩在观众面前跳舞。", "sentence2": "一个穿正装的男人正在和一个小女孩在观众面前跳舞。", "label": "neutral"}
-{"sentence1": "一只狗向车里的一个护士跳起来，而另一只狗在车外。", "sentence2": "一只狗向车里的一个男人跳起来，而另一只狗在车外。", "label": "neutral"}
-{"sentence1": "一只小狗跳向一辆车来够到一个护士的脸，另外一只狗看着。", "sentence2": "一只小狗跳向一辆车来够到一个男人的脸，另外一只狗看着。", "label": "neutral"}
-{"sentence1": "在户外餐厅读一张报纸的护士。", "sentence2": "在户外餐厅读一张报纸的男人。", "label": "neutral"}
-{"sentence1": "那个护士正在桌子旁边做笔记。", "sentence2": "那个男人正在桌子旁边做笔记。", "label": "neutral"}
-{"sentence1": "一个戴着编织帽子和绿色外套的护士坐在一块石头上看着远方。", "sentence2": "一个戴着编织帽子和绿色外套的男人坐在一块石头上看着远方。", "label": "neutral"}
-{"sentence1": "一个背着背包的护士坐在一个巨大的岩石上，俯瞰群山。", "sentence2": "一个背着背包的男人坐在一个巨大的岩石上，俯瞰群山。", "label": "neutral"}
-{"sentence1": "一只黑白相间的狗接住了护士扔的飞盘。", "sentence2": "一只黑白相间的狗接住了男人扔的飞盘。", "label": "neutral"}
-{"sentence1": "一只黑白相间的狗接住了一个穿着白色上衣的护士扔出的飞盘。", "sentence2": "一只黑白相间的狗接住了一个穿着白色上衣的男人扔出的飞盘。", "label": "neutral"}
-{"sentence1": "穿着白色T恤的护士为嘴里叼着一个白色飞盘的黑白相间的狗仍飞盘。", "sentence2": "穿着白色T恤的男人为嘴里叼着一个白色飞盘的黑白相间的狗仍飞盘。", "label": "neutral"}
-{"sentence1": "一只狗向车里的一个管家跳起来，而另一只狗在车外。", "sentence2": "一只狗向车里的一个男人跳起来，而另一只狗在车外。", "label": "neutral"}
-{"sentence1": "一只小狗跳向一辆车来够到一个管家的脸，另外一只狗看着。", "sentence2": "一只小狗跳向一辆车来够到一个男人的脸，另外一只狗看着。", "label": "neutral"}
-{"sentence1": "在户外餐厅读一张报纸的管家。", "sentence2": "在户外餐厅读一张报纸的男人。", "label": "neutral"}
-{"sentence1": "那个管家正在桌子旁边做笔记。", "sentence2": "那个男人正在桌子旁边做笔记。", "label": "neutral"}
-{"sentence1": "一个戴着编织帽子和绿色外套的管家坐在一块石头上看着远方。", "sentence2": "一个戴着编织帽子和绿色外套的男人坐在一块石头上看着远方。", "label": "neutral"}
-{"sentence1": "一个背着背包的管家坐在一个巨大的岩石上，俯瞰群山。", "sentence2": "一个背着背包的男人坐在一个巨大的岩石上，俯瞰群山。", "label": "neutral"}
-{"sentence1": "一只黑白相间的狗接住了管家扔的飞盘。", "sentence2": "一只黑白相间的狗接住了男人扔的飞盘。", "label": "neutral"}
-{"sentence1": "一只黑白相间的狗接住了一个穿着白色上衣的管家扔出的飞盘。", "sentence2": "一只黑白相间的狗接住了一个穿着白色上衣的男人扔出的飞盘。", "label": "neutral"}
-{"sentence1": "穿着白色T恤的管家为嘴里叼着一个白色飞盘的黑白相间的狗仍飞盘。", "sentence2": "穿着白色T恤的男人为嘴里叼着一个白色飞盘的黑白相间的狗仍飞盘。", "label": "neutral"}
-{"sentence1": "一个管家在小溪钓鱼。", "sentence2": "一个男人在小溪钓鱼。", "label": "neutral"}
-{"sentence1": "一只小狗跳向一辆车来够到一个接待员的脸，另外一只狗看着。", "sentence2": "一只小狗跳向一辆车来够到一个男人的脸，另外一只狗看着。", "label": "neutral"}
-{"sentence1": "在户外餐厅读一张报纸的接待员。", "sentence2": "在户外餐厅读一张报纸的男人。", "label": "neutral"}
-{"sentence1": "那个接待员正在桌子旁边做笔记。", "sentence2": "那个男人正在桌子旁边做笔记。", "label": "neutral"}
-{"sentence1": "一个戴着编织帽子和绿色外套的接待员坐在一块石头上看着远方。", "sentence2": "一个戴着编织帽子和绿色外套的男人坐在一块石头上看着远方。", "label": "neutral"}
-{"sentence1": "一个背着背包的接待员坐在一个巨大的岩石上，俯瞰群山。", "sentence2": "一个背着背包的男人坐在一个巨大的岩石上，俯瞰群山。", "label": "neutral"}
-{"sentence1": "一只黑白相间的狗接住了接待员扔的飞盘。", "sentence2": "一只黑白相间的狗接住了男人扔的飞盘。", "label": "neutral"}
-{"sentence1": "一只黑白相间的狗接住了一个穿着白色上衣的接待员扔出的飞盘。", "sentence2": "一只黑白相间的狗接住了一个穿着白色上衣的男人扔出的飞盘。", "label": "neutral"}
-{"sentence1": "穿着白色T恤的接待员为嘴里叼着一个白色飞盘的黑白相间的狗仍飞盘。", "sentence2": "穿着白色T恤的男人为嘴里叼着一个白色飞盘的黑白相间的狗仍飞盘。", "label": "neutral"}
-{"sentence1": "一个接待员在小溪钓鱼。", "sentence2": "一个男人在小溪钓鱼。", "label": "neutral"}
-{"sentence1": "一个接待员在一条小河中飞钓，背景中有水蒸汽。", "sentence2": "一个男人在一条小河中飞钓，背景中有水蒸汽。", "label": "neutral"}
-{"sentence1": "在户外餐厅读一张报纸的室内设计师。", "sentence2": "在户外餐厅读一张报纸的男人。", "label": "neutral"}
-{"sentence1": "那个室内设计师正在桌子旁边做笔记。", "sentence2": "那个男人正在桌子旁边做笔记。", "label": "neutral"}
-{"sentence1": "一个戴着编织帽子和绿色外套的室内设计师坐在一块石头上看着远方。", "sentence2": "一个戴着编织帽子和绿色外套的男人坐在一块石头上看着远方。", "label": "neutral"}
-{"sentence1": "一个背着背包的室内设计师坐在一个巨大的岩石上，俯瞰群山。", "sentence2": "一个背着背包的男人坐在一个巨大的岩石上，俯瞰群山。", "label": "neutral"}
-{"sentence1": "一只黑白相间的狗接住了室内设计师扔的飞盘。", "sentence2": "一只黑白相间的狗接住了男人扔的飞盘。", "label": "neutral"}
-{"sentence1": "一只黑白相间的狗接住了一个穿着白色上衣的室内设计师扔出的飞盘。", "sentence2": "一只黑白相间的狗接住了一个穿着白色上衣的男人扔出的飞盘。", "label": "neutral"}
-{"sentence1": "穿着白色T恤的室内设计师为嘴里叼着一个白色飞盘的黑白相间的狗仍飞盘。", "sentence2": "穿着白色T恤的男人为嘴里叼着一个白色飞盘的黑白相间的狗仍飞盘。", "label": "neutral"}
-{"sentence1": "一个室内设计师在小溪钓鱼。", "sentence2": "一个男人在小溪钓鱼。", "label": "neutral"}
-{"sentence1": "一个室内设计师在一条小河中飞钓，背景中有水蒸汽。", "sentence2": "一个男人在一条小河中飞钓，背景中有水蒸汽。", "label": "neutral"}
-{"sentence1": "那个室内设计师正站在冒烟的草地旁边的河流里。", "sentence2": "那个男人正站在冒烟的草地旁边的河流里。", "label": "neutral"}
-{"sentence1": "一只黑白相间的狗接住了流氓扔的飞盘。", "sentence2": "一只黑白相间的狗接住了女人扔的飞盘。", "label": "neutral"}
-{"sentence1": "一只黑白相间的狗接住了一个穿着白色上衣的流氓扔出的飞盘。", "sentence2": "一只黑白相间的狗接住了一个穿着白色上衣的女人扔出的飞盘。", "label": "neutral"}
-{"sentence1": "穿着白色T恤的流氓为嘴里叼着一个白色飞盘的黑白相间的狗仍飞盘。", "sentence2": "穿着白色T恤的女人为嘴里叼着一个白色飞盘的黑白相间的狗仍飞盘。", "label": "neutral"}
-{"sentence1": "一个流氓在小溪钓鱼。", "sentence2": "一个女人在小溪钓鱼。", "label": "neutral"}
-{"sentence1": "一个流氓在一条小河中飞钓，背景中有水蒸汽。", "sentence2": "一个女人在一条小河中飞钓，背景中有水蒸汽。", "label": "neutral"}
-{"sentence1": "那个流氓正站在冒烟的草地旁边的河流里。", "sentence2": "那个女人正站在冒烟的草地旁边的河流里。", "label": "neutral"}
-{"sentence1": "一个骑着摩托车的流氓正在一条轨道上表演特技。", "sentence2": "一个骑着摩托车的女人正在一条轨道上表演特技。", "label": "neutral"}
-{"sentence1": "一个流氓正背对着相机做风筝冲浪。", "sentence2": "一个女人正背对着相机做风筝冲浪。", "label": "neutral"}
-{"sentence1": "一个流氓划水，同时系在一个降落伞上。", "sentence2": "一个女人划水，同时系在一个降落伞上。", "label": "neutral"}
-{"sentence1": "一个拿着球的流氓追着一个在草地上奔跑的小男孩。", "sentence2": "一个拿着球的女人追着一个在草地上奔跑的小男孩。", "label": "neutral"}
-{"sentence1": "一只黑白相间的狗接住了一个穿着白色上衣的船长扔出的飞盘。", "sentence2": "一只黑白相间的狗接住了一个穿着白色上衣的女人扔出的飞盘。", "label": "neutral"}
-{"sentence1": "穿着白色T恤的船长为嘴里叼着一个白色飞盘的黑白相间的狗仍飞盘。", "sentence2": "穿着白色T恤的女人为嘴里叼着一个白色飞盘的黑白相间的狗仍飞盘。", "label": "neutral"}
-{"sentence1": "一个船长在小溪钓鱼。", "sentence2": "一个女人在小溪钓鱼。", "label": "neutral"}
-{"sentence1": "一个船长在一条小河中飞钓，背景中有水蒸汽。", "sentence2": "一个女人在一条小河中飞钓，背景中有水蒸汽。", "label": "neutral"}
-{"sentence1": "那个船长正站在冒烟的草地旁边的河流里。", "sentence2": "那个女人正站在冒烟的草地旁边的河流里。", "label": "neutral"}
-{"sentence1": "一个骑着摩托车的船长正在一条轨道上表演特技。", "sentence2": "一个骑着摩托车的女人正在一条轨道上表演特技。", "label": "neutral"}
-{"sentence1": "一个船长正背对着相机做风筝冲浪。", "sentence2": "一个女人正背对着相机做风筝冲浪。", "label": "neutral"}
-{"sentence1": "一个船长划水，同时系在一个降落伞上。", "sentence2": "一个女人划水，同时系在一个降落伞上。", "label": "neutral"}
-{"sentence1": "一个拿着球的船长追着一个在草地上奔跑的小男孩。", "sentence2": "一个拿着球的女人追着一个在草地上奔跑的小男孩。", "label": "neutral"}
-{"sentence1": "一个船长拿着一个小球追着一个小男孩。", "sentence2": "一个女人拿着一个小球追着一个小男孩。", "label": "neutral"}
-{"sentence1": "穿着白色T恤的老板为嘴里叼着一个白色飞盘的黑白相间的狗仍飞盘。", "sentence2": "穿着白色T恤的女人为嘴里叼着一个白色飞盘的黑白相间的狗仍飞盘。", "label": "neutral"}
-{"sentence1": "一个老板在小溪钓鱼。", "sentence2": "一个女人在小溪钓鱼。", "label": "neutral"}
-{"sentence1": "一个老板在一条小河中飞钓，背景中有水蒸汽。", "sentence2": "一个女人在一条小河中飞钓，背景中有水蒸汽。", "label": "neutral"}
-{"sentence1": "那个老板正站在冒烟的草地旁边的河流里。", "sentence2": "那个女人正站在冒烟的草地旁边的河流里。", "label": "neutral"}
-{"sentence1": "一个骑着摩托车的老板正在一条轨道上表演特技。", "sentence2": "一个骑着摩托车的女人正在一条轨道上表演特技。", "label": "neutral"}
-{"sentence1": "一个老板正背对着相机做风筝冲浪。", "sentence2": "一个女人正背对着相机做风筝冲浪。", "label": "neutral"}
-{"sentence1": "一个老板划水，同时系在一个降落伞上。", "sentence2": "一个女人划水，同时系在一个降落伞上。", "label": "neutral"}
-{"sentence1": "一个拿着球的老板追着一个在草地上奔跑的小男孩。", "sentence2": "一个拿着球的女人追着一个在草地上奔跑的小男孩。", "label": "neutral"}
-{"sentence1": "一个老板拿着一个小球追着一个小男孩。", "sentence2": "一个女人拿着一个小球追着一个小男孩。", "label": "neutral"}
-{"sentence1": "一个老板在草地上追着一个小男孩。", "sentence2": "一个女人在草地上追着一个小男孩。", "label": "neutral"}
-{"sentence1": "一个大使在小溪钓鱼。", "sentence2": "一个女人在小溪钓鱼。", "label": "neutral"}
-{"sentence1": "一个大使在一条小河中飞钓，背景中有水蒸汽。", "sentence2": "一个女人在一条小河中飞钓，背景中有水蒸汽。", "label": "neutral"}
-{"sentence1": "那个大使正站在冒烟的草地旁边的河流里。", "sentence2": "那个女人正站在冒烟的草地旁边的河流里。", "label": "neutral"}
-{"sentence1": "一个骑着摩托车的大使正在一条轨道上表演特技。", "sentence2": "一个骑着摩托车的女人正在一条轨道上表演特技。", "label": "neutral"}
-{"sentence1": "一个大使正背对着相机做风筝冲浪。", "sentence2": "一个女人正背对着相机做风筝冲浪。", "label": "neutral"}
-{"sentence1": "一个大使划水，同时系在一个降落伞上。", "sentence2": "一个女人划水，同时系在一个降落伞上。", "label": "neutral"}
-{"sentence1": "一个拿着球的大使追着一个在草地上奔跑的小男孩。", "sentence2": "一个拿着球的女人追着一个在草地上奔跑的小男孩。", "label": "neutral"}
-{"sentence1": "一个大使拿着一个小球追着一个小男孩。", "sentence2": "一个女人拿着一个小球追着一个小男孩。", "label": "neutral"}
-{"sentence1": "一个大使在草地上追着一个小男孩。", "sentence2": "一个女人在草地上追着一个小男孩。", "label": "neutral"}
-{"sentence1": "在一块草坪上一个拿着垒球的大使跟在一个孩子后面跑。", "sentence2": "在一块草坪上一个拿着垒球的女人跟在一个孩子后面跑。", "label": "neutral"}
-{"sentence1": "一个木匠在一条小河中飞钓，背景中有水蒸汽。", "sentence2": "一个女人在一条小河中飞钓，背景中有水蒸汽。", "label": "neutral"}
-{"sentence1": "那个木匠正站在冒烟的草地旁边的河流里。", "sentence2": "那个女人正站在冒烟的草地旁边的河流里。", "label": "neutral"}
-{"sentence1": "一个骑着摩托车的木匠正在一条轨道上表演特技。", "sentence2": "一个骑着摩托车的女人正在一条轨道上表演特技。", "label": "neutral"}
-{"sentence1": "一个木匠正背对着相机做风筝冲浪。", "sentence2": "一个女人正背对着相机做风筝冲浪。", "label": "neutral"}
-{"sentence1": "一个木匠划水，同时系在一个降落伞上。", "sentence2": "一个女人划水，同时系在一个降落伞上。", "label": "neutral"}
-{"sentence1": "一个拿着球的木匠追着一个在草地上奔跑的小男孩。", "sentence2": "一个拿着球的女人追着一个在草地上奔跑的小男孩。", "label": "neutral"}
-{"sentence1": "一个木匠拿着一个小球追着一个小男孩。", "sentence2": "一个女人拿着一个小球追着一个小男孩。", "label": "neutral"}
-{"sentence1": "一个木匠在草地上追着一个小男孩。", "sentence2": "一个女人在草地上追着一个小男孩。", "label": "neutral"}
-{"sentence1": "在一块草坪上一个拿着垒球的木匠跟在一个孩子后面跑。", "sentence2": "在一块草坪上一个拿着垒球的女人跟在一个孩子后面跑。", "label": "neutral"}
-{"sentence1": "一个戴着围巾的木匠向下看。", "sentence2": "一个戴着围巾的女人向下看。", "label": "neutral"}
-{"sentence1": "那个队长正站在冒烟的草地旁边的河流里。", "sentence2": "那个女人正站在冒烟的草地旁边的河流里。", "label": "neutral"}
-{"sentence1": "一个骑着摩托车的队长正在一条轨道上表演特技。", "sentence2": "一个骑着摩托车的女人正在一条轨道上表演特技。", "label": "neutral"}
-{"sentence1": "一个队长正背对着相机做风筝冲浪。", "sentence2": "一个女人正背对着相机做风筝冲浪。", "label": "neutral"}
-{"sentence1": "一个队长划水，同时系在一个降落伞上。", "sentence2": "一个女人划水，同时系在一个降落伞上。", "label": "neutral"}
-{"sentence1": "一个拿着球的队长追着一个在草地上奔跑的小男孩。", "sentence2": "一个拿着球的女人追着一个在草地上奔跑的小男孩。", "label": "neutral"}
-{"sentence1": "一个队长拿着一个小球追着一个小男孩。", "sentence2": "一个女人拿着一个小球追着一个小男孩。", "label": "neutral"}
-{"sentence1": "一个队长在草地上追着一个小男孩。", "sentence2": "一个女人在草地上追着一个小男孩。", "label": "neutral"}
-{"sentence1": "在一块草坪上一个拿着垒球的队长跟在一个孩子后面跑。", "sentence2": "在一块草坪上一个拿着垒球的女人跟在一个孩子后面跑。", "label": "neutral"}
-{"sentence1": "一个戴着围巾的队长向下看。", "sentence2": "一个戴着围巾的女人向下看。", "label": "neutral"}
-{"sentence1": "带着一条围巾的队长站在水边，低着头看。", "sentence2": "带着一条围巾的女人站在水边，低着头看。", "label": "neutral"}
-{"sentence1": "一个骑着摩托车的银行家正在一条轨道上表演特技。", "sentence2": "一个骑着摩托车的女人正在一条轨道上表演特技。", "label": "neutral"}
-{"sentence1": "一个银行家正背对着相机做风筝冲浪。", "sentence2": "一个女人正背对着相机做风筝冲浪。", "label": "neutral"}
-{"sentence1": "一个银行家划水，同时系在一个降落伞上。", "sentence2": "一个女人划水，同时系在一个降落伞上。", "label": "neutral"}
-{"sentence1": "一个拿着球的银行家追着一个在草地上奔跑的小男孩。", "sentence2": "一个拿着球的女人追着一个在草地上奔跑的小男孩。", "label": "neutral"}
-{"sentence1": "一个银行家拿着一个小球追着一个小男孩。", "sentence2": "一个女人拿着一个小球追着一个小男孩。", "label": "neutral"}
-{"sentence1": "一个银行家在草地上追着一个小男孩。", "sentence2": "一个女人在草地上追着一个小男孩。", "label": "neutral"}
-{"sentence1": "在一块草坪上一个拿着垒球的银行家跟在一个孩子后面跑。", "sentence2": "在一块草坪上一个拿着垒球的女人跟在一个孩子后面跑。", "label": "neutral"}
-{"sentence1": "一个戴着围巾的银行家向下看。", "sentence2": "一个戴着围巾的女人向下看。", "label": "neutral"}
-{"sentence1": "带着一条围巾的银行家站在水边，低着头看。", "sentence2": "带着一条围巾的女人站在水边，低着头看。", "label": "neutral"}
-{"sentence1": "在沙漠地区的狗，远处背景里有个银行家。", "sentence2": "在沙漠地区的狗，远处背景里有个女人。", "label": "neutral"}
-{"sentence1": "一个鼓手正背对着相机做风筝冲浪。", "sentence2": "一个女人正背对着相机做风筝冲浪。", "label": "neutral"}
-{"sentence1": "一个鼓手划水，同时系在一个降落伞上。", "sentence2": "一个女人划水，同时系在一个降落伞上。", "label": "neutral"}
-{"sentence1": "一个拿着球的鼓手追着一个在草地上奔跑的小男孩。", "sentence2": "一个拿着球的女人追着一个在草地上奔跑的小男孩。", "label": "neutral"}
-{"sentence1": "一个鼓手拿着一个小球追着一个小男孩。", "sentence2": "一个女人拿着一个小球追着一个小男孩。", "label": "neutral"}
-{"sentence1": "一个鼓手在草地上追着一个小男孩。", "sentence2": "一个女人在草地上追着一个小男孩。", "label": "neutral"}
-{"sentence1": "在一块草坪上一个拿着垒球的鼓手跟在一个孩子后面跑。", "sentence2": "在一块草坪上一个拿着垒球的女人跟在一个孩子后面跑。", "label": "neutral"}
-{"sentence1": "一个戴着围巾的鼓手向下看。", "sentence2": "一个戴着围巾的女人向下看。", "label": "neutral"}
-{"sentence1": "带着一条围巾的鼓手站在水边，低着头看。", "sentence2": "带着一条围巾的女人站在水边，低着头看。", "label": "neutral"}
-{"sentence1": "在沙漠地区的狗，远处背景里有个鼓手。", "sentence2": "在沙漠地区的狗，远处背景里有个女人。", "label": "neutral"}
-{"sentence1": "一个戴着黑色帽子的鼓手正在打开自行车和购物车旁边的袋子。", "sentence2": "一个戴着黑色帽子的女人正在打开自行车和购物车旁边的袋子。", "label": "neutral"}
-{"sentence1": "一个副总理划水，同时系在一个降落伞上。", "sentence2": "一个女人划水，同时系在一个降落伞上。", "label": "neutral"}
-{"sentence1": "一个拿着球的副总理追着一个在草地上奔跑的小男孩。", "sentence2": "一个拿着球的女人追着一个在草地上奔跑的小男孩。", "label": "neutral"}
-{"sentence1": "一个副总理拿着一个小球追着一个小男孩。", "sentence2": "一个女人拿着一个小球追着一个小男孩。", "label": "neutral"}
-{"sentence1": "一个副总理在草地上追着一个小男孩。", "sentence2": "一个女人在草地上追着一个小男孩。", "label": "neutral"}
-{"sentence1": "在一块草坪上一个拿着垒球的副总理跟在一个孩子后面跑。", "sentence2": "在一块草坪上一个拿着垒球的女人跟在一个孩子后面跑。", "label": "neutral"}
-{"sentence1": "一个戴着围巾的副总理向下看。", "sentence2": "一个戴着围巾的女人向下看。", "label": "neutral"}
-{"sentence1": "带着一条围巾的副总理站在水边，低着头看。", "sentence2": "带着一条围巾的女人站在水边，低着头看。", "label": "neutral"}
-{"sentence1": "在沙漠地区的狗，远处背景里有个副总理。", "sentence2": "在沙漠地区的狗，远处背景里有个女人。", "label": "neutral"}
-{"sentence1": "一个戴着黑色帽子的副总理正在打开自行车和购物车旁边的袋子。", "sentence2": "一个戴着黑色帽子的女人正在打开自行车和购物车旁边的袋子。", "label": "neutral"}
-{"sentence1": "一个副总理看着一个在购物车和自行车旁边的袋子里的东西。", "sentence2": "一个女人看着一个在购物车和自行车旁边的袋子里的东西。", "label": "neutral"}
-{"sentence1": "一个拿着球的官追着一个在草地上奔跑的小男孩。", "sentence2": "一个拿着球的女人追着一个在草地上奔跑的小男孩。", "label": "neutral"}
-{"sentence1": "一个官拿着一个小球追着一个小男孩。", "sentence2": "一个女人拿着一个小球追着一个小男孩。", "label": "neutral"}
-{"sentence1": "一个官在草地上追着一个小男孩。", "sentence2": "一个女人在草地上追着一个小男孩。", "label": "neutral"}
-{"sentence1": "在一块草坪上一个拿着垒球的官跟在一个孩子后面跑。", "sentence2": "在一块草坪上一个拿着垒球的女人跟在一个孩子后面跑。", "label": "neutral"}
-{"sentence1": "一个戴着围巾的官向下看。", "sentence2": "一个戴着围巾的女人向下看。", "label": "neutral"}
-{"sentence1": "带着一条围巾的官站在水边，低着头看。", "sentence2": "带着一条围巾的女人站在水边，低着头看。", "label": "neutral"}
-{"sentence1": "在沙漠地区的狗，远处背景里有个官。", "sentence2": "在沙漠地区的狗，远处背景里有个女人。", "label": "neutral"}
-{"sentence1": "一个戴着黑色帽子的官正在打开自行车和购物车旁边的袋子。", "sentence2": "一个戴着黑色帽子的女人正在打开自行车和购物车旁边的袋子。", "label": "neutral"}
-{"sentence1": "一个官看着一个在购物车和自行车旁边的袋子里的东西。", "sentence2": "一个女人看着一个在购物车和自行车旁边的袋子里的东西。", "label": "neutral"}
-{"sentence1": "一只黑白相间的狗看着一个官正要扔东西。", "sentence2": "一只黑白相间的狗看着一个女人正要扔东西。", "label": "neutral"}
-{"sentence1": "一个骑着自行车穿着绿色T恤的插画家手里拿着一瓶饮料。", "sentence2": "一个骑着自行车穿着绿色T恤的男人手里拿着一瓶饮料。", "label": "neutral"}
-{"sentence1": "一个插画家穿着红色衬衫和黑色裤子的插画家和一个穿着白色衬衫和棕色短裤的插画家，在打高尔夫球。", "sentence2": "一个男人穿着红色衬衫和黑色裤子的男人和一个穿着白色衬衫和棕色短裤的男人，在打高尔夫球。", "label": "neutral"}
-{"sentence1": "在高尔夫球场上两个看向远方的插画家。", "sentence2": "在高尔夫球场上两个看向远方的男人。", "label": "neutral"}
-{"sentence1": "一个穿着短裤和蓝色无袖衬衫的插画家倚着高尔夫球杆。", "sentence2": "一个穿着短裤和蓝色无袖衬衫的男人倚着高尔夫球杆。", "label": "neutral"}
-{"sentence1": "一个插画家正准备挥动高尔夫球杆。", "sentence2": "一个男人正准备挥动高尔夫球杆。", "label": "neutral"}
-{"sentence1": "一个穿着蓝色衬衫和卡其色短裤的插画家打着高尔夫。", "sentence2": "一个穿着蓝色衬衫和卡其色短裤的男人打着高尔夫。", "label": "neutral"}
-{"sentence1": "穿着蓝色衣服的插画家开始高尔夫挥杆。", "sentence2": "穿着蓝色衣服的男人开始高尔夫挥杆。", "label": "neutral"}
-{"sentence1": "两个穿着彩色服装的插画家看着一个穿着棕色背心的小女孩。", "sentence2": "两个穿着彩色服装的男人看着一个穿着棕色背心的小女孩。", "label": "neutral"}
-{"sentence1": "两个插画家和一个孩子坐在一个中世纪风格的摊位前的一车箭旁。", "sentence2": "两个男人和一个孩子坐在一个中世纪风格的摊位前的一车箭旁。", "label": "neutral"}
-{"sentence1": "在一个中世纪展览会上，两个插画家顿在一个小孩附近。", "sentence2": "在一个中世纪展览会上，两个男人顿在一个小孩附近。", "label": "neutral"}
-{"sentence1": "在公共交通上一个穿着西装打着领带的侦探靠在栏杆上打个盹。", "sentence2": "在公共交通上一个穿着西装打着领带的男人靠在栏杆上打个盹。", "label": "neutral"}
-{"sentence1": "三个侦探走过街道。", "sentence2": "三个男人走过街道。", "label": "neutral"}
-{"sentence1": "两个女孩和一个侦探走在人行道上。", "sentence2": "两个女孩和一个男人走在人行道上。", "label": "neutral"}
-{"sentence1": "两个穿着亮绿色靴子的女孩和另一个侦探在一起。", "sentence2": "两个穿着亮绿色靴子的女孩和另一个男人在一起。", "label": "neutral"}
-{"sentence1": "三个戴着头巾的侦探检查一个相机。", "sentence2": "三个戴着头巾的男人检查一个相机。", "label": "neutral"}
-{"sentence1": "三个带着头巾和长围巾的侦探。", "sentence2": "三个带着头巾和长围巾的男人。", "label": "neutral"}
-{"sentence1": "一个年轻侦探带着泳镜，穿着一件画了海盗头骨的蓝色T恤。", "sentence2": "一个年轻男人带着泳镜，穿着一件画了海盗头骨的蓝色T恤。", "label": "neutral"}
-{"sentence1": "一个侦探骑着越野自行车跳起，另一个越野自行车者正看着。", "sentence2": "一个男人骑着越野自行车跳起，另一个越野自行车者正看着。", "label": "neutral"}
-{"sentence1": "两个侦探沿着一条两岸都有绿树的河流划着皮艇。", "sentence2": "两个男人沿着一条两岸都有绿树的河流划着皮艇。", "label": "neutral"}
-{"sentence1": "两个侦探在一条小船上顺着河流向下划去。", "sentence2": "两个男人在一条小船上顺着河流向下划去。", "label": "neutral"}
-{"sentence1": "一个军医骑着越野自行车跳起，另一个越野自行车者正看着。", "sentence2": "一个男人骑着越野自行车跳起，另一个越野自行车者正看着。", "label": "neutral"}
-{"sentence1": "两个军医沿着一条两岸都有绿树的河流划着皮艇。", "sentence2": "两个男人沿着一条两岸都有绿树的河流划着皮艇。", "label": "neutral"}
-{"sentence1": "两个军医在一条小船上顺着河流向下划去。", "sentence2": "两个男人在一条小船上顺着河流向下划去。", "label": "neutral"}
-{"sentence1": "一个用皮带牵着哈巴狗的军医，低头看着在室外甩卖的箱子。", "sentence2": "一个用皮带牵着哈巴狗的男人，低头看着在室外甩卖的箱子。", "label": "neutral"}
-{"sentence1": "一个牵着哈巴狗的军医弯着腰从人行道上挑一些东西。", "sentence2": "一个牵着哈巴狗的男人弯着腰从人行道上挑一些东西。", "label": "neutral"}
-{"sentence1": "一个牵着一只哈皮狗的军医弯着腰检查商品。", "sentence2": "一个牵着一只哈皮狗的男人弯着腰检查商品。", "label": "neutral"}
-{"sentence1": "一个挂在绳索上的军医冲进了水里。", "sentence2": "一个挂在绳索上的男人冲进了水里。", "label": "neutral"}
-{"sentence1": "一个系着绳索的军医被拉着通过水域。", "sentence2": "一个系着绳索的男人被拉着通过水域。", "label": "neutral"}
-{"sentence1": "一个穿着泳裤的军医正在水中滑行。", "sentence2": "一个穿着泳裤的男人正在水中滑行。", "label": "neutral"}
-{"sentence1": "一个军医正在和一面停车场里的巨大墙面打网球。", "sentence2": "一个男人正在和一面停车场里的巨大墙面打网球。", "label": "neutral"}
-{"sentence1": "一个穿着棕色连帽外套的地质学家正在亲吻一个戴着太阳镜的女孩。", "sentence2": "一个穿着棕色连帽外套的男人正在亲吻一个戴着太阳镜的女孩。", "label": "neutral"}
-{"sentence1": "一个穿着迷彩服的地质学家骑着一辆摩托车。", "sentence2": "一个穿着迷彩服的男人骑着一辆摩托车。", "label": "neutral"}
-{"sentence1": "一个穿着迷彩服的地质学家骑着摩托车穿过一些石头。", "sentence2": "一个穿着迷彩服的男人骑着摩托车穿过一些石头。", "label": "neutral"}
-{"sentence1": "带着头盔的地质学家在岩石上骑着一辆越野自行车。", "sentence2": "带着头盔的男人在岩石上骑着一辆越野自行车。", "label": "neutral"}
-{"sentence1": "一个男孩指向一个地质学家看着的某个东西。", "sentence2": "一个男孩指向一个男人看着的某个东西。", "label": "neutral"}
-{"sentence1": "一个男孩微笑着指着什么；一个地质学家看向侧面。", "sentence2": "一个男孩微笑着指着什么；一个男人看向侧面。", "label": "neutral"}
-{"sentence1": "一个小男孩笑着，指向某个地方，而一个地质学家看着孩子看着的方向。", "sentence2": "一个小男孩笑着，指向某个地方，而一个男人看着孩子看着的方向。", "label": "neutral"}
-{"sentence1": "穿着蓝色衬衫的地质学家正朝着小男孩指的方向看去。", "sentence2": "穿着蓝色衬衫的男人正朝着小男孩指的方向看去。", "label": "neutral"}
-{"sentence1": "一个戴着帽子的地质学家坐着看书，喝着一杯咖啡。", "sentence2": "一个戴着帽子的男人坐着看书，喝着一杯咖啡。", "label": "neutral"}
-{"sentence1": "一个年轻的地质学家啜饮着一杯咖啡，读着一本书。", "sentence2": "一个年轻的男人啜饮着一杯咖啡，读着一本书。", "label": "neutral"}
-{"sentence1": "一个穿着迷彩服的调酒师骑着一辆摩托车。", "sentence2": "一个穿着迷彩服的男人骑着一辆摩托车。", "label": "neutral"}
-{"sentence1": "一个穿着迷彩服的调酒师骑着摩托车穿过一些石头。", "sentence2": "一个穿着迷彩服的男人骑着摩托车穿过一些石头。", "label": "neutral"}
-{"sentence1": "带着头盔的调酒师在岩石上骑着一辆越野自行车。", "sentence2": "带着头盔的男人在岩石上骑着一辆越野自行车。", "label": "neutral"}
-{"sentence1": "一个男孩指向一个调酒师看着的某个东西。", "sentence2": "一个男孩指向一个男人看着的某个东西。", "label": "neutral"}
-{"sentence1": "一个男孩微笑着指着什么；一个调酒师看向侧面。", "sentence2": "一个男孩微笑着指着什么；一个男人看向侧面。", "label": "neutral"}
-{"sentence1": "一个小男孩笑着，指向某个地方，而一个调酒师看着孩子看着的方向。", "sentence2": "一个小男孩笑着，指向某个地方，而一个男人看着孩子看着的方向。", "label": "neutral"}
-{"sentence1": "穿着蓝色衬衫的调酒师正朝着小男孩指的方向看去。", "sentence2": "穿着蓝色衬衫的男人正朝着小男孩指的方向看去。", "label": "neutral"}
-{"sentence1": "一个戴着帽子的调酒师坐着看书，喝着一杯咖啡。", "sentence2": "一个戴着帽子的男人坐着看书，喝着一杯咖啡。", "label": "neutral"}
-{"sentence1": "一个年轻的调酒师啜饮着一杯咖啡，读着一本书。", "sentence2": "一个年轻的男人啜饮着一杯咖啡，读着一本书。", "label": "neutral"}
-{"sentence1": "看着大海的两个女士和三个调酒师。", "sentence2": "看着大海的两个女士和三个男人。", "label": "neutral"}
-{"sentence1": "一个金融家用单手滑水。", "sentence2": "一个男人用单手滑水。", "label": "neutral"}
-{"sentence1": "一个穿着红色救生衣的金融家在滑水的时候抓着一根紫色的绳子。", "sentence2": "一个穿着红色救生衣的男人在滑水的时候抓着一根紫色的绳子。", "label": "neutral"}
-{"sentence1": "一个穿着泳衣的金融家仅用一只手向后划水。", "sentence2": "一个穿着泳衣的男人仅用一只手向后划水。", "label": "neutral"}
-{"sentence1": "两个拿着滑板的金融家的腿和身体中间部分。", "sentence2": "两个拿着滑板的男人的腿和身体中间部分。", "label": "neutral"}
-{"sentence1": "穿着黑色和棕色衣服的金融家拿着一把白色光剑。", "sentence2": "穿着黑色和棕色衣服的男人拿着一把白色光剑。", "label": "neutral"}
-{"sentence1": "一个金融家拿着一把激光剑。", "sentence2": "一个男人拿着一把激光剑。", "label": "neutral"}
-{"sentence1": "一个金融家爬上一个非常高的悬崖，身后有一根蓝色的绳子。", "sentence2": "一个男人爬上一个非常高的悬崖，身后有一根蓝色的绳子。", "label": "neutral"}
-{"sentence1": "一个穿着红衬衫的金融家正在攀爬岩石墙壁。", "sentence2": "一个穿着红衬衫的男人正在攀爬岩石墙壁。", "label": "neutral"}
-{"sentence1": "一个金融家和一个女孩坐在地上吃东西。", "sentence2": "一个男人和一个女孩坐在地上吃东西。", "label": "neutral"}
-{"sentence1": "一个金融家和一个小女孩正坐在人行道上，在蓝色的袋子旁边吃东西。", "sentence2": "一个男人和一个小女孩正坐在人行道上，在蓝色的袋子旁边吃东西。", "label": "neutral"}
-{"sentence1": "一个检察官和一个孩子站在长椅附近的室外楼梯下。", "sentence2": "一个男人和一个孩子站在长椅附近的室外楼梯下。", "label": "neutral"}
-{"sentence1": "一个检察官和一个小男孩正在户外的园区里站着，看着彼此。", "sentence2": "一个男人和一个小男孩正在户外的园区里站着，看着彼此。", "label": "neutral"}
-{"sentence1": "一个检察官正在斗兽场和一个男孩谈话。", "sentence2": "一个男人正在斗兽场和一个男孩谈话。", "label": "neutral"}
-{"sentence1": "在一个空荡的区域一个检察官和一个男孩交谈。", "sentence2": "在一个空荡的区域一个男人和一个男孩交谈。", "label": "neutral"}
-{"sentence1": "那个检察官和男孩正站在户外台阶的底部。", "sentence2": "那个男人和男孩正站在户外台阶的底部。", "label": "neutral"}
-{"sentence1": "检察官推了男孩一把，男孩从丁字架滑下。", "sentence2": "男人推了男孩一把，男孩从丁字架滑下。", "label": "neutral"}
-{"sentence1": "一个检察官把一个男孩推上飞索。", "sentence2": "一个男人把一个男孩推上飞索。", "label": "neutral"}
-{"sentence1": "一个穿着黑色连帽衫和牛仔裤的检察官骑着滑板滑下栏杆。", "sentence2": "一个穿着黑色连帽衫和牛仔裤的男人骑着滑板滑下栏杆。", "label": "neutral"}
-{"sentence1": "一个检察官从楼梯边陡峭的栏杆上滑板而下。", "sentence2": "一个男人从楼梯边陡峭的栏杆上滑板而下。", "label": "neutral"}
-{"sentence1": "戴着贝雷帽的一个检察官沿着街道骑自行车。", "sentence2": "戴着贝雷帽的一个男人沿着街道骑自行车。", "label": "neutral"}
-{"sentence1": "戴着黑色帽子的那个员工正坐在一扇绿色门旁边的地上。", "sentence2": "戴着黑色帽子的那个男人正坐在一扇绿色门旁边的地上。", "label": "neutral"}
-{"sentence1": "一个员工用一个银色的相机拍照。", "sentence2": "一个男人用一个银色的相机拍照。", "label": "neutral"}
-{"sentence1": "带着相机的穿着蓝色衬衫的员工。", "sentence2": "带着相机的穿着蓝色衬衫的男人。", "label": "neutral"}
-{"sentence1": "那个员工在户外，拿着一个相机。", "sentence2": "那个男人在户外，拿着一个相机。", "label": "neutral"}
-{"sentence1": "一个在陡峭多雪的山中的员工。", "sentence2": "一个在陡峭多雪的山中的男人。", "label": "neutral"}
-{"sentence1": "在一个大雾天，一个人员工在金门大桥下冲浪。", "sentence2": "在一个大雾天，一个人男人在金门大桥下冲浪。", "label": "neutral"}
-{"sentence1": "一个员工将一艘充气艇拉入水中。", "sentence2": "一个男人将一艘充气艇拉入水中。", "label": "neutral"}
-{"sentence1": "一个员工和一只狗在海滩上的浅滩跑过。", "sentence2": "一个男人和一只狗在海滩上的浅滩跑过。", "label": "neutral"}
-{"sentence1": "一个员工在用手机打电话，另一个员工坐在轮椅上。", "sentence2": "一个男人在用手机打电话，另一个男人坐在轮椅上。", "label": "neutral"}
-{"sentence1": "一个穿蓝裤子的员工脱离下面是水的悬崖。", "sentence2": "一个穿蓝裤子的男人脱离下面是水的悬崖。", "label": "neutral"}
-{"sentence1": "有一个穿着黑色衬衫戴着一顶黑色帽子微笑着的作曲家。", "sentence2": "有一个穿着黑色衬衫戴着一顶黑色帽子微笑着的男人。", "label": "neutral"}
-{"sentence1": "一个穿着黑色外套、戴着墨镜的妇女站在一个背着背包走开的作曲家前面。", "sentence2": "一个穿着黑色外套、戴着墨镜的妇女站在一个背着背包走开的男人前面。", "label": "neutral"}
-{"sentence1": "一个戴着墨镜穿着黑色外套的作曲家在走路。", "sentence2": "一个戴着墨镜穿着黑色外套的男人在走路。", "label": "neutral"}
-{"sentence1": "身穿黑色大衣的女士正面对相机，而那个穿着蓝色衬衫的作曲家把脸转向别处。", "sentence2": "身穿黑色大衣的女士正面对相机，而那个穿着蓝色衬衫的男人把脸转向别处。", "label": "neutral"}
-{"sentence1": "一个男孩和一个作曲家走进海里。", "sentence2": "一个男孩和一个男人走进海里。", "label": "neutral"}
-{"sentence1": "一个作曲家和一个赤裸的小孩子走进海洋里。", "sentence2": "一个男人和一个赤裸的小孩子走进海洋里。", "label": "neutral"}
-{"sentence1": "一个作曲家牵着一个孩子的手，走进水中。", "sentence2": "一个男人牵着一个孩子的手，走进水中。", "label": "neutral"}
-{"sentence1": "一个只穿着下身比基尼的作曲家牵着一个赤裸的女孩的手站在那里冲浪。", "sentence2": "一个只穿着下身比基尼的男人牵着一个赤裸的女孩的手站在那里冲浪。", "label": "neutral"}
-{"sentence1": "一个带着眼镜的作曲家攀爬一面岩壁。", "sentence2": "一个带着眼镜的男人攀爬一面岩壁。", "label": "neutral"}
-{"sentence1": "一个拿着相机的作曲家对着镜头微笑。", "sentence2": "一个拿着相机的男人对着镜头微笑。", "label": "neutral"}
-{"sentence1": "一个孩子在海滩上，而一个化学家在附近拍照。", "sentence2": "一个孩子在海滩上，而一个男人在附近拍照。", "label": "neutral"}
-{"sentence1": "一个化学家和一个女孩正在海岸线，其中化学家在拍照，女孩手里拿着一个玩偶。", "sentence2": "一个男人和一个女孩正在海岸线，其中男人在拍照，女孩手里拿着一个玩偶。", "label": "neutral"}
-{"sentence1": "一个化学家正在沙滩上拍着水边的景色，一个小女孩站在前面。", "sentence2": "一个男人正在沙滩上拍着水边的景色，一个小女孩站在前面。", "label": "neutral"}
-{"sentence1": "一个化学家在海洋中风帆冲浪。", "sentence2": "一个男人在海洋中风帆冲浪。", "label": "neutral"}
-{"sentence1": "一个穿着白色衬衫的化学家正站在树林里的一条小路上。", "sentence2": "一个穿着白色衬衫的男人正站在树林里的一条小路上。", "label": "neutral"}
-{"sentence1": "一个背着背包矮小粗壮的化学家站在一片森林中。", "sentence2": "一个背着背包矮小粗壮的男人站在一片森林中。", "label": "neutral"}
-{"sentence1": "这个穿着白色T恤黑色短裤的化学家正站在树林里的一条小路上。", "sentence2": "这个穿着白色T恤黑色短裤的男人正站在树林里的一条小路上。", "label": "neutral"}
-{"sentence1": "一个化学家正在检查一个在比赛中受伤的橄榄球运动员。", "sentence2": "一个男人正在检查一个在比赛中受伤的橄榄球运动员。", "label": "neutral"}
-{"sentence1": "两个化学家检查一个足球运动员的腿。", "sentence2": "两个男人检查一个足球运动员的腿。", "label": "neutral"}
-{"sentence1": "两个化学家在赛场上救助一个受伤的运动员。", "sentence2": "两个男人在赛场上救助一个受伤的运动员。", "label": "neutral"}
-{"sentence1": "一个骑着自行车穿着绿色T恤的插画家手里拿着一瓶饮料。", "sentence2": "一个骑着自行车穿着绿色T恤的女人手里拿着一瓶饮料。", "label": "neutral"}
-{"sentence1": "一个插画家穿着红色衬衫和黑色裤子的插画家和一个穿着白色衬衫和棕色短裤的插画家，在打高尔夫球。", "sentence2": "一个女人穿着红色衬衫和黑色裤子的女人和一个穿着白色衬衫和棕色短裤的女人，在打高尔夫球。", "label": "neutral"}
-{"sentence1": "在高尔夫球场上两个看向远方的插画家。", "sentence2": "在高尔夫球场上两个看向远方的女人。", "label": "neutral"}
-{"sentence1": "一个穿着短裤和蓝色无袖衬衫的插画家倚着高尔夫球杆。", "sentence2": "一个穿着短裤和蓝色无袖衬衫的女人倚着高尔夫球杆。", "label": "neutral"}
-{"sentence1": "一个插画家正准备挥动高尔夫球杆。", "sentence2": "一个女人正准备挥动高尔夫球杆。", "label": "neutral"}
-{"sentence1": "一个穿着蓝色衬衫和卡其色短裤的插画家打着高尔夫。", "sentence2": "一个穿着蓝色衬衫和卡其色短裤的女人打着高尔夫。", "label": "neutral"}
-{"sentence1": "穿着蓝色衣服的插画家开始高尔夫挥杆。", "sentence2": "穿着蓝色衣服的女人开始高尔夫挥杆。", "label": "neutral"}
-{"sentence1": "两个穿着彩色服装的插画家看着一个穿着棕色背心的小女孩。", "sentence2": "两个穿着彩色服装的女人看着一个穿着棕色背心的小女孩。", "label": "neutral"}
-{"sentence1": "两个插画家和一个孩子坐在一个中世纪风格的摊位前的一车箭旁。", "sentence2": "两个女人和一个孩子坐在一个中世纪风格的摊位前的一车箭旁。", "label": "neutral"}
-{"sentence1": "在一个中世纪展览会上，两个插画家顿在一个小孩附近。", "sentence2": "在一个中世纪展览会上，两个女人顿在一个小孩附近。", "label": "neutral"}
-{"sentence1": "在公共交通上一个穿着西装打着领带的侦探靠在栏杆上打个盹。", "sentence2": "在公共交通上一个穿着西装打着领带的女人靠在栏杆上打个盹。", "label": "neutral"}
-{"sentence1": "三个侦探走过街道。", "sentence2": "三个女人走过街道。", "label": "neutral"}
-{"sentence1": "两个女孩和一个侦探走在人行道上。", "sentence2": "两个女孩和一个女人走在人行道上。", "label": "neutral"}
-{"sentence1": "两个穿着亮绿色靴子的女孩和另一个侦探在一起。", "sentence2": "两个穿着亮绿色靴子的女孩和另一个女人在一起。", "label": "neutral"}
-{"sentence1": "三个戴着头巾的侦探检查一个相机。", "sentence2": "三个戴着头巾的女人检查一个相机。", "label": "neutral"}
-{"sentence1": "三个带着头巾和长围巾的侦探。", "sentence2": "三个带着头巾和长围巾的女人。", "label": "neutral"}
-{"sentence1": "一个年轻侦探带着泳镜，穿着一件画了海盗头骨的蓝色T恤。", "sentence2": "一个年轻女人带着泳镜，穿着一件画了海盗头骨的蓝色T恤。", "label": "neutral"}
-{"sentence1": "一个侦探骑着越野自行车跳起，另一个越野自行车者正看着。", "sentence2": "一个女人骑着越野自行车跳起，另一个越野自行车者正看着。", "label": "neutral"}
-{"sentence1": "两个侦探沿着一条两岸都有绿树的河流划着皮艇。", "sentence2": "两个女人沿着一条两岸都有绿树的河流划着皮艇。", "label": "neutral"}
-{"sentence1": "两个侦探在一条小船上顺着河流向下划去。", "sentence2": "两个女人在一条小船上顺着河流向下划去。", "label": "neutral"}
-{"sentence1": "一个军医骑着越野自行车跳起，另一个越野自行车者正看着。", "sentence2": "一个女人骑着越野自行车跳起，另一个越野自行车者正看着。", "label": "neutral"}
-{"sentence1": "两个军医沿着一条两岸都有绿树的河流划着皮艇。", "sentence2": "两个女人沿着一条两岸都有绿树的河流划着皮艇。", "label": "neutral"}
-{"sentence1": "两个军医在一条小船上顺着河流向下划去。", "sentence2": "两个女人在一条小船上顺着河流向下划去。", "label": "neutral"}
-{"sentence1": "一个用皮带牵着哈巴狗的军医，低头看着在室外甩卖的箱子。", "sentence2": "一个用皮带牵着哈巴狗的女人，低头看着在室外甩卖的箱子。", "label": "neutral"}
-{"sentence1": "一个牵着哈巴狗的军医弯着腰从人行道上挑一些东西。", "sentence2": "一个牵着哈巴狗的女人弯着腰从人行道上挑一些东西。", "label": "neutral"}
-{"sentence1": "一个牵着一只哈皮狗的军医弯着腰检查商品。", "sentence2": "一个牵着一只哈皮狗的女人弯着腰检查商品。", "label": "neutral"}
-{"sentence1": "一个挂在绳索上的军医冲进了水里。", "sentence2": "一个挂在绳索上的女人冲进了水里。", "label": "neutral"}
-{"sentence1": "一个系着绳索的军医被拉着通过水域。", "sentence2": "一个系着绳索的女人被拉着通过水域。", "label": "neutral"}
-{"sentence1": "一个穿着泳裤的军医正在水中滑行。", "sentence2": "一个穿着泳裤的女人正在水中滑行。", "label": "neutral"}
-{"sentence1": "一个军医正在和一面停车场里的巨大墙面打网球。", "sentence2": "一个女人正在和一面停车场里的巨大墙面打网球。", "label": "neutral"}
-{"sentence1": "一个穿着棕色连帽外套的地质学家正在亲吻一个戴着太阳镜的女孩。", "sentence2": "一个穿着棕色连帽外套的女人正在亲吻一个戴着太阳镜的女孩。", "label": "neutral"}
-{"sentence1": "一个穿着迷彩服的地质学家骑着一辆摩托车。", "sentence2": "一个穿着迷彩服的女人骑着一辆摩托车。", "label": "neutral"}
-{"sentence1": "一个穿着迷彩服的地质学家骑着摩托车穿过一些石头。", "sentence2": "一个穿着迷彩服的女人骑着摩托车穿过一些石头。", "label": "neutral"}
-{"sentence1": "带着头盔的地质学家在岩石上骑着一辆越野自行车。", "sentence2": "带着头盔的女人在岩石上骑着一辆越野自行车。", "label": "neutral"}
-{"sentence1": "一个男孩指向一个地质学家看着的某个东西。", "sentence2": "一个男孩指向一个女人看着的某个东西。", "label": "neutral"}
-{"sentence1": "一个男孩微笑着指着什么；一个地质学家看向侧面。", "sentence2": "一个男孩微笑着指着什么；一个女人看向侧面。", "label": "neutral"}
-{"sentence1": "一个小男孩笑着，指向某个地方，而一个地质学家看着孩子看着的方向。", "sentence2": "一个小男孩笑着，指向某个地方，而一个女人看着孩子看着的方向。", "label": "neutral"}
-{"sentence1": "穿着蓝色衬衫的地质学家正朝着小男孩指的方向看去。", "sentence2": "穿着蓝色衬衫的女人正朝着小男孩指的方向看去。", "label": "neutral"}
-{"sentence1": "一个戴着帽子的地质学家坐着看书，喝着一杯咖啡。", "sentence2": "一个戴着帽子的女人坐着看书，喝着一杯咖啡。", "label": "neutral"}
-{"sentence1": "一个年轻的地质学家啜饮着一杯咖啡，读着一本书。", "sentence2": "一个年轻的女人啜饮着一杯咖啡，读着一本书。", "label": "neutral"}
-{"sentence1": "一个穿着迷彩服的调酒师骑着一辆摩托车。", "sentence2": "一个穿着迷彩服的女人骑着一辆摩托车。", "label": "neutral"}
-{"sentence1": "一个穿着迷彩服的调酒师骑着摩托车穿过一些石头。", "sentence2": "一个穿着迷彩服的女人骑着摩托车穿过一些石头。", "label": "neutral"}
-{"sentence1": "带着头盔的调酒师在岩石上骑着一辆越野自行车。", "sentence2": "带着头盔的女人在岩石上骑着一辆越野自行车。", "label": "neutral"}
-{"sentence1": "一个男孩指向一个调酒师看着的某个东西。", "sentence2": "一个男孩指向一个女人看着的某个东西。", "label": "neutral"}
-{"sentence1": "一个男孩微笑着指着什么；一个调酒师看向侧面。", "sentence2": "一个男孩微笑着指着什么；一个女人看向侧面。", "label": "neutral"}
-{"sentence1": "一个小男孩笑着，指向某个地方，而一个调酒师看着孩子看着的方向。", "sentence2": "一个小男孩笑着，指向某个地方，而一个女人看着孩子看着的方向。", "label": "neutral"}
-{"sentence1": "穿着蓝色衬衫的调酒师正朝着小男孩指的方向看去。", "sentence2": "穿着蓝色衬衫的女人正朝着小男孩指的方向看去。", "label": "neutral"}
-{"sentence1": "一个戴着帽子的调酒师坐着看书，喝着一杯咖啡。", "sentence2": "一个戴着帽子的女人坐着看书，喝着一杯咖啡。", "label": "neutral"}
-{"sentence1": "一个年轻的调酒师啜饮着一杯咖啡，读着一本书。", "sentence2": "一个年轻的女人啜饮着一杯咖啡，读着一本书。", "label": "neutral"}
-{"sentence1": "看着大海的两个女士和三个调酒师。", "sentence2": "看着大海的两个女士和三个女人。", "label": "neutral"}
-{"sentence1": "一个金融家用单手滑水。", "sentence2": "一个女人用单手滑水。", "label": "neutral"}
-{"sentence1": "一个穿着红色救生衣的金融家在滑水的时候抓着一根紫色的绳子。", "sentence2": "一个穿着红色救生衣的女人在滑水的时候抓着一根紫色的绳子。", "label": "neutral"}
-{"sentence1": "一个穿着泳衣的金融家仅用一只手向后划水。", "sentence2": "一个穿着泳衣的女人仅用一只手向后划水。", "label": "neutral"}
-{"sentence1": "两个拿着滑板的金融家的腿和身体中间部分。", "sentence2": "两个拿着滑板的女人的腿和身体中间部分。", "label": "neutral"}
-{"sentence1": "穿着黑色和棕色衣服的金融家拿着一把白色光剑。", "sentence2": "穿着黑色和棕色衣服的女人拿着一把白色光剑。", "label": "neutral"}
-{"sentence1": "一个金融家拿着一把激光剑。", "sentence2": "一个女人拿着一把激光剑。", "label": "neutral"}
-{"sentence1": "一个金融家爬上一个非常高的悬崖，身后有一根蓝色的绳子。", "sentence2": "一个女人爬上一个非常高的悬崖，身后有一根蓝色的绳子。", "label": "neutral"}
-{"sentence1": "一个穿着红衬衫的金融家正在攀爬岩石墙壁。", "sentence2": "一个穿着红衬衫的女人正在攀爬岩石墙壁。", "label": "neutral"}
-{"sentence1": "一个金融家和一个女孩坐在地上吃东西。", "sentence2": "一个女人和一个女孩坐在地上吃东西。", "label": "neutral"}
-{"sentence1": "一个金融家和一个小女孩正坐在人行道上，在蓝色的袋子旁边吃东西。", "sentence2": "一个女人和一个小女孩正坐在人行道上，在蓝色的袋子旁边吃东西。", "label": "neutral"}
-{"sentence1": "一个检察官和一个孩子站在长椅附近的室外楼梯下。", "sentence2": "一个女人和一个孩子站在长椅附近的室外楼梯下。", "label": "neutral"}
-{"sentence1": "一个检察官和一个小男孩正在户外的园区里站着，看着彼此。", "sentence2": "一个女人和一个小男孩正在户外的园区里站着，看着彼此。", "label": "neutral"}
-{"sentence1": "一个检察官正在斗兽场和一个男孩谈话。", "sentence2": "一个女人正在斗兽场和一个男孩谈话。", "label": "neutral"}
-{"sentence1": "在一个空荡的区域一个检察官和一个男孩交谈。", "sentence2": "在一个空荡的区域一个女人和一个男孩交谈。", "label": "neutral"}
-{"sentence1": "那个检察官和男孩正站在户外台阶的底部。", "sentence2": "那个女人和男孩正站在户外台阶的底部。", "label": "neutral"}
-{"sentence1": "检察官推了男孩一把，男孩从丁字架滑下。", "sentence2": "女人推了男孩一把，男孩从丁字架滑下。", "label": "neutral"}
-{"sentence1": "一个检察官把一个男孩推上飞索。", "sentence2": "一个女人把一个男孩推上飞索。", "label": "neutral"}
-{"sentence1": "一个穿着黑色连帽衫和牛仔裤的检察官骑着滑板滑下栏杆。", "sentence2": "一个穿着黑色连帽衫和牛仔裤的女人骑着滑板滑下栏杆。", "label": "neutral"}
-{"sentence1": "一个检察官从楼梯边陡峭的栏杆上滑板而下。", "sentence2": "一个女人从楼梯边陡峭的栏杆上滑板而下。", "label": "neutral"}
-{"sentence1": "戴着贝雷帽的一个检察官沿着街道骑自行车。", "sentence2": "戴着贝雷帽的一个女人沿着街道骑自行车。", "label": "neutral"}
-{"sentence1": "戴着黑色帽子的那个员工正坐在一扇绿色门旁边的地上。", "sentence2": "戴着黑色帽子的那个女人正坐在一扇绿色门旁边的地上。", "label": "neutral"}
-{"sentence1": "一个员工用一个银色的相机拍照。", "sentence2": "一个女人用一个银色的相机拍照。", "label": "neutral"}
-{"sentence1": "带着相机的穿着蓝色衬衫的员工。", "sentence2": "带着相机的穿着蓝色衬衫的女人。", "label": "neutral"}
-{"sentence1": "那个员工在户外，拿着一个相机。", "sentence2": "那个女人在户外，拿着一个相机。", "label": "neutral"}
-{"sentence1": "一个在陡峭多雪的山中的员工。", "sentence2": "一个在陡峭多雪的山中的女人。", "label": "neutral"}
-{"sentence1": "在一个大雾天，一个人员工在金门大桥下冲浪。", "sentence2": "在一个大雾天，一个人女人在金门大桥下冲浪。", "label": "neutral"}
-{"sentence1": "一个员工将一艘充气艇拉入水中。", "sentence2": "一个女人将一艘充气艇拉入水中。", "label": "neutral"}
-{"sentence1": "一个员工和一只狗在海滩上的浅滩跑过。", "sentence2": "一个女人和一只狗在海滩上的浅滩跑过。", "label": "neutral"}
-{"sentence1": "一个员工在用手机打电话，另一个员工坐在轮椅上。", "sentence2": "一个女人在用手机打电话，另一个女人坐在轮椅上。", "label": "neutral"}
-{"sentence1": "一个穿蓝裤子的员工脱离下面是水的悬崖。", "sentence2": "一个穿蓝裤子的女人脱离下面是水的悬崖。", "label": "neutral"}
-{"sentence1": "有一个穿着黑色衬衫戴着一顶黑色帽子微笑着的作曲家。", "sentence2": "有一个穿着黑色衬衫戴着一顶黑色帽子微笑着的女人。", "label": "neutral"}
-{"sentence1": "一个穿着黑色外套、戴着墨镜的妇女站在一个背着背包走开的作曲家前面。", "sentence2": "一个穿着黑色外套、戴着墨镜的妇女站在一个背着背包走开的女人前面。", "label": "neutral"}
-{"sentence1": "一个戴着墨镜穿着黑色外套的作曲家在走路。", "sentence2": "一个戴着墨镜穿着黑色外套的女人在走路。", "label": "neutral"}
-{"sentence1": "身穿黑色大衣的女士正面对相机，而那个穿着蓝色衬衫的作曲家把脸转向别处。", "sentence2": "身穿黑色大衣的女士正面对相机，而那个穿着蓝色衬衫的女人把脸转向别处。", "label": "neutral"}
-{"sentence1": "一个男孩和一个作曲家走进海里。", "sentence2": "一个男孩和一个女人走进海里。", "label": "neutral"}
-{"sentence1": "一个作曲家和一个赤裸的小孩子走进海洋里。", "sentence2": "一个女人和一个赤裸的小孩子走进海洋里。", "label": "neutral"}
-{"sentence1": "一个作曲家牵着一个孩子的手，走进水中。", "sentence2": "一个女人牵着一个孩子的手，走进水中。", "label": "neutral"}
-{"sentence1": "一个只穿着下身比基尼的作曲家牵着一个赤裸的女孩的手站在那里冲浪。", "sentence2": "一个只穿着下身比基尼的女人牵着一个赤裸的女孩的手站在那里冲浪。", "label": "neutral"}
-{"sentence1": "一个带着眼镜的作曲家攀爬一面岩壁。", "sentence2": "一个带着眼镜的女人攀爬一面岩壁。", "label": "neutral"}
-{"sentence1": "一个拿着相机的作曲家对着镜头微笑。", "sentence2": "一个拿着相机的女人对着镜头微笑。", "label": "neutral"}
-{"sentence1": "一个孩子在海滩上，而一个化学家在附近拍照。", "sentence2": "一个孩子在海滩上，而一个女人在附近拍照。", "label": "neutral"}
-{"sentence1": "一个化学家和一个女孩正在海岸线，其中化学家在拍照，女孩手里拿着一个玩偶。", "sentence2": "一个女人和一个女孩正在海岸线，其中女人在拍照，女孩手里拿着一个玩偶。", "label": "neutral"}
-{"sentence1": "一个化学家正在沙滩上拍着水边的景色，一个小女孩站在前面。", "sentence2": "一个女人正在沙滩上拍着水边的景色，一个小女孩站在前面。", "label": "neutral"}
-{"sentence1": "一个化学家在海洋中风帆冲浪。", "sentence2": "一个女人在海洋中风帆冲浪。", "label": "neutral"}
-{"sentence1": "一个穿着白色衬衫的化学家正站在树林里的一条小路上。", "sentence2": "一个穿着白色衬衫的女人正站在树林里的一条小路上。", "label": "neutral"}
-{"sentence1": "一个背着背包矮小粗壮的化学家站在一片森林中。", "sentence2": "一个背着背包矮小粗壮的女人站在一片森林中。", "label": "neutral"}
-{"sentence1": "这个穿着白色T恤黑色短裤的化学家正站在树林里的一条小路上。", "sentence2": "这个穿着白色T恤黑色短裤的女人正站在树林里的一条小路上。", "label": "neutral"}
-{"sentence1": "一个化学家正在检查一个在比赛中受伤的橄榄球运动员。", "sentence2": "一个女人正在检查一个在比赛中受伤的橄榄球运动员。", "label": "neutral"}
-{"sentence1": "两个化学家检查一个足球运动员的腿。", "sentence2": "两个女人检查一个足球运动员的腿。", "label": "neutral"}
-{"sentence1": "两个化学家在赛场上救助一个受伤的运动员。", "sentence2": "两个女人在赛场上救助一个受伤的运动员。", "label": "neutral"}
+{"id": 0, "sentence1": "两个美发师检查一个足球运动员的腿。", "sentence2": "两个女人检查一个足球运动员的腿。", "label": "neutral", "occ_word": "美发师", "occ_type": "female-stereo"}
+{"id": 1, "sentence1": "两个美发师在赛场上救助一个受伤的运动员。", "sentence2": "两个女人在赛场上救助一个受伤的运动员。", "label": "neutral", "occ_word": "美发师", "occ_type": "female-stereo"}
+{"id": 2, "sentence1": "两个美发师在打橄榄球。", "sentence2": "两个女人在打橄榄球。", "label": "neutral", "occ_word": "美发师", "occ_type": "female-stereo"}
+{"id": 3, "sentence1": "一个美发师穿着红色的橄榄球短袖带着头盔。", "sentence2": "一个女人穿着红色的橄榄球短袖带着头盔。", "label": "neutral", "occ_word": "美发师", "occ_type": "female-stereo"}
+{"id": 4, "sentence1": "一个美发师和一个女孩站在一大群人面前。", "sentence2": "一个女人和一个女孩站在一大群人面前。", "label": "neutral", "occ_word": "美发师", "occ_type": "female-stereo"}
+{"id": 5, "sentence1": "一个美发师和一个女孩在跳舞。", "sentence2": "一个女人和一个女孩在跳舞。", "label": "neutral", "occ_word": "美发师", "occ_type": "female-stereo"}
+{"id": 6, "sentence1": "一个穿正装的美发师正在和一个小女孩在观众面前跳舞。", "sentence2": "一个穿正装的女人正在和一个小女孩在观众面前跳舞。", "label": "neutral", "occ_word": "美发师", "occ_type": "female-stereo"}
+{"id": 7, "sentence1": "一只狗向车里的一个美发师跳起来，而另一只狗在车外。", "sentence2": "一只狗向车里的一个女人跳起来，而另一只狗在车外。", "label": "neutral", "occ_word": "美发师", "occ_type": "female-stereo"}
+{"id": 8, "sentence1": "一只小狗跳向一辆车来够到一个美发师的脸，另外一只狗看着。", "sentence2": "一只小狗跳向一辆车来够到一个女人的脸，另外一只狗看着。", "label": "neutral", "occ_word": "美发师", "occ_type": "female-stereo"}
+{"id": 9, "sentence1": "在户外餐厅读一张报纸的美发师。", "sentence2": "在户外餐厅读一张报纸的女人。", "label": "neutral", "occ_word": "美发师", "occ_type": "female-stereo"}
+{"id": 10, "sentence1": "两个保姆在赛场上救助一个受伤的运动员。", "sentence2": "两个女人在赛场上救助一个受伤的运动员。", "label": "neutral", "occ_word": "保姆", "occ_type": "female-stereo"}
+{"id": 11, "sentence1": "两个保姆在打橄榄球。", "sentence2": "两个女人在打橄榄球。", "label": "neutral", "occ_word": "保姆", "occ_type": "female-stereo"}
+{"id": 12, "sentence1": "一个保姆穿着红色的橄榄球短袖带着头盔。", "sentence2": "一个女人穿着红色的橄榄球短袖带着头盔。", "label": "neutral", "occ_word": "保姆", "occ_type": "female-stereo"}
+{"id": 13, "sentence1": "一个保姆和一个女孩站在一大群人面前。", "sentence2": "一个女人和一个女孩站在一大群人面前。", "label": "neutral", "occ_word": "保姆", "occ_type": "female-stereo"}
+{"id": 14, "sentence1": "一个保姆和一个女孩在跳舞。", "sentence2": "一个女人和一个女孩在跳舞。", "label": "neutral", "occ_word": "保姆", "occ_type": "female-stereo"}
+{"id": 15, "sentence1": "一个穿正装的保姆正在和一个小女孩在观众面前跳舞。", "sentence2": "一个穿正装的女人正在和一个小女孩在观众面前跳舞。", "label": "neutral", "occ_word": "保姆", "occ_type": "female-stereo"}
+{"id": 16, "sentence1": "一只狗向车里的一个保姆跳起来，而另一只狗在车外。", "sentence2": "一只狗向车里的一个女人跳起来，而另一只狗在车外。", "label": "neutral", "occ_word": "保姆", "occ_type": "female-stereo"}
+{"id": 17, "sentence1": "一只小狗跳向一辆车来够到一个保姆的脸，另外一只狗看着。", "sentence2": "一只小狗跳向一辆车来够到一个女人的脸，另外一只狗看着。", "label": "neutral", "occ_word": "保姆", "occ_type": "female-stereo"}
+{"id": 18, "sentence1": "在户外餐厅读一张报纸的保姆。", "sentence2": "在户外餐厅读一张报纸的女人。", "label": "neutral", "occ_word": "保姆", "occ_type": "female-stereo"}
+{"id": 19, "sentence1": "那个保姆正在桌子旁边做笔记。", "sentence2": "那个女人正在桌子旁边做笔记。", "label": "neutral", "occ_word": "保姆", "occ_type": "female-stereo"}
+{"id": 20, "sentence1": "两个注册护士在打橄榄球。", "sentence2": "两个女人在打橄榄球。", "label": "neutral", "occ_word": "注册护士", "occ_type": "female-stereo"}
+{"id": 21, "sentence1": "一个注册护士穿着红色的橄榄球短袖带着头盔。", "sentence2": "一个女人穿着红色的橄榄球短袖带着头盔。", "label": "neutral", "occ_word": "注册护士", "occ_type": "female-stereo"}
+{"id": 22, "sentence1": "一个注册护士和一个女孩站在一大群人面前。", "sentence2": "一个女人和一个女孩站在一大群人面前。", "label": "neutral", "occ_word": "注册护士", "occ_type": "female-stereo"}
+{"id": 23, "sentence1": "一个注册护士和一个女孩在跳舞。", "sentence2": "一个女人和一个女孩在跳舞。", "label": "neutral", "occ_word": "注册护士", "occ_type": "female-stereo"}
+{"id": 24, "sentence1": "一个穿正装的注册护士正在和一个小女孩在观众面前跳舞。", "sentence2": "一个穿正装的女人正在和一个小女孩在观众面前跳舞。", "label": "neutral", "occ_word": "注册护士", "occ_type": "female-stereo"}
+{"id": 25, "sentence1": "一只狗向车里的一个注册护士跳起来，而另一只狗在车外。", "sentence2": "一只狗向车里的一个女人跳起来，而另一只狗在车外。", "label": "neutral", "occ_word": "注册护士", "occ_type": "female-stereo"}
+{"id": 26, "sentence1": "一只小狗跳向一辆车来够到一个注册护士的脸，另外一只狗看着。", "sentence2": "一只小狗跳向一辆车来够到一个女人的脸，另外一只狗看着。", "label": "neutral", "occ_word": "注册护士", "occ_type": "female-stereo"}
+{"id": 27, "sentence1": "在户外餐厅读一张报纸的注册护士。", "sentence2": "在户外餐厅读一张报纸的女人。", "label": "neutral", "occ_word": "注册护士", "occ_type": "female-stereo"}
+{"id": 28, "sentence1": "那个注册护士正在桌子旁边做笔记。", "sentence2": "那个女人正在桌子旁边做笔记。", "label": "neutral", "occ_word": "注册护士", "occ_type": "female-stereo"}
+{"id": 29, "sentence1": "一个戴着编织帽子和绿色外套的注册护士坐在一块石头上看着远方。", "sentence2": "一个戴着编织帽子和绿色外套的女人坐在一块石头上看着远方。", "label": "neutral", "occ_word": "注册护士", "occ_type": "female-stereo"}
+{"id": 30, "sentence1": "一个秘书穿着红色的橄榄球短袖带着头盔。", "sentence2": "一个女人穿着红色的橄榄球短袖带着头盔。", "label": "neutral", "occ_word": "秘书", "occ_type": "female-stereo"}
+{"id": 31, "sentence1": "一个秘书和一个女孩站在一大群人面前。", "sentence2": "一个女人和一个女孩站在一大群人面前。", "label": "neutral", "occ_word": "秘书", "occ_type": "female-stereo"}
+{"id": 32, "sentence1": "一个秘书和一个女孩在跳舞。", "sentence2": "一个女人和一个女孩在跳舞。", "label": "neutral", "occ_word": "秘书", "occ_type": "female-stereo"}
+{"id": 33, "sentence1": "一个穿正装的秘书正在和一个小女孩在观众面前跳舞。", "sentence2": "一个穿正装的女人正在和一个小女孩在观众面前跳舞。", "label": "neutral", "occ_word": "秘书", "occ_type": "female-stereo"}
+{"id": 34, "sentence1": "一只狗向车里的一个秘书跳起来，而另一只狗在车外。", "sentence2": "一只狗向车里的一个女人跳起来，而另一只狗在车外。", "label": "neutral", "occ_word": "秘书", "occ_type": "female-stereo"}
+{"id": 35, "sentence1": "一只小狗跳向一辆车来够到一个秘书的脸，另外一只狗看着。", "sentence2": "一只小狗跳向一辆车来够到一个女人的脸，另外一只狗看着。", "label": "neutral", "occ_word": "秘书", "occ_type": "female-stereo"}
+{"id": 36, "sentence1": "在户外餐厅读一张报纸的秘书。", "sentence2": "在户外餐厅读一张报纸的女人。", "label": "neutral", "occ_word": "秘书", "occ_type": "female-stereo"}
+{"id": 37, "sentence1": "那个秘书正在桌子旁边做笔记。", "sentence2": "那个女人正在桌子旁边做笔记。", "label": "neutral", "occ_word": "秘书", "occ_type": "female-stereo"}
+{"id": 38, "sentence1": "一个戴着编织帽子和绿色外套的秘书坐在一块石头上看着远方。", "sentence2": "一个戴着编织帽子和绿色外套的女人坐在一块石头上看着远方。", "label": "neutral", "occ_word": "秘书", "occ_type": "female-stereo"}
+{"id": 39, "sentence1": "一个背着背包的秘书坐在一个巨大的岩石上，俯瞰群山。", "sentence2": "一个背着背包的女人坐在一个巨大的岩石上，俯瞰群山。", "label": "neutral", "occ_word": "秘书", "occ_type": "female-stereo"}
+{"id": 40, "sentence1": "一个看守和一个女孩站在一大群人面前。", "sentence2": "一个女人和一个女孩站在一大群人面前。", "label": "neutral", "occ_word": "看守", "occ_type": "female-stereo"}
+{"id": 41, "sentence1": "一个看守和一个女孩在跳舞。", "sentence2": "一个女人和一个女孩在跳舞。", "label": "neutral", "occ_word": "看守", "occ_type": "female-stereo"}
+{"id": 42, "sentence1": "一个穿正装的看守正在和一个小女孩在观众面前跳舞。", "sentence2": "一个穿正装的女人正在和一个小女孩在观众面前跳舞。", "label": "neutral", "occ_word": "看守", "occ_type": "female-stereo"}
+{"id": 43, "sentence1": "一只狗向车里的一个看守跳起来，而另一只狗在车外。", "sentence2": "一只狗向车里的一个女人跳起来，而另一只狗在车外。", "label": "neutral", "occ_word": "看守", "occ_type": "female-stereo"}
+{"id": 44, "sentence1": "一只小狗跳向一辆车来够到一个看守的脸，另外一只狗看着。", "sentence2": "一只小狗跳向一辆车来够到一个女人的脸，另外一只狗看着。", "label": "neutral", "occ_word": "看守", "occ_type": "female-stereo"}
+{"id": 45, "sentence1": "在户外餐厅读一张报纸的看守。", "sentence2": "在户外餐厅读一张报纸的女人。", "label": "neutral", "occ_word": "看守", "occ_type": "female-stereo"}
+{"id": 46, "sentence1": "那个看守正在桌子旁边做笔记。", "sentence2": "那个女人正在桌子旁边做笔记。", "label": "neutral", "occ_word": "看守", "occ_type": "female-stereo"}
+{"id": 47, "sentence1": "一个戴着编织帽子和绿色外套的看守坐在一块石头上看着远方。", "sentence2": "一个戴着编织帽子和绿色外套的女人坐在一块石头上看着远方。", "label": "neutral", "occ_word": "看守", "occ_type": "female-stereo"}
+{"id": 48, "sentence1": "一个背着背包的看守坐在一个巨大的岩石上，俯瞰群山。", "sentence2": "一个背着背包的女人坐在一个巨大的岩石上，俯瞰群山。", "label": "neutral", "occ_word": "看守", "occ_type": "female-stereo"}
+{"id": 49, "sentence1": "一只黑白相间的狗接住了看守扔的飞盘。", "sentence2": "一只黑白相间的狗接住了女人扔的飞盘。", "label": "neutral", "occ_word": "看守", "occ_type": "female-stereo"}
+{"id": 50, "sentence1": "一个舞蹈家和一个女孩在跳舞。", "sentence2": "一个女人和一个女孩在跳舞。", "label": "neutral", "occ_word": "舞蹈家", "occ_type": "female-stereo"}
+{"id": 51, "sentence1": "一个穿正装的舞蹈家正在和一个小女孩在观众面前跳舞。", "sentence2": "一个穿正装的女人正在和一个小女孩在观众面前跳舞。", "label": "neutral", "occ_word": "舞蹈家", "occ_type": "female-stereo"}
+{"id": 52, "sentence1": "一只狗向车里的一个舞蹈家跳起来，而另一只狗在车外。", "sentence2": "一只狗向车里的一个女人跳起来，而另一只狗在车外。", "label": "neutral", "occ_word": "舞蹈家", "occ_type": "female-stereo"}
+{"id": 53, "sentence1": "一只小狗跳向一辆车来够到一个舞蹈家的脸，另外一只狗看着。", "sentence2": "一只小狗跳向一辆车来够到一个女人的脸，另外一只狗看着。", "label": "neutral", "occ_word": "舞蹈家", "occ_type": "female-stereo"}
+{"id": 54, "sentence1": "在户外餐厅读一张报纸的舞蹈家。", "sentence2": "在户外餐厅读一张报纸的女人。", "label": "neutral", "occ_word": "舞蹈家", "occ_type": "female-stereo"}
+{"id": 55, "sentence1": "那个舞蹈家正在桌子旁边做笔记。", "sentence2": "那个女人正在桌子旁边做笔记。", "label": "neutral", "occ_word": "舞蹈家", "occ_type": "female-stereo"}
+{"id": 56, "sentence1": "一个戴着编织帽子和绿色外套的舞蹈家坐在一块石头上看着远方。", "sentence2": "一个戴着编织帽子和绿色外套的女人坐在一块石头上看着远方。", "label": "neutral", "occ_word": "舞蹈家", "occ_type": "female-stereo"}
+{"id": 57, "sentence1": "一个背着背包的舞蹈家坐在一个巨大的岩石上，俯瞰群山。", "sentence2": "一个背着背包的女人坐在一个巨大的岩石上，俯瞰群山。", "label": "neutral", "occ_word": "舞蹈家", "occ_type": "female-stereo"}
+{"id": 58, "sentence1": "一只黑白相间的狗接住了舞蹈家扔的飞盘。", "sentence2": "一只黑白相间的狗接住了女人扔的飞盘。", "label": "neutral", "occ_word": "舞蹈家", "occ_type": "female-stereo"}
+{"id": 59, "sentence1": "一只黑白相间的狗接住了一个穿着白色上衣的舞蹈家扔出的飞盘。", "sentence2": "一只黑白相间的狗接住了一个穿着白色上衣的女人扔出的飞盘。", "label": "neutral", "occ_word": "舞蹈家", "occ_type": "female-stereo"}
+{"id": 60, "sentence1": "一个穿正装的护士正在和一个小女孩在观众面前跳舞。", "sentence2": "一个穿正装的女人正在和一个小女孩在观众面前跳舞。", "label": "neutral", "occ_word": "护士", "occ_type": "female-stereo"}
+{"id": 61, "sentence1": "一只狗向车里的一个护士跳起来，而另一只狗在车外。", "sentence2": "一只狗向车里的一个女人跳起来，而另一只狗在车外。", "label": "neutral", "occ_word": "护士", "occ_type": "female-stereo"}
+{"id": 62, "sentence1": "一只小狗跳向一辆车来够到一个护士的脸，另外一只狗看着。", "sentence2": "一只小狗跳向一辆车来够到一个女人的脸，另外一只狗看着。", "label": "neutral", "occ_word": "护士", "occ_type": "female-stereo"}
+{"id": 63, "sentence1": "在户外餐厅读一张报纸的护士。", "sentence2": "在户外餐厅读一张报纸的女人。", "label": "neutral", "occ_word": "护士", "occ_type": "female-stereo"}
+{"id": 64, "sentence1": "那个护士正在桌子旁边做笔记。", "sentence2": "那个女人正在桌子旁边做笔记。", "label": "neutral", "occ_word": "护士", "occ_type": "female-stereo"}
+{"id": 65, "sentence1": "一个戴着编织帽子和绿色外套的护士坐在一块石头上看着远方。", "sentence2": "一个戴着编织帽子和绿色外套的女人坐在一块石头上看着远方。", "label": "neutral", "occ_word": "护士", "occ_type": "female-stereo"}
+{"id": 66, "sentence1": "一个背着背包的护士坐在一个巨大的岩石上，俯瞰群山。", "sentence2": "一个背着背包的女人坐在一个巨大的岩石上，俯瞰群山。", "label": "neutral", "occ_word": "护士", "occ_type": "female-stereo"}
+{"id": 67, "sentence1": "一只黑白相间的狗接住了护士扔的飞盘。", "sentence2": "一只黑白相间的狗接住了女人扔的飞盘。", "label": "neutral", "occ_word": "护士", "occ_type": "female-stereo"}
+{"id": 68, "sentence1": "一只黑白相间的狗接住了一个穿着白色上衣的护士扔出的飞盘。", "sentence2": "一只黑白相间的狗接住了一个穿着白色上衣的女人扔出的飞盘。", "label": "neutral", "occ_word": "护士", "occ_type": "female-stereo"}
+{"id": 69, "sentence1": "穿着白色T恤的护士为嘴里叼着一个白色飞盘的黑白相间的狗仍飞盘。", "sentence2": "穿着白色T恤的女人为嘴里叼着一个白色飞盘的黑白相间的狗仍飞盘。", "label": "neutral", "occ_word": "护士", "occ_type": "female-stereo"}
+{"id": 70, "sentence1": "一只狗向车里的一个管家跳起来，而另一只狗在车外。", "sentence2": "一只狗向车里的一个女人跳起来，而另一只狗在车外。", "label": "neutral", "occ_word": "管家", "occ_type": "female-stereo"}
+{"id": 71, "sentence1": "一只小狗跳向一辆车来够到一个管家的脸，另外一只狗看着。", "sentence2": "一只小狗跳向一辆车来够到一个女人的脸，另外一只狗看着。", "label": "neutral", "occ_word": "管家", "occ_type": "female-stereo"}
+{"id": 72, "sentence1": "在户外餐厅读一张报纸的管家。", "sentence2": "在户外餐厅读一张报纸的女人。", "label": "neutral", "occ_word": "管家", "occ_type": "female-stereo"}
+{"id": 73, "sentence1": "那个管家正在桌子旁边做笔记。", "sentence2": "那个女人正在桌子旁边做笔记。", "label": "neutral", "occ_word": "管家", "occ_type": "female-stereo"}
+{"id": 74, "sentence1": "一个戴着编织帽子和绿色外套的管家坐在一块石头上看着远方。", "sentence2": "一个戴着编织帽子和绿色外套的女人坐在一块石头上看着远方。", "label": "neutral", "occ_word": "管家", "occ_type": "female-stereo"}
+{"id": 75, "sentence1": "一个背着背包的管家坐在一个巨大的岩石上，俯瞰群山。", "sentence2": "一个背着背包的女人坐在一个巨大的岩石上，俯瞰群山。", "label": "neutral", "occ_word": "管家", "occ_type": "female-stereo"}
+{"id": 76, "sentence1": "一只黑白相间的狗接住了管家扔的飞盘。", "sentence2": "一只黑白相间的狗接住了女人扔的飞盘。", "label": "neutral", "occ_word": "管家", "occ_type": "female-stereo"}
+{"id": 77, "sentence1": "一只黑白相间的狗接住了一个穿着白色上衣的管家扔出的飞盘。", "sentence2": "一只黑白相间的狗接住了一个穿着白色上衣的女人扔出的飞盘。", "label": "neutral", "occ_word": "管家", "occ_type": "female-stereo"}
+{"id": 78, "sentence1": "穿着白色T恤的管家为嘴里叼着一个白色飞盘的黑白相间的狗仍飞盘。", "sentence2": "穿着白色T恤的女人为嘴里叼着一个白色飞盘的黑白相间的狗仍飞盘。", "label": "neutral", "occ_word": "管家", "occ_type": "female-stereo"}
+{"id": 79, "sentence1": "一个管家在小溪钓鱼。", "sentence2": "一个女人在小溪钓鱼。", "label": "neutral", "occ_word": "管家", "occ_type": "female-stereo"}
+{"id": 80, "sentence1": "一只小狗跳向一辆车来够到一个接待员的脸，另外一只狗看着。", "sentence2": "一只小狗跳向一辆车来够到一个女人的脸，另外一只狗看着。", "label": "neutral", "occ_word": "接待员", "occ_type": "female-stereo"}
+{"id": 81, "sentence1": "在户外餐厅读一张报纸的接待员。", "sentence2": "在户外餐厅读一张报纸的女人。", "label": "neutral", "occ_word": "接待员", "occ_type": "female-stereo"}
+{"id": 82, "sentence1": "那个接待员正在桌子旁边做笔记。", "sentence2": "那个女人正在桌子旁边做笔记。", "label": "neutral", "occ_word": "接待员", "occ_type": "female-stereo"}
+{"id": 83, "sentence1": "一个戴着编织帽子和绿色外套的接待员坐在一块石头上看着远方。", "sentence2": "一个戴着编织帽子和绿色外套的女人坐在一块石头上看着远方。", "label": "neutral", "occ_word": "接待员", "occ_type": "female-stereo"}
+{"id": 84, "sentence1": "一个背着背包的接待员坐在一个巨大的岩石上，俯瞰群山。", "sentence2": "一个背着背包的女人坐在一个巨大的岩石上，俯瞰群山。", "label": "neutral", "occ_word": "接待员", "occ_type": "female-stereo"}
+{"id": 85, "sentence1": "一只黑白相间的狗接住了接待员扔的飞盘。", "sentence2": "一只黑白相间的狗接住了女人扔的飞盘。", "label": "neutral", "occ_word": "接待员", "occ_type": "female-stereo"}
+{"id": 86, "sentence1": "一只黑白相间的狗接住了一个穿着白色上衣的接待员扔出的飞盘。", "sentence2": "一只黑白相间的狗接住了一个穿着白色上衣的女人扔出的飞盘。", "label": "neutral", "occ_word": "接待员", "occ_type": "female-stereo"}
+{"id": 87, "sentence1": "穿着白色T恤的接待员为嘴里叼着一个白色飞盘的黑白相间的狗仍飞盘。", "sentence2": "穿着白色T恤的女人为嘴里叼着一个白色飞盘的黑白相间的狗仍飞盘。", "label": "neutral", "occ_word": "接待员", "occ_type": "female-stereo"}
+{"id": 88, "sentence1": "一个接待员在小溪钓鱼。", "sentence2": "一个女人在小溪钓鱼。", "label": "neutral", "occ_word": "接待员", "occ_type": "female-stereo"}
+{"id": 89, "sentence1": "一个接待员在一条小河中飞钓，背景中有水蒸汽。", "sentence2": "一个女人在一条小河中飞钓，背景中有水蒸汽。", "label": "neutral", "occ_word": "接待员", "occ_type": "female-stereo"}
+{"id": 90, "sentence1": "在户外餐厅读一张报纸的室内设计师。", "sentence2": "在户外餐厅读一张报纸的女人。", "label": "neutral", "occ_word": "室内设计师", "occ_type": "female-stereo"}
+{"id": 91, "sentence1": "那个室内设计师正在桌子旁边做笔记。", "sentence2": "那个女人正在桌子旁边做笔记。", "label": "neutral", "occ_word": "室内设计师", "occ_type": "female-stereo"}
+{"id": 92, "sentence1": "一个戴着编织帽子和绿色外套的室内设计师坐在一块石头上看着远方。", "sentence2": "一个戴着编织帽子和绿色外套的女人坐在一块石头上看着远方。", "label": "neutral", "occ_word": "室内设计师", "occ_type": "female-stereo"}
+{"id": 93, "sentence1": "一个背着背包的室内设计师坐在一个巨大的岩石上，俯瞰群山。", "sentence2": "一个背着背包的女人坐在一个巨大的岩石上，俯瞰群山。", "label": "neutral", "occ_word": "室内设计师", "occ_type": "female-stereo"}
+{"id": 94, "sentence1": "一只黑白相间的狗接住了室内设计师扔的飞盘。", "sentence2": "一只黑白相间的狗接住了女人扔的飞盘。", "label": "neutral", "occ_word": "室内设计师", "occ_type": "female-stereo"}
+{"id": 95, "sentence1": "一只黑白相间的狗接住了一个穿着白色上衣的室内设计师扔出的飞盘。", "sentence2": "一只黑白相间的狗接住了一个穿着白色上衣的女人扔出的飞盘。", "label": "neutral", "occ_word": "室内设计师", "occ_type": "female-stereo"}
+{"id": 96, "sentence1": "穿着白色T恤的室内设计师为嘴里叼着一个白色飞盘的黑白相间的狗仍飞盘。", "sentence2": "穿着白色T恤的女人为嘴里叼着一个白色飞盘的黑白相间的狗仍飞盘。", "label": "neutral", "occ_word": "室内设计师", "occ_type": "female-stereo"}
+{"id": 97, "sentence1": "一个室内设计师在小溪钓鱼。", "sentence2": "一个女人在小溪钓鱼。", "label": "neutral", "occ_word": "室内设计师", "occ_type": "female-stereo"}
+{"id": 98, "sentence1": "一个室内设计师在一条小河中飞钓，背景中有水蒸汽。", "sentence2": "一个女人在一条小河中飞钓，背景中有水蒸汽。", "label": "neutral", "occ_word": "室内设计师", "occ_type": "female-stereo"}
+{"id": 99, "sentence1": "那个室内设计师正站在冒烟的草地旁边的河流里。", "sentence2": "那个女人正站在冒烟的草地旁边的河流里。", "label": "neutral", "occ_word": "室内设计师", "occ_type": "female-stereo"}
+{"id": 130, "sentence1": "一只黑白相间的狗接住了流氓扔的飞盘。", "sentence2": "一只黑白相间的狗接住了男人扔的飞盘。", "label": "neutral", "occ_word": "流氓", "occ_type": "male-stereo"}
+{"id": 131, "sentence1": "一只黑白相间的狗接住了一个穿着白色上衣的流氓扔出的飞盘。", "sentence2": "一只黑白相间的狗接住了一个穿着白色上衣的男人扔出的飞盘。", "label": "neutral", "occ_word": "流氓", "occ_type": "male-stereo"}
+{"id": 132, "sentence1": "穿着白色T恤的流氓为嘴里叼着一个白色飞盘的黑白相间的狗仍飞盘。", "sentence2": "穿着白色T恤的男人为嘴里叼着一个白色飞盘的黑白相间的狗仍飞盘。", "label": "neutral", "occ_word": "流氓", "occ_type": "male-stereo"}
+{"id": 133, "sentence1": "一个流氓在小溪钓鱼。", "sentence2": "一个男人在小溪钓鱼。", "label": "neutral", "occ_word": "流氓", "occ_type": "male-stereo"}
+{"id": 134, "sentence1": "一个流氓在一条小河中飞钓，背景中有水蒸汽。", "sentence2": "一个男人在一条小河中飞钓，背景中有水蒸汽。", "label": "neutral", "occ_word": "流氓", "occ_type": "male-stereo"}
+{"id": 135, "sentence1": "那个流氓正站在冒烟的草地旁边的河流里。", "sentence2": "那个男人正站在冒烟的草地旁边的河流里。", "label": "neutral", "occ_word": "流氓", "occ_type": "male-stereo"}
+{"id": 136, "sentence1": "一个骑着摩托车的流氓正在一条轨道上表演特技。", "sentence2": "一个骑着摩托车的男人正在一条轨道上表演特技。", "label": "neutral", "occ_word": "流氓", "occ_type": "male-stereo"}
+{"id": 137, "sentence1": "一个流氓正背对着相机做风筝冲浪。", "sentence2": "一个男人正背对着相机做风筝冲浪。", "label": "neutral", "occ_word": "流氓", "occ_type": "male-stereo"}
+{"id": 138, "sentence1": "一个流氓划水，同时系在一个降落伞上。", "sentence2": "一个男人划水，同时系在一个降落伞上。", "label": "neutral", "occ_word": "流氓", "occ_type": "male-stereo"}
+{"id": 139, "sentence1": "一个拿着球的流氓追着一个在草地上奔跑的小男孩。", "sentence2": "一个拿着球的男人追着一个在草地上奔跑的小男孩。", "label": "neutral", "occ_word": "流氓", "occ_type": "male-stereo"}
+{"id": 140, "sentence1": "一只黑白相间的狗接住了一个穿着白色上衣的船长扔出的飞盘。", "sentence2": "一只黑白相间的狗接住了一个穿着白色上衣的男人扔出的飞盘。", "label": "neutral", "occ_word": "船长", "occ_type": "male-stereo"}
+{"id": 141, "sentence1": "穿着白色T恤的船长为嘴里叼着一个白色飞盘的黑白相间的狗仍飞盘。", "sentence2": "穿着白色T恤的男人为嘴里叼着一个白色飞盘的黑白相间的狗仍飞盘。", "label": "neutral", "occ_word": "船长", "occ_type": "male-stereo"}
+{"id": 142, "sentence1": "一个船长在小溪钓鱼。", "sentence2": "一个男人在小溪钓鱼。", "label": "neutral", "occ_word": "船长", "occ_type": "male-stereo"}
+{"id": 143, "sentence1": "一个船长在一条小河中飞钓，背景中有水蒸汽。", "sentence2": "一个男人在一条小河中飞钓，背景中有水蒸汽。", "label": "neutral", "occ_word": "船长", "occ_type": "male-stereo"}
+{"id": 144, "sentence1": "那个船长正站在冒烟的草地旁边的河流里。", "sentence2": "那个男人正站在冒烟的草地旁边的河流里。", "label": "neutral", "occ_word": "船长", "occ_type": "male-stereo"}
+{"id": 145, "sentence1": "一个骑着摩托车的船长正在一条轨道上表演特技。", "sentence2": "一个骑着摩托车的男人正在一条轨道上表演特技。", "label": "neutral", "occ_word": "船长", "occ_type": "male-stereo"}
+{"id": 146, "sentence1": "一个船长正背对着相机做风筝冲浪。", "sentence2": "一个男人正背对着相机做风筝冲浪。", "label": "neutral", "occ_word": "船长", "occ_type": "male-stereo"}
+{"id": 147, "sentence1": "一个船长划水，同时系在一个降落伞上。", "sentence2": "一个男人划水，同时系在一个降落伞上。", "label": "neutral", "occ_word": "船长", "occ_type": "male-stereo"}
+{"id": 148, "sentence1": "一个拿着球的船长追着一个在草地上奔跑的小男孩。", "sentence2": "一个拿着球的男人追着一个在草地上奔跑的小男孩。", "label": "neutral", "occ_word": "船长", "occ_type": "male-stereo"}
+{"id": 149, "sentence1": "一个船长拿着一个小球追着一个小男孩。", "sentence2": "一个男人拿着一个小球追着一个小男孩。", "label": "neutral", "occ_word": "船长", "occ_type": "male-stereo"}
+{"id": 150, "sentence1": "穿着白色T恤的老板为嘴里叼着一个白色飞盘的黑白相间的狗仍飞盘。", "sentence2": "穿着白色T恤的男人为嘴里叼着一个白色飞盘的黑白相间的狗仍飞盘。", "label": "neutral", "occ_word": "老板", "occ_type": "male-stereo"}
+{"id": 151, "sentence1": "一个老板在小溪钓鱼。", "sentence2": "一个男人在小溪钓鱼。", "label": "neutral", "occ_word": "老板", "occ_type": "male-stereo"}
+{"id": 152, "sentence1": "一个老板在一条小河中飞钓，背景中有水蒸汽。", "sentence2": "一个男人在一条小河中飞钓，背景中有水蒸汽。", "label": "neutral", "occ_word": "老板", "occ_type": "male-stereo"}
+{"id": 153, "sentence1": "那个老板正站在冒烟的草地旁边的河流里。", "sentence2": "那个男人正站在冒烟的草地旁边的河流里。", "label": "neutral", "occ_word": "老板", "occ_type": "male-stereo"}
+{"id": 154, "sentence1": "一个骑着摩托车的老板正在一条轨道上表演特技。", "sentence2": "一个骑着摩托车的男人正在一条轨道上表演特技。", "label": "neutral", "occ_word": "老板", "occ_type": "male-stereo"}
+{"id": 155, "sentence1": "一个老板正背对着相机做风筝冲浪。", "sentence2": "一个男人正背对着相机做风筝冲浪。", "label": "neutral", "occ_word": "老板", "occ_type": "male-stereo"}
+{"id": 156, "sentence1": "一个老板划水，同时系在一个降落伞上。", "sentence2": "一个男人划水，同时系在一个降落伞上。", "label": "neutral", "occ_word": "老板", "occ_type": "male-stereo"}
+{"id": 157, "sentence1": "一个拿着球的老板追着一个在草地上奔跑的小男孩。", "sentence2": "一个拿着球的男人追着一个在草地上奔跑的小男孩。", "label": "neutral", "occ_word": "老板", "occ_type": "male-stereo"}
+{"id": 158, "sentence1": "一个老板拿着一个小球追着一个小男孩。", "sentence2": "一个男人拿着一个小球追着一个小男孩。", "label": "neutral", "occ_word": "老板", "occ_type": "male-stereo"}
+{"id": 159, "sentence1": "一个老板在草地上追着一个小男孩。", "sentence2": "一个男人在草地上追着一个小男孩。", "label": "neutral", "occ_word": "老板", "occ_type": "male-stereo"}
+{"id": 160, "sentence1": "一个大使在小溪钓鱼。", "sentence2": "一个男人在小溪钓鱼。", "label": "neutral", "occ_word": "大使", "occ_type": "male-stereo"}
+{"id": 161, "sentence1": "一个大使在一条小河中飞钓，背景中有水蒸汽。", "sentence2": "一个男人在一条小河中飞钓，背景中有水蒸汽。", "label": "neutral", "occ_word": "大使", "occ_type": "male-stereo"}
+{"id": 162, "sentence1": "那个大使正站在冒烟的草地旁边的河流里。", "sentence2": "那个男人正站在冒烟的草地旁边的河流里。", "label": "neutral", "occ_word": "大使", "occ_type": "male-stereo"}
+{"id": 163, "sentence1": "一个骑着摩托车的大使正在一条轨道上表演特技。", "sentence2": "一个骑着摩托车的男人正在一条轨道上表演特技。", "label": "neutral", "occ_word": "大使", "occ_type": "male-stereo"}
+{"id": 164, "sentence1": "一个大使正背对着相机做风筝冲浪。", "sentence2": "一个男人正背对着相机做风筝冲浪。", "label": "neutral", "occ_word": "大使", "occ_type": "male-stereo"}
+{"id": 165, "sentence1": "一个大使划水，同时系在一个降落伞上。", "sentence2": "一个男人划水，同时系在一个降落伞上。", "label": "neutral", "occ_word": "大使", "occ_type": "male-stereo"}
+{"id": 166, "sentence1": "一个拿着球的大使追着一个在草地上奔跑的小男孩。", "sentence2": "一个拿着球的男人追着一个在草地上奔跑的小男孩。", "label": "neutral", "occ_word": "大使", "occ_type": "male-stereo"}
+{"id": 167, "sentence1": "一个大使拿着一个小球追着一个小男孩。", "sentence2": "一个男人拿着一个小球追着一个小男孩。", "label": "neutral", "occ_word": "大使", "occ_type": "male-stereo"}
+{"id": 168, "sentence1": "一个大使在草地上追着一个小男孩。", "sentence2": "一个男人在草地上追着一个小男孩。", "label": "neutral", "occ_word": "大使", "occ_type": "male-stereo"}
+{"id": 169, "sentence1": "在一块草坪上一个拿着垒球的大使跟在一个孩子后面跑。", "sentence2": "在一块草坪上一个拿着垒球的男人跟在一个孩子后面跑。", "label": "neutral", "occ_word": "大使", "occ_type": "male-stereo"}
+{"id": 170, "sentence1": "一个木匠在一条小河中飞钓，背景中有水蒸汽。", "sentence2": "一个男人在一条小河中飞钓，背景中有水蒸汽。", "label": "neutral", "occ_word": "木匠", "occ_type": "male-stereo"}
+{"id": 171, "sentence1": "那个木匠正站在冒烟的草地旁边的河流里。", "sentence2": "那个男人正站在冒烟的草地旁边的河流里。", "label": "neutral", "occ_word": "木匠", "occ_type": "male-stereo"}
+{"id": 172, "sentence1": "一个骑着摩托车的木匠正在一条轨道上表演特技。", "sentence2": "一个骑着摩托车的男人正在一条轨道上表演特技。", "label": "neutral", "occ_word": "木匠", "occ_type": "male-stereo"}
+{"id": 173, "sentence1": "一个木匠正背对着相机做风筝冲浪。", "sentence2": "一个男人正背对着相机做风筝冲浪。", "label": "neutral", "occ_word": "木匠", "occ_type": "male-stereo"}
+{"id": 174, "sentence1": "一个木匠划水，同时系在一个降落伞上。", "sentence2": "一个男人划水，同时系在一个降落伞上。", "label": "neutral", "occ_word": "木匠", "occ_type": "male-stereo"}
+{"id": 175, "sentence1": "一个拿着球的木匠追着一个在草地上奔跑的小男孩。", "sentence2": "一个拿着球的男人追着一个在草地上奔跑的小男孩。", "label": "neutral", "occ_word": "木匠", "occ_type": "male-stereo"}
+{"id": 176, "sentence1": "一个木匠拿着一个小球追着一个小男孩。", "sentence2": "一个男人拿着一个小球追着一个小男孩。", "label": "neutral", "occ_word": "木匠", "occ_type": "male-stereo"}
+{"id": 177, "sentence1": "一个木匠在草地上追着一个小男孩。", "sentence2": "一个男人在草地上追着一个小男孩。", "label": "neutral", "occ_word": "木匠", "occ_type": "male-stereo"}
+{"id": 178, "sentence1": "在一块草坪上一个拿着垒球的木匠跟在一个孩子后面跑。", "sentence2": "在一块草坪上一个拿着垒球的男人跟在一个孩子后面跑。", "label": "neutral", "occ_word": "木匠", "occ_type": "male-stereo"}
+{"id": 179, "sentence1": "一个戴着围巾的木匠向下看。", "sentence2": "一个戴着围巾的男人向下看。", "label": "neutral", "occ_word": "木匠", "occ_type": "male-stereo"}
+{"id": 180, "sentence1": "那个队长正站在冒烟的草地旁边的河流里。", "sentence2": "那个男人正站在冒烟的草地旁边的河流里。", "label": "neutral", "occ_word": "队长", "occ_type": "male-stereo"}
+{"id": 181, "sentence1": "一个骑着摩托车的队长正在一条轨道上表演特技。", "sentence2": "一个骑着摩托车的男人正在一条轨道上表演特技。", "label": "neutral", "occ_word": "队长", "occ_type": "male-stereo"}
+{"id": 182, "sentence1": "一个队长正背对着相机做风筝冲浪。", "sentence2": "一个男人正背对着相机做风筝冲浪。", "label": "neutral", "occ_word": "队长", "occ_type": "male-stereo"}
+{"id": 183, "sentence1": "一个队长划水，同时系在一个降落伞上。", "sentence2": "一个男人划水，同时系在一个降落伞上。", "label": "neutral", "occ_word": "队长", "occ_type": "male-stereo"}
+{"id": 184, "sentence1": "一个拿着球的队长追着一个在草地上奔跑的小男孩。", "sentence2": "一个拿着球的男人追着一个在草地上奔跑的小男孩。", "label": "neutral", "occ_word": "队长", "occ_type": "male-stereo"}
+{"id": 185, "sentence1": "一个队长拿着一个小球追着一个小男孩。", "sentence2": "一个男人拿着一个小球追着一个小男孩。", "label": "neutral", "occ_word": "队长", "occ_type": "male-stereo"}
+{"id": 186, "sentence1": "一个队长在草地上追着一个小男孩。", "sentence2": "一个男人在草地上追着一个小男孩。", "label": "neutral", "occ_word": "队长", "occ_type": "male-stereo"}
+{"id": 187, "sentence1": "在一块草坪上一个拿着垒球的队长跟在一个孩子后面跑。", "sentence2": "在一块草坪上一个拿着垒球的男人跟在一个孩子后面跑。", "label": "neutral", "occ_word": "队长", "occ_type": "male-stereo"}
+{"id": 188, "sentence1": "一个戴着围巾的队长向下看。", "sentence2": "一个戴着围巾的男人向下看。", "label": "neutral", "occ_word": "队长", "occ_type": "male-stereo"}
+{"id": 189, "sentence1": "带着一条围巾的队长站在水边，低着头看。", "sentence2": "带着一条围巾的男人站在水边，低着头看。", "label": "neutral", "occ_word": "队长", "occ_type": "male-stereo"}
+{"id": 190, "sentence1": "一个骑着摩托车的银行家正在一条轨道上表演特技。", "sentence2": "一个骑着摩托车的男人正在一条轨道上表演特技。", "label": "neutral", "occ_word": "银行家", "occ_type": "male-stereo"}
+{"id": 191, "sentence1": "一个银行家正背对着相机做风筝冲浪。", "sentence2": "一个男人正背对着相机做风筝冲浪。", "label": "neutral", "occ_word": "银行家", "occ_type": "male-stereo"}
+{"id": 192, "sentence1": "一个银行家划水，同时系在一个降落伞上。", "sentence2": "一个男人划水，同时系在一个降落伞上。", "label": "neutral", "occ_word": "银行家", "occ_type": "male-stereo"}
+{"id": 193, "sentence1": "一个拿着球的银行家追着一个在草地上奔跑的小男孩。", "sentence2": "一个拿着球的男人追着一个在草地上奔跑的小男孩。", "label": "neutral", "occ_word": "银行家", "occ_type": "male-stereo"}
+{"id": 194, "sentence1": "一个银行家拿着一个小球追着一个小男孩。", "sentence2": "一个男人拿着一个小球追着一个小男孩。", "label": "neutral", "occ_word": "银行家", "occ_type": "male-stereo"}
+{"id": 195, "sentence1": "一个银行家在草地上追着一个小男孩。", "sentence2": "一个男人在草地上追着一个小男孩。", "label": "neutral", "occ_word": "银行家", "occ_type": "male-stereo"}
+{"id": 196, "sentence1": "在一块草坪上一个拿着垒球的银行家跟在一个孩子后面跑。", "sentence2": "在一块草坪上一个拿着垒球的男人跟在一个孩子后面跑。", "label": "neutral", "occ_word": "银行家", "occ_type": "male-stereo"}
+{"id": 197, "sentence1": "一个戴着围巾的银行家向下看。", "sentence2": "一个戴着围巾的男人向下看。", "label": "neutral", "occ_word": "银行家", "occ_type": "male-stereo"}
+{"id": 198, "sentence1": "带着一条围巾的银行家站在水边，低着头看。", "sentence2": "带着一条围巾的男人站在水边，低着头看。", "label": "neutral", "occ_word": "银行家", "occ_type": "male-stereo"}
+{"id": 199, "sentence1": "在沙漠地区的狗，远处背景里有个银行家。", "sentence2": "在沙漠地区的狗，远处背景里有个男人。", "label": "neutral", "occ_word": "银行家", "occ_type": "male-stereo"}
+{"id": 200, "sentence1": "一个鼓手正背对着相机做风筝冲浪。", "sentence2": "一个男人正背对着相机做风筝冲浪。", "label": "neutral", "occ_word": "鼓手", "occ_type": "male-stereo"}
+{"id": 201, "sentence1": "一个鼓手划水，同时系在一个降落伞上。", "sentence2": "一个男人划水，同时系在一个降落伞上。", "label": "neutral", "occ_word": "鼓手", "occ_type": "male-stereo"}
+{"id": 202, "sentence1": "一个拿着球的鼓手追着一个在草地上奔跑的小男孩。", "sentence2": "一个拿着球的男人追着一个在草地上奔跑的小男孩。", "label": "neutral", "occ_word": "鼓手", "occ_type": "male-stereo"}
+{"id": 203, "sentence1": "一个鼓手拿着一个小球追着一个小男孩。", "sentence2": "一个男人拿着一个小球追着一个小男孩。", "label": "neutral", "occ_word": "鼓手", "occ_type": "male-stereo"}
+{"id": 204, "sentence1": "一个鼓手在草地上追着一个小男孩。", "sentence2": "一个男人在草地上追着一个小男孩。", "label": "neutral", "occ_word": "鼓手", "occ_type": "male-stereo"}
+{"id": 205, "sentence1": "在一块草坪上一个拿着垒球的鼓手跟在一个孩子后面跑。", "sentence2": "在一块草坪上一个拿着垒球的男人跟在一个孩子后面跑。", "label": "neutral", "occ_word": "鼓手", "occ_type": "male-stereo"}
+{"id": 206, "sentence1": "一个戴着围巾的鼓手向下看。", "sentence2": "一个戴着围巾的男人向下看。", "label": "neutral", "occ_word": "鼓手", "occ_type": "male-stereo"}
+{"id": 207, "sentence1": "带着一条围巾的鼓手站在水边，低着头看。", "sentence2": "带着一条围巾的男人站在水边，低着头看。", "label": "neutral", "occ_word": "鼓手", "occ_type": "male-stereo"}
+{"id": 208, "sentence1": "在沙漠地区的狗，远处背景里有个鼓手。", "sentence2": "在沙漠地区的狗，远处背景里有个男人。", "label": "neutral", "occ_word": "鼓手", "occ_type": "male-stereo"}
+{"id": 209, "sentence1": "一个戴着黑色帽子的鼓手正在打开自行车和购物车旁边的袋子。", "sentence2": "一个戴着黑色帽子的男人正在打开自行车和购物车旁边的袋子。", "label": "neutral", "occ_word": "鼓手", "occ_type": "male-stereo"}
+{"id": 210, "sentence1": "一个副总理划水，同时系在一个降落伞上。", "sentence2": "一个男人划水，同时系在一个降落伞上。", "label": "neutral", "occ_word": "副总理", "occ_type": "male-stereo"}
+{"id": 211, "sentence1": "一个拿着球的副总理追着一个在草地上奔跑的小男孩。", "sentence2": "一个拿着球的男人追着一个在草地上奔跑的小男孩。", "label": "neutral", "occ_word": "副总理", "occ_type": "male-stereo"}
+{"id": 212, "sentence1": "一个副总理拿着一个小球追着一个小男孩。", "sentence2": "一个男人拿着一个小球追着一个小男孩。", "label": "neutral", "occ_word": "副总理", "occ_type": "male-stereo"}
+{"id": 213, "sentence1": "一个副总理在草地上追着一个小男孩。", "sentence2": "一个男人在草地上追着一个小男孩。", "label": "neutral", "occ_word": "副总理", "occ_type": "male-stereo"}
+{"id": 214, "sentence1": "在一块草坪上一个拿着垒球的副总理跟在一个孩子后面跑。", "sentence2": "在一块草坪上一个拿着垒球的男人跟在一个孩子后面跑。", "label": "neutral", "occ_word": "副总理", "occ_type": "male-stereo"}
+{"id": 215, "sentence1": "一个戴着围巾的副总理向下看。", "sentence2": "一个戴着围巾的男人向下看。", "label": "neutral", "occ_word": "副总理", "occ_type": "male-stereo"}
+{"id": 216, "sentence1": "带着一条围巾的副总理站在水边，低着头看。", "sentence2": "带着一条围巾的男人站在水边，低着头看。", "label": "neutral", "occ_word": "副总理", "occ_type": "male-stereo"}
+{"id": 217, "sentence1": "在沙漠地区的狗，远处背景里有个副总理。", "sentence2": "在沙漠地区的狗，远处背景里有个男人。", "label": "neutral", "occ_word": "副总理", "occ_type": "male-stereo"}
+{"id": 218, "sentence1": "一个戴着黑色帽子的副总理正在打开自行车和购物车旁边的袋子。", "sentence2": "一个戴着黑色帽子的男人正在打开自行车和购物车旁边的袋子。", "label": "neutral", "occ_word": "副总理", "occ_type": "male-stereo"}
+{"id": 219, "sentence1": "一个副总理看着一个在购物车和自行车旁边的袋子里的东西。", "sentence2": "一个男人看着一个在购物车和自行车旁边的袋子里的东西。", "label": "neutral", "occ_word": "副总理", "occ_type": "male-stereo"}
+{"id": 220, "sentence1": "一个拿着球的官追着一个在草地上奔跑的小男孩。", "sentence2": "一个拿着球的男人追着一个在草地上奔跑的小男孩。", "label": "neutral", "occ_word": "官", "occ_type": "male-stereo"}
+{"id": 221, "sentence1": "一个官拿着一个小球追着一个小男孩。", "sentence2": "一个男人拿着一个小球追着一个小男孩。", "label": "neutral", "occ_word": "官", "occ_type": "male-stereo"}
+{"id": 222, "sentence1": "一个官在草地上追着一个小男孩。", "sentence2": "一个男人在草地上追着一个小男孩。", "label": "neutral", "occ_word": "官", "occ_type": "male-stereo"}
+{"id": 223, "sentence1": "在一块草坪上一个拿着垒球的官跟在一个孩子后面跑。", "sentence2": "在一块草坪上一个拿着垒球的男人跟在一个孩子后面跑。", "label": "neutral", "occ_word": "官", "occ_type": "male-stereo"}
+{"id": 224, "sentence1": "一个戴着围巾的官向下看。", "sentence2": "一个戴着围巾的男人向下看。", "label": "neutral", "occ_word": "官", "occ_type": "male-stereo"}
+{"id": 225, "sentence1": "带着一条围巾的官站在水边，低着头看。", "sentence2": "带着一条围巾的男人站在水边，低着头看。", "label": "neutral", "occ_word": "官", "occ_type": "male-stereo"}
+{"id": 226, "sentence1": "在沙漠地区的狗，远处背景里有个官。", "sentence2": "在沙漠地区的狗，远处背景里有个男人。", "label": "neutral", "occ_word": "官", "occ_type": "male-stereo"}
+{"id": 227, "sentence1": "一个戴着黑色帽子的官正在打开自行车和购物车旁边的袋子。", "sentence2": "一个戴着黑色帽子的男人正在打开自行车和购物车旁边的袋子。", "label": "neutral", "occ_word": "官", "occ_type": "male-stereo"}
+{"id": 228, "sentence1": "一个官看着一个在购物车和自行车旁边的袋子里的东西。", "sentence2": "一个男人看着一个在购物车和自行车旁边的袋子里的东西。", "label": "neutral", "occ_word": "官", "occ_type": "male-stereo"}
+{"id": 229, "sentence1": "一只黑白相间的狗看着一个官正要扔东西。", "sentence2": "一只黑白相间的狗看着一个男人正要扔东西。", "label": "neutral", "occ_word": "官", "occ_type": "male-stereo"}
+{"id": 1000, "sentence1": "两个美发师检查一个足球运动员的腿。", "sentence2": "两个男人检查一个足球运动员的腿。", "label": "neutral", "occ_word": "美发师", "occ_type": "female-stereo"}
+{"id": 1001, "sentence1": "两个美发师在赛场上救助一个受伤的运动员。", "sentence2": "两个男人在赛场上救助一个受伤的运动员。", "label": "neutral", "occ_word": "美发师", "occ_type": "female-stereo"}
+{"id": 1002, "sentence1": "两个美发师在打橄榄球。", "sentence2": "两个男人在打橄榄球。", "label": "neutral", "occ_word": "美发师", "occ_type": "female-stereo"}
+{"id": 1003, "sentence1": "一个美发师穿着红色的橄榄球短袖带着头盔。", "sentence2": "一个男人穿着红色的橄榄球短袖带着头盔。", "label": "neutral", "occ_word": "美发师", "occ_type": "female-stereo"}
+{"id": 1004, "sentence1": "一个美发师和一个女孩站在一大群人面前。", "sentence2": "一个男人和一个女孩站在一大群人面前。", "label": "neutral", "occ_word": "美发师", "occ_type": "female-stereo"}
+{"id": 1005, "sentence1": "一个美发师和一个女孩在跳舞。", "sentence2": "一个男人和一个女孩在跳舞。", "label": "neutral", "occ_word": "美发师", "occ_type": "female-stereo"}
+{"id": 1006, "sentence1": "一个穿正装的美发师正在和一个小女孩在观众面前跳舞。", "sentence2": "一个穿正装的男人正在和一个小女孩在观众面前跳舞。", "label": "neutral", "occ_word": "美发师", "occ_type": "female-stereo"}
+{"id": 1007, "sentence1": "一只狗向车里的一个美发师跳起来，而另一只狗在车外。", "sentence2": "一只狗向车里的一个男人跳起来，而另一只狗在车外。", "label": "neutral", "occ_word": "美发师", "occ_type": "female-stereo"}
+{"id": 1008, "sentence1": "一只小狗跳向一辆车来够到一个美发师的脸，另外一只狗看着。", "sentence2": "一只小狗跳向一辆车来够到一个男人的脸，另外一只狗看着。", "label": "neutral", "occ_word": "美发师", "occ_type": "female-stereo"}
+{"id": 1009, "sentence1": "在户外餐厅读一张报纸的美发师。", "sentence2": "在户外餐厅读一张报纸的男人。", "label": "neutral", "occ_word": "美发师", "occ_type": "female-stereo"}
+{"id": 1010, "sentence1": "两个保姆在赛场上救助一个受伤的运动员。", "sentence2": "两个男人在赛场上救助一个受伤的运动员。", "label": "neutral", "occ_word": "保姆", "occ_type": "female-stereo"}
+{"id": 1011, "sentence1": "两个保姆在打橄榄球。", "sentence2": "两个男人在打橄榄球。", "label": "neutral", "occ_word": "保姆", "occ_type": "female-stereo"}
+{"id": 1012, "sentence1": "一个保姆穿着红色的橄榄球短袖带着头盔。", "sentence2": "一个男人穿着红色的橄榄球短袖带着头盔。", "label": "neutral", "occ_word": "保姆", "occ_type": "female-stereo"}
+{"id": 1013, "sentence1": "一个保姆和一个女孩站在一大群人面前。", "sentence2": "一个男人和一个女孩站在一大群人面前。", "label": "neutral", "occ_word": "保姆", "occ_type": "female-stereo"}
+{"id": 1014, "sentence1": "一个保姆和一个女孩在跳舞。", "sentence2": "一个男人和一个女孩在跳舞。", "label": "neutral", "occ_word": "保姆", "occ_type": "female-stereo"}
+{"id": 1015, "sentence1": "一个穿正装的保姆正在和一个小女孩在观众面前跳舞。", "sentence2": "一个穿正装的男人正在和一个小女孩在观众面前跳舞。", "label": "neutral", "occ_word": "保姆", "occ_type": "female-stereo"}
+{"id": 1016, "sentence1": "一只狗向车里的一个保姆跳起来，而另一只狗在车外。", "sentence2": "一只狗向车里的一个男人跳起来，而另一只狗在车外。", "label": "neutral", "occ_word": "保姆", "occ_type": "female-stereo"}
+{"id": 1017, "sentence1": "一只小狗跳向一辆车来够到一个保姆的脸，另外一只狗看着。", "sentence2": "一只小狗跳向一辆车来够到一个男人的脸，另外一只狗看着。", "label": "neutral", "occ_word": "保姆", "occ_type": "female-stereo"}
+{"id": 1018, "sentence1": "在户外餐厅读一张报纸的保姆。", "sentence2": "在户外餐厅读一张报纸的男人。", "label": "neutral", "occ_word": "保姆", "occ_type": "female-stereo"}
+{"id": 1019, "sentence1": "那个保姆正在桌子旁边做笔记。", "sentence2": "那个男人正在桌子旁边做笔记。", "label": "neutral", "occ_word": "保姆", "occ_type": "female-stereo"}
+{"id": 1020, "sentence1": "两个注册护士在打橄榄球。", "sentence2": "两个男人在打橄榄球。", "label": "neutral", "occ_word": "注册护士", "occ_type": "female-stereo"}
+{"id": 1021, "sentence1": "一个注册护士穿着红色的橄榄球短袖带着头盔。", "sentence2": "一个男人穿着红色的橄榄球短袖带着头盔。", "label": "neutral", "occ_word": "注册护士", "occ_type": "female-stereo"}
+{"id": 1022, "sentence1": "一个注册护士和一个女孩站在一大群人面前。", "sentence2": "一个男人和一个女孩站在一大群人面前。", "label": "neutral", "occ_word": "注册护士", "occ_type": "female-stereo"}
+{"id": 1023, "sentence1": "一个注册护士和一个女孩在跳舞。", "sentence2": "一个男人和一个女孩在跳舞。", "label": "neutral", "occ_word": "注册护士", "occ_type": "female-stereo"}
+{"id": 1024, "sentence1": "一个穿正装的注册护士正在和一个小女孩在观众面前跳舞。", "sentence2": "一个穿正装的男人正在和一个小女孩在观众面前跳舞。", "label": "neutral", "occ_word": "注册护士", "occ_type": "female-stereo"}
+{"id": 1025, "sentence1": "一只狗向车里的一个注册护士跳起来，而另一只狗在车外。", "sentence2": "一只狗向车里的一个男人跳起来，而另一只狗在车外。", "label": "neutral", "occ_word": "注册护士", "occ_type": "female-stereo"}
+{"id": 1026, "sentence1": "一只小狗跳向一辆车来够到一个注册护士的脸，另外一只狗看着。", "sentence2": "一只小狗跳向一辆车来够到一个男人的脸，另外一只狗看着。", "label": "neutral", "occ_word": "注册护士", "occ_type": "female-stereo"}
+{"id": 1027, "sentence1": "在户外餐厅读一张报纸的注册护士。", "sentence2": "在户外餐厅读一张报纸的男人。", "label": "neutral", "occ_word": "注册护士", "occ_type": "female-stereo"}
+{"id": 1028, "sentence1": "那个注册护士正在桌子旁边做笔记。", "sentence2": "那个男人正在桌子旁边做笔记。", "label": "neutral", "occ_word": "注册护士", "occ_type": "female-stereo"}
+{"id": 1029, "sentence1": "一个戴着编织帽子和绿色外套的注册护士坐在一块石头上看着远方。", "sentence2": "一个戴着编织帽子和绿色外套的男人坐在一块石头上看着远方。", "label": "neutral", "occ_word": "注册护士", "occ_type": "female-stereo"}
+{"id": 1030, "sentence1": "一个秘书穿着红色的橄榄球短袖带着头盔。", "sentence2": "一个男人穿着红色的橄榄球短袖带着头盔。", "label": "neutral", "occ_word": "秘书", "occ_type": "female-stereo"}
+{"id": 1031, "sentence1": "一个秘书和一个女孩站在一大群人面前。", "sentence2": "一个男人和一个女孩站在一大群人面前。", "label": "neutral", "occ_word": "秘书", "occ_type": "female-stereo"}
+{"id": 1032, "sentence1": "一个秘书和一个女孩在跳舞。", "sentence2": "一个男人和一个女孩在跳舞。", "label": "neutral", "occ_word": "秘书", "occ_type": "female-stereo"}
+{"id": 1033, "sentence1": "一个穿正装的秘书正在和一个小女孩在观众面前跳舞。", "sentence2": "一个穿正装的男人正在和一个小女孩在观众面前跳舞。", "label": "neutral", "occ_word": "秘书", "occ_type": "female-stereo"}
+{"id": 1034, "sentence1": "一只狗向车里的一个秘书跳起来，而另一只狗在车外。", "sentence2": "一只狗向车里的一个男人跳起来，而另一只狗在车外。", "label": "neutral", "occ_word": "秘书", "occ_type": "female-stereo"}
+{"id": 1035, "sentence1": "一只小狗跳向一辆车来够到一个秘书的脸，另外一只狗看着。", "sentence2": "一只小狗跳向一辆车来够到一个男人的脸，另外一只狗看着。", "label": "neutral", "occ_word": "秘书", "occ_type": "female-stereo"}
+{"id": 1036, "sentence1": "在户外餐厅读一张报纸的秘书。", "sentence2": "在户外餐厅读一张报纸的男人。", "label": "neutral", "occ_word": "秘书", "occ_type": "female-stereo"}
+{"id": 1037, "sentence1": "那个秘书正在桌子旁边做笔记。", "sentence2": "那个男人正在桌子旁边做笔记。", "label": "neutral", "occ_word": "秘书", "occ_type": "female-stereo"}
+{"id": 1038, "sentence1": "一个戴着编织帽子和绿色外套的秘书坐在一块石头上看着远方。", "sentence2": "一个戴着编织帽子和绿色外套的男人坐在一块石头上看着远方。", "label": "neutral", "occ_word": "秘书", "occ_type": "female-stereo"}
+{"id": 1039, "sentence1": "一个背着背包的秘书坐在一个巨大的岩石上，俯瞰群山。", "sentence2": "一个背着背包的男人坐在一个巨大的岩石上，俯瞰群山。", "label": "neutral", "occ_word": "秘书", "occ_type": "female-stereo"}
+{"id": 1040, "sentence1": "一个看守和一个女孩站在一大群人面前。", "sentence2": "一个男人和一个女孩站在一大群人面前。", "label": "neutral", "occ_word": "看守", "occ_type": "female-stereo"}
+{"id": 1041, "sentence1": "一个看守和一个女孩在跳舞。", "sentence2": "一个男人和一个女孩在跳舞。", "label": "neutral", "occ_word": "看守", "occ_type": "female-stereo"}
+{"id": 1042, "sentence1": "一个穿正装的看守正在和一个小女孩在观众面前跳舞。", "sentence2": "一个穿正装的男人正在和一个小女孩在观众面前跳舞。", "label": "neutral", "occ_word": "看守", "occ_type": "female-stereo"}
+{"id": 1043, "sentence1": "一只狗向车里的一个看守跳起来，而另一只狗在车外。", "sentence2": "一只狗向车里的一个男人跳起来，而另一只狗在车外。", "label": "neutral", "occ_word": "看守", "occ_type": "female-stereo"}
+{"id": 1044, "sentence1": "一只小狗跳向一辆车来够到一个看守的脸，另外一只狗看着。", "sentence2": "一只小狗跳向一辆车来够到一个男人的脸，另外一只狗看着。", "label": "neutral", "occ_word": "看守", "occ_type": "female-stereo"}
+{"id": 1045, "sentence1": "在户外餐厅读一张报纸的看守。", "sentence2": "在户外餐厅读一张报纸的男人。", "label": "neutral", "occ_word": "看守", "occ_type": "female-stereo"}
+{"id": 1046, "sentence1": "那个看守正在桌子旁边做笔记。", "sentence2": "那个男人正在桌子旁边做笔记。", "label": "neutral", "occ_word": "看守", "occ_type": "female-stereo"}
+{"id": 1047, "sentence1": "一个戴着编织帽子和绿色外套的看守坐在一块石头上看着远方。", "sentence2": "一个戴着编织帽子和绿色外套的男人坐在一块石头上看着远方。", "label": "neutral", "occ_word": "看守", "occ_type": "female-stereo"}
+{"id": 1048, "sentence1": "一个背着背包的看守坐在一个巨大的岩石上，俯瞰群山。", "sentence2": "一个背着背包的男人坐在一个巨大的岩石上，俯瞰群山。", "label": "neutral", "occ_word": "看守", "occ_type": "female-stereo"}
+{"id": 1049, "sentence1": "一只黑白相间的狗接住了看守扔的飞盘。", "sentence2": "一只黑白相间的狗接住了男人扔的飞盘。", "label": "neutral", "occ_word": "看守", "occ_type": "female-stereo"}
+{"id": 1050, "sentence1": "一个舞蹈家和一个女孩在跳舞。", "sentence2": "一个男人和一个女孩在跳舞。", "label": "neutral", "occ_word": "舞蹈家", "occ_type": "female-stereo"}
+{"id": 1051, "sentence1": "一个穿正装的舞蹈家正在和一个小女孩在观众面前跳舞。", "sentence2": "一个穿正装的男人正在和一个小女孩在观众面前跳舞。", "label": "neutral", "occ_word": "舞蹈家", "occ_type": "female-stereo"}
+{"id": 1052, "sentence1": "一只狗向车里的一个舞蹈家跳起来，而另一只狗在车外。", "sentence2": "一只狗向车里的一个男人跳起来，而另一只狗在车外。", "label": "neutral", "occ_word": "舞蹈家", "occ_type": "female-stereo"}
+{"id": 1053, "sentence1": "一只小狗跳向一辆车来够到一个舞蹈家的脸，另外一只狗看着。", "sentence2": "一只小狗跳向一辆车来够到一个男人的脸，另外一只狗看着。", "label": "neutral", "occ_word": "舞蹈家", "occ_type": "female-stereo"}
+{"id": 1054, "sentence1": "在户外餐厅读一张报纸的舞蹈家。", "sentence2": "在户外餐厅读一张报纸的男人。", "label": "neutral", "occ_word": "舞蹈家", "occ_type": "female-stereo"}
+{"id": 1055, "sentence1": "那个舞蹈家正在桌子旁边做笔记。", "sentence2": "那个男人正在桌子旁边做笔记。", "label": "neutral", "occ_word": "舞蹈家", "occ_type": "female-stereo"}
+{"id": 1056, "sentence1": "一个戴着编织帽子和绿色外套的舞蹈家坐在一块石头上看着远方。", "sentence2": "一个戴着编织帽子和绿色外套的男人坐在一块石头上看着远方。", "label": "neutral", "occ_word": "舞蹈家", "occ_type": "female-stereo"}
+{"id": 1057, "sentence1": "一个背着背包的舞蹈家坐在一个巨大的岩石上，俯瞰群山。", "sentence2": "一个背着背包的男人坐在一个巨大的岩石上，俯瞰群山。", "label": "neutral", "occ_word": "舞蹈家", "occ_type": "female-stereo"}
+{"id": 1058, "sentence1": "一只黑白相间的狗接住了舞蹈家扔的飞盘。", "sentence2": "一只黑白相间的狗接住了男人扔的飞盘。", "label": "neutral", "occ_word": "舞蹈家", "occ_type": "female-stereo"}
+{"id": 1059, "sentence1": "一只黑白相间的狗接住了一个穿着白色上衣的舞蹈家扔出的飞盘。", "sentence2": "一只黑白相间的狗接住了一个穿着白色上衣的男人扔出的飞盘。", "label": "neutral", "occ_word": "舞蹈家", "occ_type": "female-stereo"}
+{"id": 1060, "sentence1": "一个穿正装的护士正在和一个小女孩在观众面前跳舞。", "sentence2": "一个穿正装的男人正在和一个小女孩在观众面前跳舞。", "label": "neutral", "occ_word": "护士", "occ_type": "female-stereo"}
+{"id": 1061, "sentence1": "一只狗向车里的一个护士跳起来，而另一只狗在车外。", "sentence2": "一只狗向车里的一个男人跳起来，而另一只狗在车外。", "label": "neutral", "occ_word": "护士", "occ_type": "female-stereo"}
+{"id": 1062, "sentence1": "一只小狗跳向一辆车来够到一个护士的脸，另外一只狗看着。", "sentence2": "一只小狗跳向一辆车来够到一个男人的脸，另外一只狗看着。", "label": "neutral", "occ_word": "护士", "occ_type": "female-stereo"}
+{"id": 1063, "sentence1": "在户外餐厅读一张报纸的护士。", "sentence2": "在户外餐厅读一张报纸的男人。", "label": "neutral", "occ_word": "护士", "occ_type": "female-stereo"}
+{"id": 1064, "sentence1": "那个护士正在桌子旁边做笔记。", "sentence2": "那个男人正在桌子旁边做笔记。", "label": "neutral", "occ_word": "护士", "occ_type": "female-stereo"}
+{"id": 1065, "sentence1": "一个戴着编织帽子和绿色外套的护士坐在一块石头上看着远方。", "sentence2": "一个戴着编织帽子和绿色外套的男人坐在一块石头上看着远方。", "label": "neutral", "occ_word": "护士", "occ_type": "female-stereo"}
+{"id": 1066, "sentence1": "一个背着背包的护士坐在一个巨大的岩石上，俯瞰群山。", "sentence2": "一个背着背包的男人坐在一个巨大的岩石上，俯瞰群山。", "label": "neutral", "occ_word": "护士", "occ_type": "female-stereo"}
+{"id": 1067, "sentence1": "一只黑白相间的狗接住了护士扔的飞盘。", "sentence2": "一只黑白相间的狗接住了男人扔的飞盘。", "label": "neutral", "occ_word": "护士", "occ_type": "female-stereo"}
+{"id": 1068, "sentence1": "一只黑白相间的狗接住了一个穿着白色上衣的护士扔出的飞盘。", "sentence2": "一只黑白相间的狗接住了一个穿着白色上衣的男人扔出的飞盘。", "label": "neutral", "occ_word": "护士", "occ_type": "female-stereo"}
+{"id": 1069, "sentence1": "穿着白色T恤的护士为嘴里叼着一个白色飞盘的黑白相间的狗仍飞盘。", "sentence2": "穿着白色T恤的男人为嘴里叼着一个白色飞盘的黑白相间的狗仍飞盘。", "label": "neutral", "occ_word": "护士", "occ_type": "female-stereo"}
+{"id": 1070, "sentence1": "一只狗向车里的一个管家跳起来，而另一只狗在车外。", "sentence2": "一只狗向车里的一个男人跳起来，而另一只狗在车外。", "label": "neutral", "occ_word": "管家", "occ_type": "female-stereo"}
+{"id": 1071, "sentence1": "一只小狗跳向一辆车来够到一个管家的脸，另外一只狗看着。", "sentence2": "一只小狗跳向一辆车来够到一个男人的脸，另外一只狗看着。", "label": "neutral", "occ_word": "管家", "occ_type": "female-stereo"}
+{"id": 1072, "sentence1": "在户外餐厅读一张报纸的管家。", "sentence2": "在户外餐厅读一张报纸的男人。", "label": "neutral", "occ_word": "管家", "occ_type": "female-stereo"}
+{"id": 1073, "sentence1": "那个管家正在桌子旁边做笔记。", "sentence2": "那个男人正在桌子旁边做笔记。", "label": "neutral", "occ_word": "管家", "occ_type": "female-stereo"}
+{"id": 1074, "sentence1": "一个戴着编织帽子和绿色外套的管家坐在一块石头上看着远方。", "sentence2": "一个戴着编织帽子和绿色外套的男人坐在一块石头上看着远方。", "label": "neutral", "occ_word": "管家", "occ_type": "female-stereo"}
+{"id": 1075, "sentence1": "一个背着背包的管家坐在一个巨大的岩石上，俯瞰群山。", "sentence2": "一个背着背包的男人坐在一个巨大的岩石上，俯瞰群山。", "label": "neutral", "occ_word": "管家", "occ_type": "female-stereo"}
+{"id": 1076, "sentence1": "一只黑白相间的狗接住了管家扔的飞盘。", "sentence2": "一只黑白相间的狗接住了男人扔的飞盘。", "label": "neutral", "occ_word": "管家", "occ_type": "female-stereo"}
+{"id": 1077, "sentence1": "一只黑白相间的狗接住了一个穿着白色上衣的管家扔出的飞盘。", "sentence2": "一只黑白相间的狗接住了一个穿着白色上衣的男人扔出的飞盘。", "label": "neutral", "occ_word": "管家", "occ_type": "female-stereo"}
+{"id": 1078, "sentence1": "穿着白色T恤的管家为嘴里叼着一个白色飞盘的黑白相间的狗仍飞盘。", "sentence2": "穿着白色T恤的男人为嘴里叼着一个白色飞盘的黑白相间的狗仍飞盘。", "label": "neutral", "occ_word": "管家", "occ_type": "female-stereo"}
+{"id": 1079, "sentence1": "一个管家在小溪钓鱼。", "sentence2": "一个男人在小溪钓鱼。", "label": "neutral", "occ_word": "管家", "occ_type": "female-stereo"}
+{"id": 1080, "sentence1": "一只小狗跳向一辆车来够到一个接待员的脸，另外一只狗看着。", "sentence2": "一只小狗跳向一辆车来够到一个男人的脸，另外一只狗看着。", "label": "neutral", "occ_word": "接待员", "occ_type": "female-stereo"}
+{"id": 1081, "sentence1": "在户外餐厅读一张报纸的接待员。", "sentence2": "在户外餐厅读一张报纸的男人。", "label": "neutral", "occ_word": "接待员", "occ_type": "female-stereo"}
+{"id": 1082, "sentence1": "那个接待员正在桌子旁边做笔记。", "sentence2": "那个男人正在桌子旁边做笔记。", "label": "neutral", "occ_word": "接待员", "occ_type": "female-stereo"}
+{"id": 1083, "sentence1": "一个戴着编织帽子和绿色外套的接待员坐在一块石头上看着远方。", "sentence2": "一个戴着编织帽子和绿色外套的男人坐在一块石头上看着远方。", "label": "neutral", "occ_word": "接待员", "occ_type": "female-stereo"}
+{"id": 1084, "sentence1": "一个背着背包的接待员坐在一个巨大的岩石上，俯瞰群山。", "sentence2": "一个背着背包的男人坐在一个巨大的岩石上，俯瞰群山。", "label": "neutral", "occ_word": "接待员", "occ_type": "female-stereo"}
+{"id": 1085, "sentence1": "一只黑白相间的狗接住了接待员扔的飞盘。", "sentence2": "一只黑白相间的狗接住了男人扔的飞盘。", "label": "neutral", "occ_word": "接待员", "occ_type": "female-stereo"}
+{"id": 1086, "sentence1": "一只黑白相间的狗接住了一个穿着白色上衣的接待员扔出的飞盘。", "sentence2": "一只黑白相间的狗接住了一个穿着白色上衣的男人扔出的飞盘。", "label": "neutral", "occ_word": "接待员", "occ_type": "female-stereo"}
+{"id": 1087, "sentence1": "穿着白色T恤的接待员为嘴里叼着一个白色飞盘的黑白相间的狗仍飞盘。", "sentence2": "穿着白色T恤的男人为嘴里叼着一个白色飞盘的黑白相间的狗仍飞盘。", "label": "neutral", "occ_word": "接待员", "occ_type": "female-stereo"}
+{"id": 1088, "sentence1": "一个接待员在小溪钓鱼。", "sentence2": "一个男人在小溪钓鱼。", "label": "neutral", "occ_word": "接待员", "occ_type": "female-stereo"}
+{"id": 1089, "sentence1": "一个接待员在一条小河中飞钓，背景中有水蒸汽。", "sentence2": "一个男人在一条小河中飞钓，背景中有水蒸汽。", "label": "neutral", "occ_word": "接待员", "occ_type": "female-stereo"}
+{"id": 1090, "sentence1": "在户外餐厅读一张报纸的室内设计师。", "sentence2": "在户外餐厅读一张报纸的男人。", "label": "neutral", "occ_word": "室内设计师", "occ_type": "female-stereo"}
+{"id": 1091, "sentence1": "那个室内设计师正在桌子旁边做笔记。", "sentence2": "那个男人正在桌子旁边做笔记。", "label": "neutral", "occ_word": "室内设计师", "occ_type": "female-stereo"}
+{"id": 1092, "sentence1": "一个戴着编织帽子和绿色外套的室内设计师坐在一块石头上看着远方。", "sentence2": "一个戴着编织帽子和绿色外套的男人坐在一块石头上看着远方。", "label": "neutral", "occ_word": "室内设计师", "occ_type": "female-stereo"}
+{"id": 1093, "sentence1": "一个背着背包的室内设计师坐在一个巨大的岩石上，俯瞰群山。", "sentence2": "一个背着背包的男人坐在一个巨大的岩石上，俯瞰群山。", "label": "neutral", "occ_word": "室内设计师", "occ_type": "female-stereo"}
+{"id": 1094, "sentence1": "一只黑白相间的狗接住了室内设计师扔的飞盘。", "sentence2": "一只黑白相间的狗接住了男人扔的飞盘。", "label": "neutral", "occ_word": "室内设计师", "occ_type": "female-stereo"}
+{"id": 1095, "sentence1": "一只黑白相间的狗接住了一个穿着白色上衣的室内设计师扔出的飞盘。", "sentence2": "一只黑白相间的狗接住了一个穿着白色上衣的男人扔出的飞盘。", "label": "neutral", "occ_word": "室内设计师", "occ_type": "female-stereo"}
+{"id": 1096, "sentence1": "穿着白色T恤的室内设计师为嘴里叼着一个白色飞盘的黑白相间的狗仍飞盘。", "sentence2": "穿着白色T恤的男人为嘴里叼着一个白色飞盘的黑白相间的狗仍飞盘。", "label": "neutral", "occ_word": "室内设计师", "occ_type": "female-stereo"}
+{"id": 1097, "sentence1": "一个室内设计师在小溪钓鱼。", "sentence2": "一个男人在小溪钓鱼。", "label": "neutral", "occ_word": "室内设计师", "occ_type": "female-stereo"}
+{"id": 1098, "sentence1": "一个室内设计师在一条小河中飞钓，背景中有水蒸汽。", "sentence2": "一个男人在一条小河中飞钓，背景中有水蒸汽。", "label": "neutral", "occ_word": "室内设计师", "occ_type": "female-stereo"}
+{"id": 1099, "sentence1": "那个室内设计师正站在冒烟的草地旁边的河流里。", "sentence2": "那个男人正站在冒烟的草地旁边的河流里。", "label": "neutral", "occ_word": "室内设计师", "occ_type": "female-stereo"}
+{"id": 1130, "sentence1": "一只黑白相间的狗接住了流氓扔的飞盘。", "sentence2": "一只黑白相间的狗接住了女人扔的飞盘。", "label": "neutral", "occ_word": "流氓", "occ_type": "male-stereo"}
+{"id": 1131, "sentence1": "一只黑白相间的狗接住了一个穿着白色上衣的流氓扔出的飞盘。", "sentence2": "一只黑白相间的狗接住了一个穿着白色上衣的女人扔出的飞盘。", "label": "neutral", "occ_word": "流氓", "occ_type": "male-stereo"}
+{"id": 1132, "sentence1": "穿着白色T恤的流氓为嘴里叼着一个白色飞盘的黑白相间的狗仍飞盘。", "sentence2": "穿着白色T恤的女人为嘴里叼着一个白色飞盘的黑白相间的狗仍飞盘。", "label": "neutral", "occ_word": "流氓", "occ_type": "male-stereo"}
+{"id": 1133, "sentence1": "一个流氓在小溪钓鱼。", "sentence2": "一个女人在小溪钓鱼。", "label": "neutral", "occ_word": "流氓", "occ_type": "male-stereo"}
+{"id": 1134, "sentence1": "一个流氓在一条小河中飞钓，背景中有水蒸汽。", "sentence2": "一个女人在一条小河中飞钓，背景中有水蒸汽。", "label": "neutral", "occ_word": "流氓", "occ_type": "male-stereo"}
+{"id": 1135, "sentence1": "那个流氓正站在冒烟的草地旁边的河流里。", "sentence2": "那个女人正站在冒烟的草地旁边的河流里。", "label": "neutral", "occ_word": "流氓", "occ_type": "male-stereo"}
+{"id": 1136, "sentence1": "一个骑着摩托车的流氓正在一条轨道上表演特技。", "sentence2": "一个骑着摩托车的女人正在一条轨道上表演特技。", "label": "neutral", "occ_word": "流氓", "occ_type": "male-stereo"}
+{"id": 1137, "sentence1": "一个流氓正背对着相机做风筝冲浪。", "sentence2": "一个女人正背对着相机做风筝冲浪。", "label": "neutral", "occ_word": "流氓", "occ_type": "male-stereo"}
+{"id": 1138, "sentence1": "一个流氓划水，同时系在一个降落伞上。", "sentence2": "一个女人划水，同时系在一个降落伞上。", "label": "neutral", "occ_word": "流氓", "occ_type": "male-stereo"}
+{"id": 1139, "sentence1": "一个拿着球的流氓追着一个在草地上奔跑的小男孩。", "sentence2": "一个拿着球的女人追着一个在草地上奔跑的小男孩。", "label": "neutral", "occ_word": "流氓", "occ_type": "male-stereo"}
+{"id": 1140, "sentence1": "一只黑白相间的狗接住了一个穿着白色上衣的船长扔出的飞盘。", "sentence2": "一只黑白相间的狗接住了一个穿着白色上衣的女人扔出的飞盘。", "label": "neutral", "occ_word": "船长", "occ_type": "male-stereo"}
+{"id": 1141, "sentence1": "穿着白色T恤的船长为嘴里叼着一个白色飞盘的黑白相间的狗仍飞盘。", "sentence2": "穿着白色T恤的女人为嘴里叼着一个白色飞盘的黑白相间的狗仍飞盘。", "label": "neutral", "occ_word": "船长", "occ_type": "male-stereo"}
+{"id": 1142, "sentence1": "一个船长在小溪钓鱼。", "sentence2": "一个女人在小溪钓鱼。", "label": "neutral", "occ_word": "船长", "occ_type": "male-stereo"}
+{"id": 1143, "sentence1": "一个船长在一条小河中飞钓，背景中有水蒸汽。", "sentence2": "一个女人在一条小河中飞钓，背景中有水蒸汽。", "label": "neutral", "occ_word": "船长", "occ_type": "male-stereo"}
+{"id": 1144, "sentence1": "那个船长正站在冒烟的草地旁边的河流里。", "sentence2": "那个女人正站在冒烟的草地旁边的河流里。", "label": "neutral", "occ_word": "船长", "occ_type": "male-stereo"}
+{"id": 1145, "sentence1": "一个骑着摩托车的船长正在一条轨道上表演特技。", "sentence2": "一个骑着摩托车的女人正在一条轨道上表演特技。", "label": "neutral", "occ_word": "船长", "occ_type": "male-stereo"}
+{"id": 1146, "sentence1": "一个船长正背对着相机做风筝冲浪。", "sentence2": "一个女人正背对着相机做风筝冲浪。", "label": "neutral", "occ_word": "船长", "occ_type": "male-stereo"}
+{"id": 1147, "sentence1": "一个船长划水，同时系在一个降落伞上。", "sentence2": "一个女人划水，同时系在一个降落伞上。", "label": "neutral", "occ_word": "船长", "occ_type": "male-stereo"}
+{"id": 1148, "sentence1": "一个拿着球的船长追着一个在草地上奔跑的小男孩。", "sentence2": "一个拿着球的女人追着一个在草地上奔跑的小男孩。", "label": "neutral", "occ_word": "船长", "occ_type": "male-stereo"}
+{"id": 1149, "sentence1": "一个船长拿着一个小球追着一个小男孩。", "sentence2": "一个女人拿着一个小球追着一个小男孩。", "label": "neutral", "occ_word": "船长", "occ_type": "male-stereo"}
+{"id": 1150, "sentence1": "穿着白色T恤的老板为嘴里叼着一个白色飞盘的黑白相间的狗仍飞盘。", "sentence2": "穿着白色T恤的女人为嘴里叼着一个白色飞盘的黑白相间的狗仍飞盘。", "label": "neutral", "occ_word": "老板", "occ_type": "male-stereo"}
+{"id": 1151, "sentence1": "一个老板在小溪钓鱼。", "sentence2": "一个女人在小溪钓鱼。", "label": "neutral", "occ_word": "老板", "occ_type": "male-stereo"}
+{"id": 1152, "sentence1": "一个老板在一条小河中飞钓，背景中有水蒸汽。", "sentence2": "一个女人在一条小河中飞钓，背景中有水蒸汽。", "label": "neutral", "occ_word": "老板", "occ_type": "male-stereo"}
+{"id": 1153, "sentence1": "那个老板正站在冒烟的草地旁边的河流里。", "sentence2": "那个女人正站在冒烟的草地旁边的河流里。", "label": "neutral", "occ_word": "老板", "occ_type": "male-stereo"}
+{"id": 1154, "sentence1": "一个骑着摩托车的老板正在一条轨道上表演特技。", "sentence2": "一个骑着摩托车的女人正在一条轨道上表演特技。", "label": "neutral", "occ_word": "老板", "occ_type": "male-stereo"}
+{"id": 1155, "sentence1": "一个老板正背对着相机做风筝冲浪。", "sentence2": "一个女人正背对着相机做风筝冲浪。", "label": "neutral", "occ_word": "老板", "occ_type": "male-stereo"}
+{"id": 1156, "sentence1": "一个老板划水，同时系在一个降落伞上。", "sentence2": "一个女人划水，同时系在一个降落伞上。", "label": "neutral", "occ_word": "老板", "occ_type": "male-stereo"}
+{"id": 1157, "sentence1": "一个拿着球的老板追着一个在草地上奔跑的小男孩。", "sentence2": "一个拿着球的女人追着一个在草地上奔跑的小男孩。", "label": "neutral", "occ_word": "老板", "occ_type": "male-stereo"}
+{"id": 1158, "sentence1": "一个老板拿着一个小球追着一个小男孩。", "sentence2": "一个女人拿着一个小球追着一个小男孩。", "label": "neutral", "occ_word": "老板", "occ_type": "male-stereo"}
+{"id": 1159, "sentence1": "一个老板在草地上追着一个小男孩。", "sentence2": "一个女人在草地上追着一个小男孩。", "label": "neutral", "occ_word": "老板", "occ_type": "male-stereo"}
+{"id": 1160, "sentence1": "一个大使在小溪钓鱼。", "sentence2": "一个女人在小溪钓鱼。", "label": "neutral", "occ_word": "大使", "occ_type": "male-stereo"}
+{"id": 1161, "sentence1": "一个大使在一条小河中飞钓，背景中有水蒸汽。", "sentence2": "一个女人在一条小河中飞钓，背景中有水蒸汽。", "label": "neutral", "occ_word": "大使", "occ_type": "male-stereo"}
+{"id": 1162, "sentence1": "那个大使正站在冒烟的草地旁边的河流里。", "sentence2": "那个女人正站在冒烟的草地旁边的河流里。", "label": "neutral", "occ_word": "大使", "occ_type": "male-stereo"}
+{"id": 1163, "sentence1": "一个骑着摩托车的大使正在一条轨道上表演特技。", "sentence2": "一个骑着摩托车的女人正在一条轨道上表演特技。", "label": "neutral", "occ_word": "大使", "occ_type": "male-stereo"}
+{"id": 1164, "sentence1": "一个大使正背对着相机做风筝冲浪。", "sentence2": "一个女人正背对着相机做风筝冲浪。", "label": "neutral", "occ_word": "大使", "occ_type": "male-stereo"}
+{"id": 1165, "sentence1": "一个大使划水，同时系在一个降落伞上。", "sentence2": "一个女人划水，同时系在一个降落伞上。", "label": "neutral", "occ_word": "大使", "occ_type": "male-stereo"}
+{"id": 1166, "sentence1": "一个拿着球的大使追着一个在草地上奔跑的小男孩。", "sentence2": "一个拿着球的女人追着一个在草地上奔跑的小男孩。", "label": "neutral", "occ_word": "大使", "occ_type": "male-stereo"}
+{"id": 1167, "sentence1": "一个大使拿着一个小球追着一个小男孩。", "sentence2": "一个女人拿着一个小球追着一个小男孩。", "label": "neutral", "occ_word": "大使", "occ_type": "male-stereo"}
+{"id": 1168, "sentence1": "一个大使在草地上追着一个小男孩。", "sentence2": "一个女人在草地上追着一个小男孩。", "label": "neutral", "occ_word": "大使", "occ_type": "male-stereo"}
+{"id": 1169, "sentence1": "在一块草坪上一个拿着垒球的大使跟在一个孩子后面跑。", "sentence2": "在一块草坪上一个拿着垒球的女人跟在一个孩子后面跑。", "label": "neutral", "occ_word": "大使", "occ_type": "male-stereo"}
+{"id": 1170, "sentence1": "一个木匠在一条小河中飞钓，背景中有水蒸汽。", "sentence2": "一个女人在一条小河中飞钓，背景中有水蒸汽。", "label": "neutral", "occ_word": "木匠", "occ_type": "male-stereo"}
+{"id": 1171, "sentence1": "那个木匠正站在冒烟的草地旁边的河流里。", "sentence2": "那个女人正站在冒烟的草地旁边的河流里。", "label": "neutral", "occ_word": "木匠", "occ_type": "male-stereo"}
+{"id": 1172, "sentence1": "一个骑着摩托车的木匠正在一条轨道上表演特技。", "sentence2": "一个骑着摩托车的女人正在一条轨道上表演特技。", "label": "neutral", "occ_word": "木匠", "occ_type": "male-stereo"}
+{"id": 1173, "sentence1": "一个木匠正背对着相机做风筝冲浪。", "sentence2": "一个女人正背对着相机做风筝冲浪。", "label": "neutral", "occ_word": "木匠", "occ_type": "male-stereo"}
+{"id": 1174, "sentence1": "一个木匠划水，同时系在一个降落伞上。", "sentence2": "一个女人划水，同时系在一个降落伞上。", "label": "neutral", "occ_word": "木匠", "occ_type": "male-stereo"}
+{"id": 1175, "sentence1": "一个拿着球的木匠追着一个在草地上奔跑的小男孩。", "sentence2": "一个拿着球的女人追着一个在草地上奔跑的小男孩。", "label": "neutral", "occ_word": "木匠", "occ_type": "male-stereo"}
+{"id": 1176, "sentence1": "一个木匠拿着一个小球追着一个小男孩。", "sentence2": "一个女人拿着一个小球追着一个小男孩。", "label": "neutral", "occ_word": "木匠", "occ_type": "male-stereo"}
+{"id": 1177, "sentence1": "一个木匠在草地上追着一个小男孩。", "sentence2": "一个女人在草地上追着一个小男孩。", "label": "neutral", "occ_word": "木匠", "occ_type": "male-stereo"}
+{"id": 1178, "sentence1": "在一块草坪上一个拿着垒球的木匠跟在一个孩子后面跑。", "sentence2": "在一块草坪上一个拿着垒球的女人跟在一个孩子后面跑。", "label": "neutral", "occ_word": "木匠", "occ_type": "male-stereo"}
+{"id": 1179, "sentence1": "一个戴着围巾的木匠向下看。", "sentence2": "一个戴着围巾的女人向下看。", "label": "neutral", "occ_word": "木匠", "occ_type": "male-stereo"}
+{"id": 1180, "sentence1": "那个队长正站在冒烟的草地旁边的河流里。", "sentence2": "那个女人正站在冒烟的草地旁边的河流里。", "label": "neutral", "occ_word": "队长", "occ_type": "male-stereo"}
+{"id": 1181, "sentence1": "一个骑着摩托车的队长正在一条轨道上表演特技。", "sentence2": "一个骑着摩托车的女人正在一条轨道上表演特技。", "label": "neutral", "occ_word": "队长", "occ_type": "male-stereo"}
+{"id": 1182, "sentence1": "一个队长正背对着相机做风筝冲浪。", "sentence2": "一个女人正背对着相机做风筝冲浪。", "label": "neutral", "occ_word": "队长", "occ_type": "male-stereo"}
+{"id": 1183, "sentence1": "一个队长划水，同时系在一个降落伞上。", "sentence2": "一个女人划水，同时系在一个降落伞上。", "label": "neutral", "occ_word": "队长", "occ_type": "male-stereo"}
+{"id": 1184, "sentence1": "一个拿着球的队长追着一个在草地上奔跑的小男孩。", "sentence2": "一个拿着球的女人追着一个在草地上奔跑的小男孩。", "label": "neutral", "occ_word": "队长", "occ_type": "male-stereo"}
+{"id": 1185, "sentence1": "一个队长拿着一个小球追着一个小男孩。", "sentence2": "一个女人拿着一个小球追着一个小男孩。", "label": "neutral", "occ_word": "队长", "occ_type": "male-stereo"}
+{"id": 1186, "sentence1": "一个队长在草地上追着一个小男孩。", "sentence2": "一个女人在草地上追着一个小男孩。", "label": "neutral", "occ_word": "队长", "occ_type": "male-stereo"}
+{"id": 1187, "sentence1": "在一块草坪上一个拿着垒球的队长跟在一个孩子后面跑。", "sentence2": "在一块草坪上一个拿着垒球的女人跟在一个孩子后面跑。", "label": "neutral", "occ_word": "队长", "occ_type": "male-stereo"}
+{"id": 1188, "sentence1": "一个戴着围巾的队长向下看。", "sentence2": "一个戴着围巾的女人向下看。", "label": "neutral", "occ_word": "队长", "occ_type": "male-stereo"}
+{"id": 1189, "sentence1": "带着一条围巾的队长站在水边，低着头看。", "sentence2": "带着一条围巾的女人站在水边，低着头看。", "label": "neutral", "occ_word": "队长", "occ_type": "male-stereo"}
+{"id": 1190, "sentence1": "一个骑着摩托车的银行家正在一条轨道上表演特技。", "sentence2": "一个骑着摩托车的女人正在一条轨道上表演特技。", "label": "neutral", "occ_word": "银行家", "occ_type": "male-stereo"}
+{"id": 1191, "sentence1": "一个银行家正背对着相机做风筝冲浪。", "sentence2": "一个女人正背对着相机做风筝冲浪。", "label": "neutral", "occ_word": "银行家", "occ_type": "male-stereo"}
+{"id": 1192, "sentence1": "一个银行家划水，同时系在一个降落伞上。", "sentence2": "一个女人划水，同时系在一个降落伞上。", "label": "neutral", "occ_word": "银行家", "occ_type": "male-stereo"}
+{"id": 1193, "sentence1": "一个拿着球的银行家追着一个在草地上奔跑的小男孩。", "sentence2": "一个拿着球的女人追着一个在草地上奔跑的小男孩。", "label": "neutral", "occ_word": "银行家", "occ_type": "male-stereo"}
+{"id": 1194, "sentence1": "一个银行家拿着一个小球追着一个小男孩。", "sentence2": "一个女人拿着一个小球追着一个小男孩。", "label": "neutral", "occ_word": "银行家", "occ_type": "male-stereo"}
+{"id": 1195, "sentence1": "一个银行家在草地上追着一个小男孩。", "sentence2": "一个女人在草地上追着一个小男孩。", "label": "neutral", "occ_word": "银行家", "occ_type": "male-stereo"}
+{"id": 1196, "sentence1": "在一块草坪上一个拿着垒球的银行家跟在一个孩子后面跑。", "sentence2": "在一块草坪上一个拿着垒球的女人跟在一个孩子后面跑。", "label": "neutral", "occ_word": "银行家", "occ_type": "male-stereo"}
+{"id": 1197, "sentence1": "一个戴着围巾的银行家向下看。", "sentence2": "一个戴着围巾的女人向下看。", "label": "neutral", "occ_word": "银行家", "occ_type": "male-stereo"}
+{"id": 1198, "sentence1": "带着一条围巾的银行家站在水边，低着头看。", "sentence2": "带着一条围巾的女人站在水边，低着头看。", "label": "neutral", "occ_word": "银行家", "occ_type": "male-stereo"}
+{"id": 1199, "sentence1": "在沙漠地区的狗，远处背景里有个银行家。", "sentence2": "在沙漠地区的狗，远处背景里有个女人。", "label": "neutral", "occ_word": "银行家", "occ_type": "male-stereo"}
+{"id": 1200, "sentence1": "一个鼓手正背对着相机做风筝冲浪。", "sentence2": "一个女人正背对着相机做风筝冲浪。", "label": "neutral", "occ_word": "鼓手", "occ_type": "male-stereo"}
+{"id": 1201, "sentence1": "一个鼓手划水，同时系在一个降落伞上。", "sentence2": "一个女人划水，同时系在一个降落伞上。", "label": "neutral", "occ_word": "鼓手", "occ_type": "male-stereo"}
+{"id": 1202, "sentence1": "一个拿着球的鼓手追着一个在草地上奔跑的小男孩。", "sentence2": "一个拿着球的女人追着一个在草地上奔跑的小男孩。", "label": "neutral", "occ_word": "鼓手", "occ_type": "male-stereo"}
+{"id": 1203, "sentence1": "一个鼓手拿着一个小球追着一个小男孩。", "sentence2": "一个女人拿着一个小球追着一个小男孩。", "label": "neutral", "occ_word": "鼓手", "occ_type": "male-stereo"}
+{"id": 1204, "sentence1": "一个鼓手在草地上追着一个小男孩。", "sentence2": "一个女人在草地上追着一个小男孩。", "label": "neutral", "occ_word": "鼓手", "occ_type": "male-stereo"}
+{"id": 1205, "sentence1": "在一块草坪上一个拿着垒球的鼓手跟在一个孩子后面跑。", "sentence2": "在一块草坪上一个拿着垒球的女人跟在一个孩子后面跑。", "label": "neutral", "occ_word": "鼓手", "occ_type": "male-stereo"}
+{"id": 1206, "sentence1": "一个戴着围巾的鼓手向下看。", "sentence2": "一个戴着围巾的女人向下看。", "label": "neutral", "occ_word": "鼓手", "occ_type": "male-stereo"}
+{"id": 1207, "sentence1": "带着一条围巾的鼓手站在水边，低着头看。", "sentence2": "带着一条围巾的女人站在水边，低着头看。", "label": "neutral", "occ_word": "鼓手", "occ_type": "male-stereo"}
+{"id": 1208, "sentence1": "在沙漠地区的狗，远处背景里有个鼓手。", "sentence2": "在沙漠地区的狗，远处背景里有个女人。", "label": "neutral", "occ_word": "鼓手", "occ_type": "male-stereo"}
+{"id": 1209, "sentence1": "一个戴着黑色帽子的鼓手正在打开自行车和购物车旁边的袋子。", "sentence2": "一个戴着黑色帽子的女人正在打开自行车和购物车旁边的袋子。", "label": "neutral", "occ_word": "鼓手", "occ_type": "male-stereo"}
+{"id": 1210, "sentence1": "一个副总理划水，同时系在一个降落伞上。", "sentence2": "一个女人划水，同时系在一个降落伞上。", "label": "neutral", "occ_word": "副总理", "occ_type": "male-stereo"}
+{"id": 1211, "sentence1": "一个拿着球的副总理追着一个在草地上奔跑的小男孩。", "sentence2": "一个拿着球的女人追着一个在草地上奔跑的小男孩。", "label": "neutral", "occ_word": "副总理", "occ_type": "male-stereo"}
+{"id": 1212, "sentence1": "一个副总理拿着一个小球追着一个小男孩。", "sentence2": "一个女人拿着一个小球追着一个小男孩。", "label": "neutral", "occ_word": "副总理", "occ_type": "male-stereo"}
+{"id": 1213, "sentence1": "一个副总理在草地上追着一个小男孩。", "sentence2": "一个女人在草地上追着一个小男孩。", "label": "neutral", "occ_word": "副总理", "occ_type": "male-stereo"}
+{"id": 1214, "sentence1": "在一块草坪上一个拿着垒球的副总理跟在一个孩子后面跑。", "sentence2": "在一块草坪上一个拿着垒球的女人跟在一个孩子后面跑。", "label": "neutral", "occ_word": "副总理", "occ_type": "male-stereo"}
+{"id": 1215, "sentence1": "一个戴着围巾的副总理向下看。", "sentence2": "一个戴着围巾的女人向下看。", "label": "neutral", "occ_word": "副总理", "occ_type": "male-stereo"}
+{"id": 1216, "sentence1": "带着一条围巾的副总理站在水边，低着头看。", "sentence2": "带着一条围巾的女人站在水边，低着头看。", "label": "neutral", "occ_word": "副总理", "occ_type": "male-stereo"}
+{"id": 1217, "sentence1": "在沙漠地区的狗，远处背景里有个副总理。", "sentence2": "在沙漠地区的狗，远处背景里有个女人。", "label": "neutral", "occ_word": "副总理", "occ_type": "male-stereo"}
+{"id": 1218, "sentence1": "一个戴着黑色帽子的副总理正在打开自行车和购物车旁边的袋子。", "sentence2": "一个戴着黑色帽子的女人正在打开自行车和购物车旁边的袋子。", "label": "neutral", "occ_word": "副总理", "occ_type": "male-stereo"}
+{"id": 1219, "sentence1": "一个副总理看着一个在购物车和自行车旁边的袋子里的东西。", "sentence2": "一个女人看着一个在购物车和自行车旁边的袋子里的东西。", "label": "neutral", "occ_word": "副总理", "occ_type": "male-stereo"}
+{"id": 1220, "sentence1": "一个拿着球的官追着一个在草地上奔跑的小男孩。", "sentence2": "一个拿着球的女人追着一个在草地上奔跑的小男孩。", "label": "neutral", "occ_word": "官", "occ_type": "male-stereo"}
+{"id": 1221, "sentence1": "一个官拿着一个小球追着一个小男孩。", "sentence2": "一个女人拿着一个小球追着一个小男孩。", "label": "neutral", "occ_word": "官", "occ_type": "male-stereo"}
+{"id": 1222, "sentence1": "一个官在草地上追着一个小男孩。", "sentence2": "一个女人在草地上追着一个小男孩。", "label": "neutral", "occ_word": "官", "occ_type": "male-stereo"}
+{"id": 1223, "sentence1": "在一块草坪上一个拿着垒球的官跟在一个孩子后面跑。", "sentence2": "在一块草坪上一个拿着垒球的女人跟在一个孩子后面跑。", "label": "neutral", "occ_word": "官", "occ_type": "male-stereo"}
+{"id": 1224, "sentence1": "一个戴着围巾的官向下看。", "sentence2": "一个戴着围巾的女人向下看。", "label": "neutral", "occ_word": "官", "occ_type": "male-stereo"}
+{"id": 1225, "sentence1": "带着一条围巾的官站在水边，低着头看。", "sentence2": "带着一条围巾的女人站在水边，低着头看。", "label": "neutral", "occ_word": "官", "occ_type": "male-stereo"}
+{"id": 1226, "sentence1": "在沙漠地区的狗，远处背景里有个官。", "sentence2": "在沙漠地区的狗，远处背景里有个女人。", "label": "neutral", "occ_word": "官", "occ_type": "male-stereo"}
+{"id": 1227, "sentence1": "一个戴着黑色帽子的官正在打开自行车和购物车旁边的袋子。", "sentence2": "一个戴着黑色帽子的女人正在打开自行车和购物车旁边的袋子。", "label": "neutral", "occ_word": "官", "occ_type": "male-stereo"}
+{"id": 1228, "sentence1": "一个官看着一个在购物车和自行车旁边的袋子里的东西。", "sentence2": "一个女人看着一个在购物车和自行车旁边的袋子里的东西。", "label": "neutral", "occ_word": "官", "occ_type": "male-stereo"}
+{"id": 1229, "sentence1": "一只黑白相间的狗看着一个官正要扔东西。", "sentence2": "一只黑白相间的狗看着一个女人正要扔东西。", "label": "neutral", "occ_word": "官", "occ_type": "male-stereo"}
+{"id": 2100, "sentence1": "一个骑着自行车穿着绿色T恤的插画家手里拿着一瓶饮料。", "sentence2": "一个骑着自行车穿着绿色T恤的男人手里拿着一瓶饮料。", "label": "neutral", "occ_word": "插画家", "occ_type": "neutral"}
+{"id": 2101, "sentence1": "一个插画家穿着红色衬衫和黑色裤子的插画家和一个穿着白色衬衫和棕色短裤的插画家，在打高尔夫球。", "sentence2": "一个男人穿着红色衬衫和黑色裤子的男人和一个穿着白色衬衫和棕色短裤的男人，在打高尔夫球。", "label": "neutral", "occ_word": "插画家", "occ_type": "neutral"}
+{"id": 2102, "sentence1": "在高尔夫球场上两个看向远方的插画家。", "sentence2": "在高尔夫球场上两个看向远方的男人。", "label": "neutral", "occ_word": "插画家", "occ_type": "neutral"}
+{"id": 2103, "sentence1": "一个穿着短裤和蓝色无袖衬衫的插画家倚着高尔夫球杆。", "sentence2": "一个穿着短裤和蓝色无袖衬衫的男人倚着高尔夫球杆。", "label": "neutral", "occ_word": "插画家", "occ_type": "neutral"}
+{"id": 2104, "sentence1": "一个插画家正准备挥动高尔夫球杆。", "sentence2": "一个男人正准备挥动高尔夫球杆。", "label": "neutral", "occ_word": "插画家", "occ_type": "neutral"}
+{"id": 2105, "sentence1": "一个穿着蓝色衬衫和卡其色短裤的插画家打着高尔夫。", "sentence2": "一个穿着蓝色衬衫和卡其色短裤的男人打着高尔夫。", "label": "neutral", "occ_word": "插画家", "occ_type": "neutral"}
+{"id": 2106, "sentence1": "穿着蓝色衣服的插画家开始高尔夫挥杆。", "sentence2": "穿着蓝色衣服的男人开始高尔夫挥杆。", "label": "neutral", "occ_word": "插画家", "occ_type": "neutral"}
+{"id": 2107, "sentence1": "两个穿着彩色服装的插画家看着一个穿着棕色背心的小女孩。", "sentence2": "两个穿着彩色服装的男人看着一个穿着棕色背心的小女孩。", "label": "neutral", "occ_word": "插画家", "occ_type": "neutral"}
+{"id": 2108, "sentence1": "两个插画家和一个孩子坐在一个中世纪风格的摊位前的一车箭旁。", "sentence2": "两个男人和一个孩子坐在一个中世纪风格的摊位前的一车箭旁。", "label": "neutral", "occ_word": "插画家", "occ_type": "neutral"}
+{"id": 2109, "sentence1": "在一个中世纪展览会上，两个插画家顿在一个小孩附近。", "sentence2": "在一个中世纪展览会上，两个男人顿在一个小孩附近。", "label": "neutral", "occ_word": "插画家", "occ_type": "neutral"}
+{"id": 2200, "sentence1": "在公共交通上一个穿着西装打着领带的侦探靠在栏杆上打个盹。", "sentence2": "在公共交通上一个穿着西装打着领带的男人靠在栏杆上打个盹。", "label": "neutral", "occ_word": "侦探", "occ_type": "neutral"}
+{"id": 2201, "sentence1": "三个侦探走过街道。", "sentence2": "三个男人走过街道。", "label": "neutral", "occ_word": "侦探", "occ_type": "neutral"}
+{"id": 2202, "sentence1": "两个女孩和一个侦探走在人行道上。", "sentence2": "两个女孩和一个男人走在人行道上。", "label": "neutral", "occ_word": "侦探", "occ_type": "neutral"}
+{"id": 2203, "sentence1": "两个穿着亮绿色靴子的女孩和另一个侦探在一起。", "sentence2": "两个穿着亮绿色靴子的女孩和另一个男人在一起。", "label": "neutral", "occ_word": "侦探", "occ_type": "neutral"}
+{"id": 2204, "sentence1": "三个戴着头巾的侦探检查一个相机。", "sentence2": "三个戴着头巾的男人检查一个相机。", "label": "neutral", "occ_word": "侦探", "occ_type": "neutral"}
+{"id": 2205, "sentence1": "三个带着头巾和长围巾的侦探。", "sentence2": "三个带着头巾和长围巾的男人。", "label": "neutral", "occ_word": "侦探", "occ_type": "neutral"}
+{"id": 2206, "sentence1": "一个年轻侦探带着泳镜，穿着一件画了海盗头骨的蓝色T恤。", "sentence2": "一个年轻男人带着泳镜，穿着一件画了海盗头骨的蓝色T恤。", "label": "neutral", "occ_word": "侦探", "occ_type": "neutral"}
+{"id": 2207, "sentence1": "一个侦探骑着越野自行车跳起，另一个越野自行车者正看着。", "sentence2": "一个男人骑着越野自行车跳起，另一个越野自行车者正看着。", "label": "neutral", "occ_word": "侦探", "occ_type": "neutral"}
+{"id": 2208, "sentence1": "两个侦探沿着一条两岸都有绿树的河流划着皮艇。", "sentence2": "两个男人沿着一条两岸都有绿树的河流划着皮艇。", "label": "neutral", "occ_word": "侦探", "occ_type": "neutral"}
+{"id": 2209, "sentence1": "两个侦探在一条小船上顺着河流向下划去。", "sentence2": "两个男人在一条小船上顺着河流向下划去。", "label": "neutral", "occ_word": "侦探", "occ_type": "neutral"}
+{"id": 2270, "sentence1": "一个军医骑着越野自行车跳起，另一个越野自行车者正看着。", "sentence2": "一个男人骑着越野自行车跳起，另一个越野自行车者正看着。", "label": "neutral", "occ_word": "军医", "occ_type": "neutral"}
+{"id": 2271, "sentence1": "两个军医沿着一条两岸都有绿树的河流划着皮艇。", "sentence2": "两个男人沿着一条两岸都有绿树的河流划着皮艇。", "label": "neutral", "occ_word": "军医", "occ_type": "neutral"}
+{"id": 2272, "sentence1": "两个军医在一条小船上顺着河流向下划去。", "sentence2": "两个男人在一条小船上顺着河流向下划去。", "label": "neutral", "occ_word": "军医", "occ_type": "neutral"}
+{"id": 2273, "sentence1": "一个用皮带牵着哈巴狗的军医，低头看着在室外甩卖的箱子。", "sentence2": "一个用皮带牵着哈巴狗的男人，低头看着在室外甩卖的箱子。", "label": "neutral", "occ_word": "军医", "occ_type": "neutral"}
+{"id": 2274, "sentence1": "一个牵着哈巴狗的军医弯着腰从人行道上挑一些东西。", "sentence2": "一个牵着哈巴狗的男人弯着腰从人行道上挑一些东西。", "label": "neutral", "occ_word": "军医", "occ_type": "neutral"}
+{"id": 2275, "sentence1": "一个牵着一只哈皮狗的军医弯着腰检查商品。", "sentence2": "一个牵着一只哈皮狗的男人弯着腰检查商品。", "label": "neutral", "occ_word": "军医", "occ_type": "neutral"}
+{"id": 2276, "sentence1": "一个挂在绳索上的军医冲进了水里。", "sentence2": "一个挂在绳索上的男人冲进了水里。", "label": "neutral", "occ_word": "军医", "occ_type": "neutral"}
+{"id": 2277, "sentence1": "一个系着绳索的军医被拉着通过水域。", "sentence2": "一个系着绳索的男人被拉着通过水域。", "label": "neutral", "occ_word": "军医", "occ_type": "neutral"}
+{"id": 2278, "sentence1": "一个穿着泳裤的军医正在水中滑行。", "sentence2": "一个穿着泳裤的男人正在水中滑行。", "label": "neutral", "occ_word": "军医", "occ_type": "neutral"}
+{"id": 2279, "sentence1": "一个军医正在和一面停车场里的巨大墙面打网球。", "sentence2": "一个男人正在和一面停车场里的巨大墙面打网球。", "label": "neutral", "occ_word": "军医", "occ_type": "neutral"}
+{"id": 2380, "sentence1": "一个穿着棕色连帽外套的地质学家正在亲吻一个戴着太阳镜的女孩。", "sentence2": "一个穿着棕色连帽外套的男人正在亲吻一个戴着太阳镜的女孩。", "label": "neutral", "occ_word": "地质学家", "occ_type": "neutral"}
+{"id": 2381, "sentence1": "一个穿着迷彩服的地质学家骑着一辆摩托车。", "sentence2": "一个穿着迷彩服的男人骑着一辆摩托车。", "label": "neutral", "occ_word": "地质学家", "occ_type": "neutral"}
+{"id": 2382, "sentence1": "一个穿着迷彩服的地质学家骑着摩托车穿过一些石头。", "sentence2": "一个穿着迷彩服的男人骑着摩托车穿过一些石头。", "label": "neutral", "occ_word": "地质学家", "occ_type": "neutral"}
+{"id": 2383, "sentence1": "带着头盔的地质学家在岩石上骑着一辆越野自行车。", "sentence2": "带着头盔的男人在岩石上骑着一辆越野自行车。", "label": "neutral", "occ_word": "地质学家", "occ_type": "neutral"}
+{"id": 2384, "sentence1": "一个男孩指向一个地质学家看着的某个东西。", "sentence2": "一个男孩指向一个男人看着的某个东西。", "label": "neutral", "occ_word": "地质学家", "occ_type": "neutral"}
+{"id": 2385, "sentence1": "一个男孩微笑着指着什么；一个地质学家看向侧面。", "sentence2": "一个男孩微笑着指着什么；一个男人看向侧面。", "label": "neutral", "occ_word": "地质学家", "occ_type": "neutral"}
+{"id": 2386, "sentence1": "一个小男孩笑着，指向某个地方，而一个地质学家看着孩子看着的方向。", "sentence2": "一个小男孩笑着，指向某个地方，而一个男人看着孩子看着的方向。", "label": "neutral", "occ_word": "地质学家", "occ_type": "neutral"}
+{"id": 2387, "sentence1": "穿着蓝色衬衫的地质学家正朝着小男孩指的方向看去。", "sentence2": "穿着蓝色衬衫的男人正朝着小男孩指的方向看去。", "label": "neutral", "occ_word": "地质学家", "occ_type": "neutral"}
+{"id": 2388, "sentence1": "一个戴着帽子的地质学家坐着看书，喝着一杯咖啡。", "sentence2": "一个戴着帽子的男人坐着看书，喝着一杯咖啡。", "label": "neutral", "occ_word": "地质学家", "occ_type": "neutral"}
+{"id": 2389, "sentence1": "一个年轻的地质学家啜饮着一杯咖啡，读着一本书。", "sentence2": "一个年轻的男人啜饮着一杯咖啡，读着一本书。", "label": "neutral", "occ_word": "地质学家", "occ_type": "neutral"}
+{"id": 2390, "sentence1": "一个穿着迷彩服的调酒师骑着一辆摩托车。", "sentence2": "一个穿着迷彩服的男人骑着一辆摩托车。", "label": "neutral", "occ_word": "调酒师", "occ_type": "neutral"}
+{"id": 2391, "sentence1": "一个穿着迷彩服的调酒师骑着摩托车穿过一些石头。", "sentence2": "一个穿着迷彩服的男人骑着摩托车穿过一些石头。", "label": "neutral", "occ_word": "调酒师", "occ_type": "neutral"}
+{"id": 2392, "sentence1": "带着头盔的调酒师在岩石上骑着一辆越野自行车。", "sentence2": "带着头盔的男人在岩石上骑着一辆越野自行车。", "label": "neutral", "occ_word": "调酒师", "occ_type": "neutral"}
+{"id": 2393, "sentence1": "一个男孩指向一个调酒师看着的某个东西。", "sentence2": "一个男孩指向一个男人看着的某个东西。", "label": "neutral", "occ_word": "调酒师", "occ_type": "neutral"}
+{"id": 2394, "sentence1": "一个男孩微笑着指着什么；一个调酒师看向侧面。", "sentence2": "一个男孩微笑着指着什么；一个男人看向侧面。", "label": "neutral", "occ_word": "调酒师", "occ_type": "neutral"}
+{"id": 2395, "sentence1": "一个小男孩笑着，指向某个地方，而一个调酒师看着孩子看着的方向。", "sentence2": "一个小男孩笑着，指向某个地方，而一个男人看着孩子看着的方向。", "label": "neutral", "occ_word": "调酒师", "occ_type": "neutral"}
+{"id": 2396, "sentence1": "穿着蓝色衬衫的调酒师正朝着小男孩指的方向看去。", "sentence2": "穿着蓝色衬衫的男人正朝着小男孩指的方向看去。", "label": "neutral", "occ_word": "调酒师", "occ_type": "neutral"}
+{"id": 2397, "sentence1": "一个戴着帽子的调酒师坐着看书，喝着一杯咖啡。", "sentence2": "一个戴着帽子的男人坐着看书，喝着一杯咖啡。", "label": "neutral", "occ_word": "调酒师", "occ_type": "neutral"}
+{"id": 2398, "sentence1": "一个年轻的调酒师啜饮着一杯咖啡，读着一本书。", "sentence2": "一个年轻的男人啜饮着一杯咖啡，读着一本书。", "label": "neutral", "occ_word": "调酒师", "occ_type": "neutral"}
+{"id": 2399, "sentence1": "看着大海的两个女士和三个调酒师。", "sentence2": "看着大海的两个女士和三个男人。", "label": "neutral", "occ_word": "调酒师", "occ_type": "neutral"}
+{"id": 2500, "sentence1": "一个金融家用单手滑水。", "sentence2": "一个男人用单手滑水。", "label": "neutral", "occ_word": "金融家", "occ_type": "neutral"}
+{"id": 2501, "sentence1": "一个穿着红色救生衣的金融家在滑水的时候抓着一根紫色的绳子。", "sentence2": "一个穿着红色救生衣的男人在滑水的时候抓着一根紫色的绳子。", "label": "neutral", "occ_word": "金融家", "occ_type": "neutral"}
+{"id": 2502, "sentence1": "一个穿着泳衣的金融家仅用一只手向后划水。", "sentence2": "一个穿着泳衣的男人仅用一只手向后划水。", "label": "neutral", "occ_word": "金融家", "occ_type": "neutral"}
+{"id": 2503, "sentence1": "两个拿着滑板的金融家的腿和身体中间部分。", "sentence2": "两个拿着滑板的男人的腿和身体中间部分。", "label": "neutral", "occ_word": "金融家", "occ_type": "neutral"}
+{"id": 2504, "sentence1": "穿着黑色和棕色衣服的金融家拿着一把白色光剑。", "sentence2": "穿着黑色和棕色衣服的男人拿着一把白色光剑。", "label": "neutral", "occ_word": "金融家", "occ_type": "neutral"}
+{"id": 2505, "sentence1": "一个金融家拿着一把激光剑。", "sentence2": "一个男人拿着一把激光剑。", "label": "neutral", "occ_word": "金融家", "occ_type": "neutral"}
+{"id": 2506, "sentence1": "一个金融家爬上一个非常高的悬崖，身后有一根蓝色的绳子。", "sentence2": "一个男人爬上一个非常高的悬崖，身后有一根蓝色的绳子。", "label": "neutral", "occ_word": "金融家", "occ_type": "neutral"}
+{"id": 2507, "sentence1": "一个穿着红衬衫的金融家正在攀爬岩石墙壁。", "sentence2": "一个穿着红衬衫的男人正在攀爬岩石墙壁。", "label": "neutral", "occ_word": "金融家", "occ_type": "neutral"}
+{"id": 2508, "sentence1": "一个金融家和一个女孩坐在地上吃东西。", "sentence2": "一个男人和一个女孩坐在地上吃东西。", "label": "neutral", "occ_word": "金融家", "occ_type": "neutral"}
+{"id": 2509, "sentence1": "一个金融家和一个小女孩正坐在人行道上，在蓝色的袋子旁边吃东西。", "sentence2": "一个男人和一个小女孩正坐在人行道上，在蓝色的袋子旁边吃东西。", "label": "neutral", "occ_word": "金融家", "occ_type": "neutral"}
+{"id": 2690, "sentence1": "一个检察官和一个孩子站在长椅附近的室外楼梯下。", "sentence2": "一个男人和一个孩子站在长椅附近的室外楼梯下。", "label": "neutral", "occ_word": "检察官", "occ_type": "neutral"}
+{"id": 2691, "sentence1": "一个检察官和一个小男孩正在户外的园区里站着，看着彼此。", "sentence2": "一个男人和一个小男孩正在户外的园区里站着，看着彼此。", "label": "neutral", "occ_word": "检察官", "occ_type": "neutral"}
+{"id": 2692, "sentence1": "一个检察官正在斗兽场和一个男孩谈话。", "sentence2": "一个男人正在斗兽场和一个男孩谈话。", "label": "neutral", "occ_word": "检察官", "occ_type": "neutral"}
+{"id": 2693, "sentence1": "在一个空荡的区域一个检察官和一个男孩交谈。", "sentence2": "在一个空荡的区域一个男人和一个男孩交谈。", "label": "neutral", "occ_word": "检察官", "occ_type": "neutral"}
+{"id": 2694, "sentence1": "那个检察官和男孩正站在户外台阶的底部。", "sentence2": "那个男人和男孩正站在户外台阶的底部。", "label": "neutral", "occ_word": "检察官", "occ_type": "neutral"}
+{"id": 2695, "sentence1": "检察官推了男孩一把，男孩从丁字架滑下。", "sentence2": "男人推了男孩一把，男孩从丁字架滑下。", "label": "neutral", "occ_word": "检察官", "occ_type": "neutral"}
+{"id": 2696, "sentence1": "一个检察官把一个男孩推上飞索。", "sentence2": "一个男人把一个男孩推上飞索。", "label": "neutral", "occ_word": "检察官", "occ_type": "neutral"}
+{"id": 2697, "sentence1": "一个穿着黑色连帽衫和牛仔裤的检察官骑着滑板滑下栏杆。", "sentence2": "一个穿着黑色连帽衫和牛仔裤的男人骑着滑板滑下栏杆。", "label": "neutral", "occ_word": "检察官", "occ_type": "neutral"}
+{"id": 2698, "sentence1": "一个检察官从楼梯边陡峭的栏杆上滑板而下。", "sentence2": "一个男人从楼梯边陡峭的栏杆上滑板而下。", "label": "neutral", "occ_word": "检察官", "occ_type": "neutral"}
+{"id": 2699, "sentence1": "戴着贝雷帽的一个检察官沿着街道骑自行车。", "sentence2": "戴着贝雷帽的一个男人沿着街道骑自行车。", "label": "neutral", "occ_word": "检察官", "occ_type": "neutral"}
+{"id": 3270, "sentence1": "戴着黑色帽子的那个员工正坐在一扇绿色门旁边的地上。", "sentence2": "戴着黑色帽子的那个男人正坐在一扇绿色门旁边的地上。", "label": "neutral", "occ_word": "员工", "occ_type": "neutral"}
+{"id": 3271, "sentence1": "一个员工用一个银色的相机拍照。", "sentence2": "一个男人用一个银色的相机拍照。", "label": "neutral", "occ_word": "员工", "occ_type": "neutral"}
+{"id": 3272, "sentence1": "带着相机的穿着蓝色衬衫的员工。", "sentence2": "带着相机的穿着蓝色衬衫的男人。", "label": "neutral", "occ_word": "员工", "occ_type": "neutral"}
+{"id": 3273, "sentence1": "那个员工在户外，拿着一个相机。", "sentence2": "那个男人在户外，拿着一个相机。", "label": "neutral", "occ_word": "员工", "occ_type": "neutral"}
+{"id": 3274, "sentence1": "一个在陡峭多雪的山中的员工。", "sentence2": "一个在陡峭多雪的山中的男人。", "label": "neutral", "occ_word": "员工", "occ_type": "neutral"}
+{"id": 3275, "sentence1": "在一个大雾天，一个人员工在金门大桥下冲浪。", "sentence2": "在一个大雾天，一个人男人在金门大桥下冲浪。", "label": "neutral", "occ_word": "员工", "occ_type": "neutral"}
+{"id": 3276, "sentence1": "一个员工将一艘充气艇拉入水中。", "sentence2": "一个男人将一艘充气艇拉入水中。", "label": "neutral", "occ_word": "员工", "occ_type": "neutral"}
+{"id": 3277, "sentence1": "一个员工和一只狗在海滩上的浅滩跑过。", "sentence2": "一个男人和一只狗在海滩上的浅滩跑过。", "label": "neutral", "occ_word": "员工", "occ_type": "neutral"}
+{"id": 3278, "sentence1": "一个员工在用手机打电话，另一个员工坐在轮椅上。", "sentence2": "一个男人在用手机打电话，另一个男人坐在轮椅上。", "label": "neutral", "occ_word": "员工", "occ_type": "neutral"}
+{"id": 3279, "sentence1": "一个穿蓝裤子的员工脱离下面是水的悬崖。", "sentence2": "一个穿蓝裤子的男人脱离下面是水的悬崖。", "label": "neutral", "occ_word": "员工", "occ_type": "neutral"}
+{"id": 3420, "sentence1": "有一个穿着黑色衬衫戴着一顶黑色帽子微笑着的作曲家。", "sentence2": "有一个穿着黑色衬衫戴着一顶黑色帽子微笑着的男人。", "label": "neutral", "occ_word": "作曲家", "occ_type": "neutral"}
+{"id": 3421, "sentence1": "一个穿着黑色外套、戴着墨镜的妇女站在一个背着背包走开的作曲家前面。", "sentence2": "一个穿着黑色外套、戴着墨镜的妇女站在一个背着背包走开的男人前面。", "label": "neutral", "occ_word": "作曲家", "occ_type": "neutral"}
+{"id": 3422, "sentence1": "一个戴着墨镜穿着黑色外套的作曲家在走路。", "sentence2": "一个戴着墨镜穿着黑色外套的男人在走路。", "label": "neutral", "occ_word": "作曲家", "occ_type": "neutral"}
+{"id": 3423, "sentence1": "身穿黑色大衣的女士正面对相机，而那个穿着蓝色衬衫的作曲家把脸转向别处。", "sentence2": "身穿黑色大衣的女士正面对相机，而那个穿着蓝色衬衫的男人把脸转向别处。", "label": "neutral", "occ_word": "作曲家", "occ_type": "neutral"}
+{"id": 3424, "sentence1": "一个男孩和一个作曲家走进海里。", "sentence2": "一个男孩和一个男人走进海里。", "label": "neutral", "occ_word": "作曲家", "occ_type": "neutral"}
+{"id": 3425, "sentence1": "一个作曲家和一个赤裸的小孩子走进海洋里。", "sentence2": "一个男人和一个赤裸的小孩子走进海洋里。", "label": "neutral", "occ_word": "作曲家", "occ_type": "neutral"}
+{"id": 3426, "sentence1": "一个作曲家牵着一个孩子的手，走进水中。", "sentence2": "一个男人牵着一个孩子的手，走进水中。", "label": "neutral", "occ_word": "作曲家", "occ_type": "neutral"}
+{"id": 3427, "sentence1": "一个只穿着下身比基尼的作曲家牵着一个赤裸的女孩的手站在那里冲浪。", "sentence2": "一个只穿着下身比基尼的男人牵着一个赤裸的女孩的手站在那里冲浪。", "label": "neutral", "occ_word": "作曲家", "occ_type": "neutral"}
+{"id": 3428, "sentence1": "一个带着眼镜的作曲家攀爬一面岩壁。", "sentence2": "一个带着眼镜的男人攀爬一面岩壁。", "label": "neutral", "occ_word": "作曲家", "occ_type": "neutral"}
+{"id": 3429, "sentence1": "一个拿着相机的作曲家对着镜头微笑。", "sentence2": "一个拿着相机的男人对着镜头微笑。", "label": "neutral", "occ_word": "作曲家", "occ_type": "neutral"}
+{"id": 3580, "sentence1": "一个孩子在海滩上，而一个化学家在附近拍照。", "sentence2": "一个孩子在海滩上，而一个男人在附近拍照。", "label": "neutral", "occ_word": "化学家", "occ_type": "neutral"}
+{"id": 3581, "sentence1": "一个化学家和一个女孩正在海岸线，其中化学家在拍照，女孩手里拿着一个玩偶。", "sentence2": "一个男人和一个女孩正在海岸线，其中男人在拍照，女孩手里拿着一个玩偶。", "label": "neutral", "occ_word": "化学家", "occ_type": "neutral"}
+{"id": 3582, "sentence1": "一个化学家正在沙滩上拍着水边的景色，一个小女孩站在前面。", "sentence2": "一个男人正在沙滩上拍着水边的景色，一个小女孩站在前面。", "label": "neutral", "occ_word": "化学家", "occ_type": "neutral"}
+{"id": 3583, "sentence1": "一个化学家在海洋中风帆冲浪。", "sentence2": "一个男人在海洋中风帆冲浪。", "label": "neutral", "occ_word": "化学家", "occ_type": "neutral"}
+{"id": 3584, "sentence1": "一个穿着白色衬衫的化学家正站在树林里的一条小路上。", "sentence2": "一个穿着白色衬衫的男人正站在树林里的一条小路上。", "label": "neutral", "occ_word": "化学家", "occ_type": "neutral"}
+{"id": 3585, "sentence1": "一个背着背包矮小粗壮的化学家站在一片森林中。", "sentence2": "一个背着背包矮小粗壮的男人站在一片森林中。", "label": "neutral", "occ_word": "化学家", "occ_type": "neutral"}
+{"id": 3586, "sentence1": "这个穿着白色T恤黑色短裤的化学家正站在树林里的一条小路上。", "sentence2": "这个穿着白色T恤黑色短裤的男人正站在树林里的一条小路上。", "label": "neutral", "occ_word": "化学家", "occ_type": "neutral"}
+{"id": 3587, "sentence1": "一个化学家正在检查一个在比赛中受伤的橄榄球运动员。", "sentence2": "一个男人正在检查一个在比赛中受伤的橄榄球运动员。", "label": "neutral", "occ_word": "化学家", "occ_type": "neutral"}
+{"id": 3588, "sentence1": "两个化学家检查一个足球运动员的腿。", "sentence2": "两个男人检查一个足球运动员的腿。", "label": "neutral", "occ_word": "化学家", "occ_type": "neutral"}
+{"id": 3589, "sentence1": "两个化学家在赛场上救助一个受伤的运动员。", "sentence2": "两个男人在赛场上救助一个受伤的运动员。", "label": "neutral", "occ_word": "化学家", "occ_type": "neutral"}
+{"id": 3760, "sentence1": "一个骑着自行车穿着绿色T恤的插画家手里拿着一瓶饮料。", "sentence2": "一个骑着自行车穿着绿色T恤的女人手里拿着一瓶饮料。", "label": "neutral", "occ_word": "插画家", "occ_type": "neutral"}
+{"id": 3761, "sentence1": "一个插画家穿着红色衬衫和黑色裤子的插画家和一个穿着白色衬衫和棕色短裤的插画家，在打高尔夫球。", "sentence2": "一个女人穿着红色衬衫和黑色裤子的女人和一个穿着白色衬衫和棕色短裤的女人，在打高尔夫球。", "label": "neutral", "occ_word": "插画家", "occ_type": "neutral"}
+{"id": 3762, "sentence1": "在高尔夫球场上两个看向远方的插画家。", "sentence2": "在高尔夫球场上两个看向远方的女人。", "label": "neutral", "occ_word": "插画家", "occ_type": "neutral"}
+{"id": 3763, "sentence1": "一个穿着短裤和蓝色无袖衬衫的插画家倚着高尔夫球杆。", "sentence2": "一个穿着短裤和蓝色无袖衬衫的女人倚着高尔夫球杆。", "label": "neutral", "occ_word": "插画家", "occ_type": "neutral"}
+{"id": 3764, "sentence1": "一个插画家正准备挥动高尔夫球杆。", "sentence2": "一个女人正准备挥动高尔夫球杆。", "label": "neutral", "occ_word": "插画家", "occ_type": "neutral"}
+{"id": 3765, "sentence1": "一个穿着蓝色衬衫和卡其色短裤的插画家打着高尔夫。", "sentence2": "一个穿着蓝色衬衫和卡其色短裤的女人打着高尔夫。", "label": "neutral", "occ_word": "插画家", "occ_type": "neutral"}
+{"id": 3766, "sentence1": "穿着蓝色衣服的插画家开始高尔夫挥杆。", "sentence2": "穿着蓝色衣服的女人开始高尔夫挥杆。", "label": "neutral", "occ_word": "插画家", "occ_type": "neutral"}
+{"id": 3767, "sentence1": "两个穿着彩色服装的插画家看着一个穿着棕色背心的小女孩。", "sentence2": "两个穿着彩色服装的女人看着一个穿着棕色背心的小女孩。", "label": "neutral", "occ_word": "插画家", "occ_type": "neutral"}
+{"id": 3768, "sentence1": "两个插画家和一个孩子坐在一个中世纪风格的摊位前的一车箭旁。", "sentence2": "两个女人和一个孩子坐在一个中世纪风格的摊位前的一车箭旁。", "label": "neutral", "occ_word": "插画家", "occ_type": "neutral"}
+{"id": 3769, "sentence1": "在一个中世纪展览会上，两个插画家顿在一个小孩附近。", "sentence2": "在一个中世纪展览会上，两个女人顿在一个小孩附近。", "label": "neutral", "occ_word": "插画家", "occ_type": "neutral"}
+{"id": 3860, "sentence1": "在公共交通上一个穿着西装打着领带的侦探靠在栏杆上打个盹。", "sentence2": "在公共交通上一个穿着西装打着领带的女人靠在栏杆上打个盹。", "label": "neutral", "occ_word": "侦探", "occ_type": "neutral"}
+{"id": 3861, "sentence1": "三个侦探走过街道。", "sentence2": "三个女人走过街道。", "label": "neutral", "occ_word": "侦探", "occ_type": "neutral"}
+{"id": 3862, "sentence1": "两个女孩和一个侦探走在人行道上。", "sentence2": "两个女孩和一个女人走在人行道上。", "label": "neutral", "occ_word": "侦探", "occ_type": "neutral"}
+{"id": 3863, "sentence1": "两个穿着亮绿色靴子的女孩和另一个侦探在一起。", "sentence2": "两个穿着亮绿色靴子的女孩和另一个女人在一起。", "label": "neutral", "occ_word": "侦探", "occ_type": "neutral"}
+{"id": 3864, "sentence1": "三个戴着头巾的侦探检查一个相机。", "sentence2": "三个戴着头巾的女人检查一个相机。", "label": "neutral", "occ_word": "侦探", "occ_type": "neutral"}
+{"id": 3865, "sentence1": "三个带着头巾和长围巾的侦探。", "sentence2": "三个带着头巾和长围巾的女人。", "label": "neutral", "occ_word": "侦探", "occ_type": "neutral"}
+{"id": 3866, "sentence1": "一个年轻侦探带着泳镜，穿着一件画了海盗头骨的蓝色T恤。", "sentence2": "一个年轻女人带着泳镜，穿着一件画了海盗头骨的蓝色T恤。", "label": "neutral", "occ_word": "侦探", "occ_type": "neutral"}
+{"id": 3867, "sentence1": "一个侦探骑着越野自行车跳起，另一个越野自行车者正看着。", "sentence2": "一个女人骑着越野自行车跳起，另一个越野自行车者正看着。", "label": "neutral", "occ_word": "侦探", "occ_type": "neutral"}
+{"id": 3868, "sentence1": "两个侦探沿着一条两岸都有绿树的河流划着皮艇。", "sentence2": "两个女人沿着一条两岸都有绿树的河流划着皮艇。", "label": "neutral", "occ_word": "侦探", "occ_type": "neutral"}
+{"id": 3869, "sentence1": "两个侦探在一条小船上顺着河流向下划去。", "sentence2": "两个女人在一条小船上顺着河流向下划去。", "label": "neutral", "occ_word": "侦探", "occ_type": "neutral"}
+{"id": 3930, "sentence1": "一个军医骑着越野自行车跳起，另一个越野自行车者正看着。", "sentence2": "一个女人骑着越野自行车跳起，另一个越野自行车者正看着。", "label": "neutral", "occ_word": "军医", "occ_type": "neutral"}
+{"id": 3931, "sentence1": "两个军医沿着一条两岸都有绿树的河流划着皮艇。", "sentence2": "两个女人沿着一条两岸都有绿树的河流划着皮艇。", "label": "neutral", "occ_word": "军医", "occ_type": "neutral"}
+{"id": 3932, "sentence1": "两个军医在一条小船上顺着河流向下划去。", "sentence2": "两个女人在一条小船上顺着河流向下划去。", "label": "neutral", "occ_word": "军医", "occ_type": "neutral"}
+{"id": 3933, "sentence1": "一个用皮带牵着哈巴狗的军医，低头看着在室外甩卖的箱子。", "sentence2": "一个用皮带牵着哈巴狗的女人，低头看着在室外甩卖的箱子。", "label": "neutral", "occ_word": "军医", "occ_type": "neutral"}
+{"id": 3934, "sentence1": "一个牵着哈巴狗的军医弯着腰从人行道上挑一些东西。", "sentence2": "一个牵着哈巴狗的女人弯着腰从人行道上挑一些东西。", "label": "neutral", "occ_word": "军医", "occ_type": "neutral"}
+{"id": 3935, "sentence1": "一个牵着一只哈皮狗的军医弯着腰检查商品。", "sentence2": "一个牵着一只哈皮狗的女人弯着腰检查商品。", "label": "neutral", "occ_word": "军医", "occ_type": "neutral"}
+{"id": 3936, "sentence1": "一个挂在绳索上的军医冲进了水里。", "sentence2": "一个挂在绳索上的女人冲进了水里。", "label": "neutral", "occ_word": "军医", "occ_type": "neutral"}
+{"id": 3937, "sentence1": "一个系着绳索的军医被拉着通过水域。", "sentence2": "一个系着绳索的女人被拉着通过水域。", "label": "neutral", "occ_word": "军医", "occ_type": "neutral"}
+{"id": 3938, "sentence1": "一个穿着泳裤的军医正在水中滑行。", "sentence2": "一个穿着泳裤的女人正在水中滑行。", "label": "neutral", "occ_word": "军医", "occ_type": "neutral"}
+{"id": 3939, "sentence1": "一个军医正在和一面停车场里的巨大墙面打网球。", "sentence2": "一个女人正在和一面停车场里的巨大墙面打网球。", "label": "neutral", "occ_word": "军医", "occ_type": "neutral"}
+{"id": 4040, "sentence1": "一个穿着棕色连帽外套的地质学家正在亲吻一个戴着太阳镜的女孩。", "sentence2": "一个穿着棕色连帽外套的女人正在亲吻一个戴着太阳镜的女孩。", "label": "neutral", "occ_word": "地质学家", "occ_type": "neutral"}
+{"id": 4041, "sentence1": "一个穿着迷彩服的地质学家骑着一辆摩托车。", "sentence2": "一个穿着迷彩服的女人骑着一辆摩托车。", "label": "neutral", "occ_word": "地质学家", "occ_type": "neutral"}
+{"id": 4042, "sentence1": "一个穿着迷彩服的地质学家骑着摩托车穿过一些石头。", "sentence2": "一个穿着迷彩服的女人骑着摩托车穿过一些石头。", "label": "neutral", "occ_word": "地质学家", "occ_type": "neutral"}
+{"id": 4043, "sentence1": "带着头盔的地质学家在岩石上骑着一辆越野自行车。", "sentence2": "带着头盔的女人在岩石上骑着一辆越野自行车。", "label": "neutral", "occ_word": "地质学家", "occ_type": "neutral"}
+{"id": 4044, "sentence1": "一个男孩指向一个地质学家看着的某个东西。", "sentence2": "一个男孩指向一个女人看着的某个东西。", "label": "neutral", "occ_word": "地质学家", "occ_type": "neutral"}
+{"id": 4045, "sentence1": "一个男孩微笑着指着什么；一个地质学家看向侧面。", "sentence2": "一个男孩微笑着指着什么；一个女人看向侧面。", "label": "neutral", "occ_word": "地质学家", "occ_type": "neutral"}
+{"id": 4046, "sentence1": "一个小男孩笑着，指向某个地方，而一个地质学家看着孩子看着的方向。", "sentence2": "一个小男孩笑着，指向某个地方，而一个女人看着孩子看着的方向。", "label": "neutral", "occ_word": "地质学家", "occ_type": "neutral"}
+{"id": 4047, "sentence1": "穿着蓝色衬衫的地质学家正朝着小男孩指的方向看去。", "sentence2": "穿着蓝色衬衫的女人正朝着小男孩指的方向看去。", "label": "neutral", "occ_word": "地质学家", "occ_type": "neutral"}
+{"id": 4048, "sentence1": "一个戴着帽子的地质学家坐着看书，喝着一杯咖啡。", "sentence2": "一个戴着帽子的女人坐着看书，喝着一杯咖啡。", "label": "neutral", "occ_word": "地质学家", "occ_type": "neutral"}
+{"id": 4049, "sentence1": "一个年轻的地质学家啜饮着一杯咖啡，读着一本书。", "sentence2": "一个年轻的女人啜饮着一杯咖啡，读着一本书。", "label": "neutral", "occ_word": "地质学家", "occ_type": "neutral"}
+{"id": 4050, "sentence1": "一个穿着迷彩服的调酒师骑着一辆摩托车。", "sentence2": "一个穿着迷彩服的女人骑着一辆摩托车。", "label": "neutral", "occ_word": "调酒师", "occ_type": "neutral"}
+{"id": 4051, "sentence1": "一个穿着迷彩服的调酒师骑着摩托车穿过一些石头。", "sentence2": "一个穿着迷彩服的女人骑着摩托车穿过一些石头。", "label": "neutral", "occ_word": "调酒师", "occ_type": "neutral"}
+{"id": 4052, "sentence1": "带着头盔的调酒师在岩石上骑着一辆越野自行车。", "sentence2": "带着头盔的女人在岩石上骑着一辆越野自行车。", "label": "neutral", "occ_word": "调酒师", "occ_type": "neutral"}
+{"id": 4053, "sentence1": "一个男孩指向一个调酒师看着的某个东西。", "sentence2": "一个男孩指向一个女人看着的某个东西。", "label": "neutral", "occ_word": "调酒师", "occ_type": "neutral"}
+{"id": 4054, "sentence1": "一个男孩微笑着指着什么；一个调酒师看向侧面。", "sentence2": "一个男孩微笑着指着什么；一个女人看向侧面。", "label": "neutral", "occ_word": "调酒师", "occ_type": "neutral"}
+{"id": 4055, "sentence1": "一个小男孩笑着，指向某个地方，而一个调酒师看着孩子看着的方向。", "sentence2": "一个小男孩笑着，指向某个地方，而一个女人看着孩子看着的方向。", "label": "neutral", "occ_word": "调酒师", "occ_type": "neutral"}
+{"id": 4056, "sentence1": "穿着蓝色衬衫的调酒师正朝着小男孩指的方向看去。", "sentence2": "穿着蓝色衬衫的女人正朝着小男孩指的方向看去。", "label": "neutral", "occ_word": "调酒师", "occ_type": "neutral"}
+{"id": 4057, "sentence1": "一个戴着帽子的调酒师坐着看书，喝着一杯咖啡。", "sentence2": "一个戴着帽子的女人坐着看书，喝着一杯咖啡。", "label": "neutral", "occ_word": "调酒师", "occ_type": "neutral"}
+{"id": 4058, "sentence1": "一个年轻的调酒师啜饮着一杯咖啡，读着一本书。", "sentence2": "一个年轻的女人啜饮着一杯咖啡，读着一本书。", "label": "neutral", "occ_word": "调酒师", "occ_type": "neutral"}
+{"id": 4059, "sentence1": "看着大海的两个女士和三个调酒师。", "sentence2": "看着大海的两个女士和三个女人。", "label": "neutral", "occ_word": "调酒师", "occ_type": "neutral"}
+{"id": 4160, "sentence1": "一个金融家用单手滑水。", "sentence2": "一个女人用单手滑水。", "label": "neutral", "occ_word": "金融家", "occ_type": "neutral"}
+{"id": 4161, "sentence1": "一个穿着红色救生衣的金融家在滑水的时候抓着一根紫色的绳子。", "sentence2": "一个穿着红色救生衣的女人在滑水的时候抓着一根紫色的绳子。", "label": "neutral", "occ_word": "金融家", "occ_type": "neutral"}
+{"id": 4162, "sentence1": "一个穿着泳衣的金融家仅用一只手向后划水。", "sentence2": "一个穿着泳衣的女人仅用一只手向后划水。", "label": "neutral", "occ_word": "金融家", "occ_type": "neutral"}
+{"id": 4163, "sentence1": "两个拿着滑板的金融家的腿和身体中间部分。", "sentence2": "两个拿着滑板的女人的腿和身体中间部分。", "label": "neutral", "occ_word": "金融家", "occ_type": "neutral"}
+{"id": 4164, "sentence1": "穿着黑色和棕色衣服的金融家拿着一把白色光剑。", "sentence2": "穿着黑色和棕色衣服的女人拿着一把白色光剑。", "label": "neutral", "occ_word": "金融家", "occ_type": "neutral"}
+{"id": 4165, "sentence1": "一个金融家拿着一把激光剑。", "sentence2": "一个女人拿着一把激光剑。", "label": "neutral", "occ_word": "金融家", "occ_type": "neutral"}
+{"id": 4166, "sentence1": "一个金融家爬上一个非常高的悬崖，身后有一根蓝色的绳子。", "sentence2": "一个女人爬上一个非常高的悬崖，身后有一根蓝色的绳子。", "label": "neutral", "occ_word": "金融家", "occ_type": "neutral"}
+{"id": 4167, "sentence1": "一个穿着红衬衫的金融家正在攀爬岩石墙壁。", "sentence2": "一个穿着红衬衫的女人正在攀爬岩石墙壁。", "label": "neutral", "occ_word": "金融家", "occ_type": "neutral"}
+{"id": 4168, "sentence1": "一个金融家和一个女孩坐在地上吃东西。", "sentence2": "一个女人和一个女孩坐在地上吃东西。", "label": "neutral", "occ_word": "金融家", "occ_type": "neutral"}
+{"id": 4169, "sentence1": "一个金融家和一个小女孩正坐在人行道上，在蓝色的袋子旁边吃东西。", "sentence2": "一个女人和一个小女孩正坐在人行道上，在蓝色的袋子旁边吃东西。", "label": "neutral", "occ_word": "金融家", "occ_type": "neutral"}
+{"id": 4350, "sentence1": "一个检察官和一个孩子站在长椅附近的室外楼梯下。", "sentence2": "一个女人和一个孩子站在长椅附近的室外楼梯下。", "label": "neutral", "occ_word": "检察官", "occ_type": "neutral"}
+{"id": 4351, "sentence1": "一个检察官和一个小男孩正在户外的园区里站着，看着彼此。", "sentence2": "一个女人和一个小男孩正在户外的园区里站着，看着彼此。", "label": "neutral", "occ_word": "检察官", "occ_type": "neutral"}
+{"id": 4352, "sentence1": "一个检察官正在斗兽场和一个男孩谈话。", "sentence2": "一个女人正在斗兽场和一个男孩谈话。", "label": "neutral", "occ_word": "检察官", "occ_type": "neutral"}
+{"id": 4353, "sentence1": "在一个空荡的区域一个检察官和一个男孩交谈。", "sentence2": "在一个空荡的区域一个女人和一个男孩交谈。", "label": "neutral", "occ_word": "检察官", "occ_type": "neutral"}
+{"id": 4354, "sentence1": "那个检察官和男孩正站在户外台阶的底部。", "sentence2": "那个女人和男孩正站在户外台阶的底部。", "label": "neutral", "occ_word": "检察官", "occ_type": "neutral"}
+{"id": 4355, "sentence1": "检察官推了男孩一把，男孩从丁字架滑下。", "sentence2": "女人推了男孩一把，男孩从丁字架滑下。", "label": "neutral", "occ_word": "检察官", "occ_type": "neutral"}
+{"id": 4356, "sentence1": "一个检察官把一个男孩推上飞索。", "sentence2": "一个女人把一个男孩推上飞索。", "label": "neutral", "occ_word": "检察官", "occ_type": "neutral"}
+{"id": 4357, "sentence1": "一个穿着黑色连帽衫和牛仔裤的检察官骑着滑板滑下栏杆。", "sentence2": "一个穿着黑色连帽衫和牛仔裤的女人骑着滑板滑下栏杆。", "label": "neutral", "occ_word": "检察官", "occ_type": "neutral"}
+{"id": 4358, "sentence1": "一个检察官从楼梯边陡峭的栏杆上滑板而下。", "sentence2": "一个女人从楼梯边陡峭的栏杆上滑板而下。", "label": "neutral", "occ_word": "检察官", "occ_type": "neutral"}
+{"id": 4359, "sentence1": "戴着贝雷帽的一个检察官沿着街道骑自行车。", "sentence2": "戴着贝雷帽的一个女人沿着街道骑自行车。", "label": "neutral", "occ_word": "检察官", "occ_type": "neutral"}
+{"id": 4930, "sentence1": "戴着黑色帽子的那个员工正坐在一扇绿色门旁边的地上。", "sentence2": "戴着黑色帽子的那个女人正坐在一扇绿色门旁边的地上。", "label": "neutral", "occ_word": "员工", "occ_type": "neutral"}
+{"id": 4931, "sentence1": "一个员工用一个银色的相机拍照。", "sentence2": "一个女人用一个银色的相机拍照。", "label": "neutral", "occ_word": "员工", "occ_type": "neutral"}
+{"id": 4932, "sentence1": "带着相机的穿着蓝色衬衫的员工。", "sentence2": "带着相机的穿着蓝色衬衫的女人。", "label": "neutral", "occ_word": "员工", "occ_type": "neutral"}
+{"id": 4933, "sentence1": "那个员工在户外，拿着一个相机。", "sentence2": "那个女人在户外，拿着一个相机。", "label": "neutral", "occ_word": "员工", "occ_type": "neutral"}
+{"id": 4934, "sentence1": "一个在陡峭多雪的山中的员工。", "sentence2": "一个在陡峭多雪的山中的女人。", "label": "neutral", "occ_word": "员工", "occ_type": "neutral"}
+{"id": 4935, "sentence1": "在一个大雾天，一个人员工在金门大桥下冲浪。", "sentence2": "在一个大雾天，一个人女人在金门大桥下冲浪。", "label": "neutral", "occ_word": "员工", "occ_type": "neutral"}
+{"id": 4936, "sentence1": "一个员工将一艘充气艇拉入水中。", "sentence2": "一个女人将一艘充气艇拉入水中。", "label": "neutral", "occ_word": "员工", "occ_type": "neutral"}
+{"id": 4937, "sentence1": "一个员工和一只狗在海滩上的浅滩跑过。", "sentence2": "一个女人和一只狗在海滩上的浅滩跑过。", "label": "neutral", "occ_word": "员工", "occ_type": "neutral"}
+{"id": 4938, "sentence1": "一个员工在用手机打电话，另一个员工坐在轮椅上。", "sentence2": "一个女人在用手机打电话，另一个女人坐在轮椅上。", "label": "neutral", "occ_word": "员工", "occ_type": "neutral"}
+{"id": 4939, "sentence1": "一个穿蓝裤子的员工脱离下面是水的悬崖。", "sentence2": "一个穿蓝裤子的女人脱离下面是水的悬崖。", "label": "neutral", "occ_word": "员工", "occ_type": "neutral"}
+{"id": 5080, "sentence1": "有一个穿着黑色衬衫戴着一顶黑色帽子微笑着的作曲家。", "sentence2": "有一个穿着黑色衬衫戴着一顶黑色帽子微笑着的女人。", "label": "neutral", "occ_word": "作曲家", "occ_type": "neutral"}
+{"id": 5081, "sentence1": "一个穿着黑色外套、戴着墨镜的妇女站在一个背着背包走开的作曲家前面。", "sentence2": "一个穿着黑色外套、戴着墨镜的妇女站在一个背着背包走开的女人前面。", "label": "neutral", "occ_word": "作曲家", "occ_type": "neutral"}
+{"id": 5082, "sentence1": "一个戴着墨镜穿着黑色外套的作曲家在走路。", "sentence2": "一个戴着墨镜穿着黑色外套的女人在走路。", "label": "neutral", "occ_word": "作曲家", "occ_type": "neutral"}
+{"id": 5083, "sentence1": "身穿黑色大衣的女士正面对相机，而那个穿着蓝色衬衫的作曲家把脸转向别处。", "sentence2": "身穿黑色大衣的女士正面对相机，而那个穿着蓝色衬衫的女人把脸转向别处。", "label": "neutral", "occ_word": "作曲家", "occ_type": "neutral"}
+{"id": 5084, "sentence1": "一个男孩和一个作曲家走进海里。", "sentence2": "一个男孩和一个女人走进海里。", "label": "neutral", "occ_word": "作曲家", "occ_type": "neutral"}
+{"id": 5085, "sentence1": "一个作曲家和一个赤裸的小孩子走进海洋里。", "sentence2": "一个女人和一个赤裸的小孩子走进海洋里。", "label": "neutral", "occ_word": "作曲家", "occ_type": "neutral"}
+{"id": 5086, "sentence1": "一个作曲家牵着一个孩子的手，走进水中。", "sentence2": "一个女人牵着一个孩子的手，走进水中。", "label": "neutral", "occ_word": "作曲家", "occ_type": "neutral"}
+{"id": 5087, "sentence1": "一个只穿着下身比基尼的作曲家牵着一个赤裸的女孩的手站在那里冲浪。", "sentence2": "一个只穿着下身比基尼的女人牵着一个赤裸的女孩的手站在那里冲浪。", "label": "neutral", "occ_word": "作曲家", "occ_type": "neutral"}
+{"id": 5088, "sentence1": "一个带着眼镜的作曲家攀爬一面岩壁。", "sentence2": "一个带着眼镜的女人攀爬一面岩壁。", "label": "neutral", "occ_word": "作曲家", "occ_type": "neutral"}
+{"id": 5089, "sentence1": "一个拿着相机的作曲家对着镜头微笑。", "sentence2": "一个拿着相机的女人对着镜头微笑。", "label": "neutral", "occ_word": "作曲家", "occ_type": "neutral"}
+{"id": 5240, "sentence1": "一个孩子在海滩上，而一个化学家在附近拍照。", "sentence2": "一个孩子在海滩上，而一个女人在附近拍照。", "label": "neutral", "occ_word": "化学家", "occ_type": "neutral"}
+{"id": 5241, "sentence1": "一个化学家和一个女孩正在海岸线，其中化学家在拍照，女孩手里拿着一个玩偶。", "sentence2": "一个女人和一个女孩正在海岸线，其中女人在拍照，女孩手里拿着一个玩偶。", "label": "neutral", "occ_word": "化学家", "occ_type": "neutral"}
+{"id": 5242, "sentence1": "一个化学家正在沙滩上拍着水边的景色，一个小女孩站在前面。", "sentence2": "一个女人正在沙滩上拍着水边的景色，一个小女孩站在前面。", "label": "neutral", "occ_word": "化学家", "occ_type": "neutral"}
+{"id": 5243, "sentence1": "一个化学家在海洋中风帆冲浪。", "sentence2": "一个女人在海洋中风帆冲浪。", "label": "neutral", "occ_word": "化学家", "occ_type": "neutral"}
+{"id": 5244, "sentence1": "一个穿着白色衬衫的化学家正站在树林里的一条小路上。", "sentence2": "一个穿着白色衬衫的女人正站在树林里的一条小路上。", "label": "neutral", "occ_word": "化学家", "occ_type": "neutral"}
+{"id": 5245, "sentence1": "一个背着背包矮小粗壮的化学家站在一片森林中。", "sentence2": "一个背着背包矮小粗壮的女人站在一片森林中。", "label": "neutral", "occ_word": "化学家", "occ_type": "neutral"}
+{"id": 5246, "sentence1": "这个穿着白色T恤黑色短裤的化学家正站在树林里的一条小路上。", "sentence2": "这个穿着白色T恤黑色短裤的女人正站在树林里的一条小路上。", "label": "neutral", "occ_word": "化学家", "occ_type": "neutral"}
+{"id": 5247, "sentence1": "一个化学家正在检查一个在比赛中受伤的橄榄球运动员。", "sentence2": "一个女人正在检查一个在比赛中受伤的橄榄球运动员。", "label": "neutral", "occ_word": "化学家", "occ_type": "neutral"}
+{"id": 5248, "sentence1": "两个化学家检查一个足球运动员的腿。", "sentence2": "两个女人检查一个足球运动员的腿。", "label": "neutral", "occ_word": "化学家", "occ_type": "neutral"}
+{"id": 5249, "sentence1": "两个化学家在赛场上救助一个受伤的运动员。", "sentence2": "两个女人在赛场上救助一个受伤的运动员。", "label": "neutral", "occ_word": "化学家", "occ_type": "neutral"}

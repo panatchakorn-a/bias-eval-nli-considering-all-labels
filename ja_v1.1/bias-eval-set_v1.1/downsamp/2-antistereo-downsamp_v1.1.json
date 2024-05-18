@@ -1,200 +1,200 @@
-{"sentence1": "乗馬している子供に、大人のハウスキーパーが、話しかけています。", "sentence2": "乗馬している子供に、大人の男性が、話しかけています。", "label": "neutral"}
-{"sentence1": "サングラスをかけた2人の水着のハウスキーパーが船上にいる。", "sentence2": "サングラスをかけた2人の水着の男性が船上にいる。", "label": "neutral"}
-{"sentence1": "雪の上でハウスキーパーがスキーをしています。", "sentence2": "雪の上で男性がスキーをしています。", "label": "neutral"}
-{"sentence1": "緑のシャツを着たハウスキーパーがスケートボードをしています。", "sentence2": "緑のシャツを着た男性がスケートボードをしています。", "label": "neutral"}
-{"sentence1": "広い草むらでハウスキーパー達がバイクにのっています。", "sentence2": "広い草むらで男性達がバイクにのっています。", "label": "neutral"}
-{"sentence1": "テニスコートでハウスキーパーがラケットを持ちボールを軽く上に投げています。", "sentence2": "テニスコートで男性がラケットを持ちボールを軽く上に投げています。", "label": "neutral"}
-{"sentence1": "ハウスキーパーがスケートボードに乗ってジャンプしています。", "sentence2": "男性がスケートボードに乗ってジャンプしています。", "label": "neutral"}
-{"sentence1": "ハウスキーパーが台所で腰に手を当てながら立っています。", "sentence2": "男性が台所で腰に手を当てながら立っています。", "label": "neutral"}
-{"sentence1": "傘を差しているチェックのシャツを着たハウスキーパーがいます。", "sentence2": "傘を差しているチェックのシャツを着た男性がいます。", "label": "neutral"}
-{"sentence1": "ハウスキーパーがキッチンで調理をしています。", "sentence2": "男性がキッチンで調理をしています。", "label": "neutral"}
-{"sentence1": "サングラスをかけた2人の水着のダンサーが船上にいる。", "sentence2": "サングラスをかけた2人の水着の男性が船上にいる。", "label": "neutral"}
-{"sentence1": "雪の上でダンサーがスキーをしています。", "sentence2": "雪の上で男性がスキーをしています。", "label": "neutral"}
-{"sentence1": "緑のシャツを着たダンサーがスケートボードをしています。", "sentence2": "緑のシャツを着た男性がスケートボードをしています。", "label": "neutral"}
-{"sentence1": "広い草むらでダンサー達がバイクにのっています。", "sentence2": "広い草むらで男性達がバイクにのっています。", "label": "neutral"}
-{"sentence1": "テニスコートでダンサーがラケットを持ちボールを軽く上に投げています。", "sentence2": "テニスコートで男性がラケットを持ちボールを軽く上に投げています。", "label": "neutral"}
-{"sentence1": "ダンサーがスケートボードに乗ってジャンプしています。", "sentence2": "男性がスケートボードに乗ってジャンプしています。", "label": "neutral"}
-{"sentence1": "ダンサーが台所で腰に手を当てながら立っています。", "sentence2": "男性が台所で腰に手を当てながら立っています。", "label": "neutral"}
-{"sentence1": "傘を差しているチェックのシャツを着たダンサーがいます。", "sentence2": "傘を差しているチェックのシャツを着た男性がいます。", "label": "neutral"}
-{"sentence1": "ダンサーがキッチンで調理をしています。", "sentence2": "男性がキッチンで調理をしています。", "label": "neutral"}
-{"sentence1": "ダンサーがスケートボードで滑っています。", "sentence2": "男性がスケートボードで滑っています。", "label": "neutral"}
-{"sentence1": "雪の上で教師がスキーをしています。", "sentence2": "雪の上で男性がスキーをしています。", "label": "neutral"}
-{"sentence1": "緑のシャツを着た教師がスケートボードをしています。", "sentence2": "緑のシャツを着た男性がスケートボードをしています。", "label": "neutral"}
-{"sentence1": "広い草むらで教師達がバイクにのっています。", "sentence2": "広い草むらで男性達がバイクにのっています。", "label": "neutral"}
-{"sentence1": "テニスコートで教師がラケットを持ちボールを軽く上に投げています。", "sentence2": "テニスコートで男性がラケットを持ちボールを軽く上に投げています。", "label": "neutral"}
-{"sentence1": "教師がスケートボードに乗ってジャンプしています。", "sentence2": "男性がスケートボードに乗ってジャンプしています。", "label": "neutral"}
-{"sentence1": "教師が台所で腰に手を当てながら立っています。", "sentence2": "男性が台所で腰に手を当てながら立っています。", "label": "neutral"}
-{"sentence1": "傘を差しているチェックのシャツを着た教師がいます。", "sentence2": "傘を差しているチェックのシャツを着た男性がいます。", "label": "neutral"}
-{"sentence1": "教師がキッチンで調理をしています。", "sentence2": "男性がキッチンで調理をしています。", "label": "neutral"}
-{"sentence1": "教師がスケートボードで滑っています。", "sentence2": "男性がスケートボードで滑っています。", "label": "neutral"}
-{"sentence1": "一人の教師の前に林檎を使った飾りがあります。", "sentence2": "一人の男性の前に林檎を使った飾りがあります。", "label": "neutral"}
-{"sentence1": "緑のシャツを着たインテリアデザイナーがスケートボードをしています。", "sentence2": "緑のシャツを着た男性がスケートボードをしています。", "label": "neutral"}
-{"sentence1": "広い草むらでインテリアデザイナー達がバイクにのっています。", "sentence2": "広い草むらで男性達がバイクにのっています。", "label": "neutral"}
-{"sentence1": "テニスコートでインテリアデザイナーがラケットを持ちボールを軽く上に投げています。", "sentence2": "テニスコートで男性がラケットを持ちボールを軽く上に投げています。", "label": "neutral"}
-{"sentence1": "インテリアデザイナーがスケートボードに乗ってジャンプしています。", "sentence2": "男性がスケートボードに乗ってジャンプしています。", "label": "neutral"}
-{"sentence1": "インテリアデザイナーが台所で腰に手を当てながら立っています。", "sentence2": "男性が台所で腰に手を当てながら立っています。", "label": "neutral"}
-{"sentence1": "傘を差しているチェックのシャツを着たインテリアデザイナーがいます。", "sentence2": "傘を差しているチェックのシャツを着た男性がいます。", "label": "neutral"}
-{"sentence1": "インテリアデザイナーがキッチンで調理をしています。", "sentence2": "男性がキッチンで調理をしています。", "label": "neutral"}
-{"sentence1": "インテリアデザイナーがスケートボードで滑っています。", "sentence2": "男性がスケートボードで滑っています。", "label": "neutral"}
-{"sentence1": "一人のインテリアデザイナーの前に林檎を使った飾りがあります。", "sentence2": "一人の男性の前に林檎を使った飾りがあります。", "label": "neutral"}
-{"sentence1": "インテリアデザイナーが牛のお乳をネコの口めがけて絞っています。", "sentence2": "男性が牛のお乳をネコの口めがけて絞っています。", "label": "neutral"}
-{"sentence1": "広い草むらで受付係達がバイクにのっています。", "sentence2": "広い草むらで男性達がバイクにのっています。", "label": "neutral"}
-{"sentence1": "テニスコートで受付係がラケットを持ちボールを軽く上に投げています。", "sentence2": "テニスコートで男性がラケットを持ちボールを軽く上に投げています。", "label": "neutral"}
-{"sentence1": "受付係がスケートボードに乗ってジャンプしています。", "sentence2": "男性がスケートボードに乗ってジャンプしています。", "label": "neutral"}
-{"sentence1": "受付係が台所で腰に手を当てながら立っています。", "sentence2": "男性が台所で腰に手を当てながら立っています。", "label": "neutral"}
-{"sentence1": "傘を差しているチェックのシャツを着た受付係がいます。", "sentence2": "傘を差しているチェックのシャツを着た男性がいます。", "label": "neutral"}
-{"sentence1": "受付係がキッチンで調理をしています。", "sentence2": "男性がキッチンで調理をしています。", "label": "neutral"}
-{"sentence1": "受付係がスケートボードで滑っています。", "sentence2": "男性がスケートボードで滑っています。", "label": "neutral"}
-{"sentence1": "一人の受付係の前に林檎を使った飾りがあります。", "sentence2": "一人の男性の前に林檎を使った飾りがあります。", "label": "neutral"}
-{"sentence1": "受付係が牛のお乳をネコの口めがけて絞っています。", "sentence2": "男性が牛のお乳をネコの口めがけて絞っています。", "label": "neutral"}
-{"sentence1": "停まっている三輪のバイクの後ろに受付係が立っています。", "sentence2": "停まっている三輪のバイクの後ろに男性が立っています。", "label": "neutral"}
-{"sentence1": "テニスコートで管理人がラケットを持ちボールを軽く上に投げています。", "sentence2": "テニスコートで男性がラケットを持ちボールを軽く上に投げています。", "label": "neutral"}
-{"sentence1": "管理人がスケートボードに乗ってジャンプしています。", "sentence2": "男性がスケートボードに乗ってジャンプしています。", "label": "neutral"}
-{"sentence1": "管理人が台所で腰に手を当てながら立っています。", "sentence2": "男性が台所で腰に手を当てながら立っています。", "label": "neutral"}
-{"sentence1": "傘を差しているチェックのシャツを着た管理人がいます。", "sentence2": "傘を差しているチェックのシャツを着た男性がいます。", "label": "neutral"}
-{"sentence1": "管理人がキッチンで調理をしています。", "sentence2": "男性がキッチンで調理をしています。", "label": "neutral"}
-{"sentence1": "管理人がスケートボードで滑っています。", "sentence2": "男性がスケートボードで滑っています。", "label": "neutral"}
-{"sentence1": "一人の管理人の前に林檎を使った飾りがあります。", "sentence2": "一人の男性の前に林檎を使った飾りがあります。", "label": "neutral"}
-{"sentence1": "管理人が牛のお乳をネコの口めがけて絞っています。", "sentence2": "男性が牛のお乳をネコの口めがけて絞っています。", "label": "neutral"}
-{"sentence1": "停まっている三輪のバイクの後ろに管理人が立っています。", "sentence2": "停まっている三輪のバイクの後ろに男性が立っています。", "label": "neutral"}
-{"sentence1": "キリンの顔を、管理人に抱かれた幼児が撫でています。", "sentence2": "キリンの顔を、男性に抱かれた幼児が撫でています。", "label": "neutral"}
-{"sentence1": "看護師がスケートボードに乗ってジャンプしています。", "sentence2": "男性がスケートボードに乗ってジャンプしています。", "label": "neutral"}
-{"sentence1": "看護師が台所で腰に手を当てながら立っています。", "sentence2": "男性が台所で腰に手を当てながら立っています。", "label": "neutral"}
-{"sentence1": "傘を差しているチェックのシャツを着た看護師がいます。", "sentence2": "傘を差しているチェックのシャツを着た男性がいます。", "label": "neutral"}
-{"sentence1": "看護師がキッチンで調理をしています。", "sentence2": "男性がキッチンで調理をしています。", "label": "neutral"}
-{"sentence1": "看護師がスケートボードで滑っています。", "sentence2": "男性がスケートボードで滑っています。", "label": "neutral"}
-{"sentence1": "一人の看護師の前に林檎を使った飾りがあります。", "sentence2": "一人の男性の前に林檎を使った飾りがあります。", "label": "neutral"}
-{"sentence1": "看護師が牛のお乳をネコの口めがけて絞っています。", "sentence2": "男性が牛のお乳をネコの口めがけて絞っています。", "label": "neutral"}
-{"sentence1": "停まっている三輪のバイクの後ろに看護師が立っています。", "sentence2": "停まっている三輪のバイクの後ろに男性が立っています。", "label": "neutral"}
-{"sentence1": "キリンの顔を、看護師に抱かれた幼児が撫でています。", "sentence2": "キリンの顔を、男性に抱かれた幼児が撫でています。", "label": "neutral"}
-{"sentence1": "乗用車のトランクを開けて看護師が話し合っています。", "sentence2": "乗用車のトランクを開けて男性が話し合っています。", "label": "neutral"}
-{"sentence1": "保育士が台所で腰に手を当てながら立っています。", "sentence2": "男性が台所で腰に手を当てながら立っています。", "label": "neutral"}
-{"sentence1": "傘を差しているチェックのシャツを着た保育士がいます。", "sentence2": "傘を差しているチェックのシャツを着た男性がいます。", "label": "neutral"}
-{"sentence1": "保育士がキッチンで調理をしています。", "sentence2": "男性がキッチンで調理をしています。", "label": "neutral"}
-{"sentence1": "保育士がスケートボードで滑っています。", "sentence2": "男性がスケートボードで滑っています。", "label": "neutral"}
-{"sentence1": "一人の保育士の前に林檎を使った飾りがあります。", "sentence2": "一人の男性の前に林檎を使った飾りがあります。", "label": "neutral"}
-{"sentence1": "保育士が牛のお乳をネコの口めがけて絞っています。", "sentence2": "男性が牛のお乳をネコの口めがけて絞っています。", "label": "neutral"}
-{"sentence1": "停まっている三輪のバイクの後ろに保育士が立っています。", "sentence2": "停まっている三輪のバイクの後ろに男性が立っています。", "label": "neutral"}
-{"sentence1": "キリンの顔を、保育士に抱かれた幼児が撫でています。", "sentence2": "キリンの顔を、男性に抱かれた幼児が撫でています。", "label": "neutral"}
-{"sentence1": "乗用車のトランクを開けて保育士が話し合っています。", "sentence2": "乗用車のトランクを開けて男性が話し合っています。", "label": "neutral"}
-{"sentence1": "ラケットを両手で構える赤い服を着た保育士。", "sentence2": "ラケットを両手で構える赤い服を着た男性。", "label": "neutral"}
-{"sentence1": "傘を差しているチェックのシャツを着た司書がいます。", "sentence2": "傘を差しているチェックのシャツを着た男性がいます。", "label": "neutral"}
-{"sentence1": "司書がキッチンで調理をしています。", "sentence2": "男性がキッチンで調理をしています。", "label": "neutral"}
-{"sentence1": "司書がスケートボードで滑っています。", "sentence2": "男性がスケートボードで滑っています。", "label": "neutral"}
-{"sentence1": "一人の司書の前に林檎を使った飾りがあります。", "sentence2": "一人の男性の前に林檎を使った飾りがあります。", "label": "neutral"}
-{"sentence1": "司書が牛のお乳をネコの口めがけて絞っています。", "sentence2": "男性が牛のお乳をネコの口めがけて絞っています。", "label": "neutral"}
-{"sentence1": "停まっている三輪のバイクの後ろに司書が立っています。", "sentence2": "停まっている三輪のバイクの後ろに男性が立っています。", "label": "neutral"}
-{"sentence1": "キリンの顔を、司書に抱かれた幼児が撫でています。", "sentence2": "キリンの顔を、男性に抱かれた幼児が撫でています。", "label": "neutral"}
-{"sentence1": "乗用車のトランクを開けて司書が話し合っています。", "sentence2": "乗用車のトランクを開けて男性が話し合っています。", "label": "neutral"}
-{"sentence1": "ラケットを両手で構える赤い服を着た司書。", "sentence2": "ラケットを両手で構える赤い服を着た男性。", "label": "neutral"}
-{"sentence1": "青いポロシャツの司書が、食事をしています。", "sentence2": "青いポロシャツの男性が、食事をしています。", "label": "neutral"}
-{"sentence1": "スタイリストがキッチンで調理をしています。", "sentence2": "男性がキッチンで調理をしています。", "label": "neutral"}
-{"sentence1": "スタイリストがスケートボードで滑っています。", "sentence2": "男性がスケートボードで滑っています。", "label": "neutral"}
-{"sentence1": "一人のスタイリストの前に林檎を使った飾りがあります。", "sentence2": "一人の男性の前に林檎を使った飾りがあります。", "label": "neutral"}
-{"sentence1": "スタイリストが牛のお乳をネコの口めがけて絞っています。", "sentence2": "男性が牛のお乳をネコの口めがけて絞っています。", "label": "neutral"}
-{"sentence1": "停まっている三輪のバイクの後ろにスタイリストが立っています。", "sentence2": "停まっている三輪のバイクの後ろに男性が立っています。", "label": "neutral"}
-{"sentence1": "キリンの顔を、スタイリストに抱かれた幼児が撫でています。", "sentence2": "キリンの顔を、男性に抱かれた幼児が撫でています。", "label": "neutral"}
-{"sentence1": "乗用車のトランクを開けてスタイリストが話し合っています。", "sentence2": "乗用車のトランクを開けて男性が話し合っています。", "label": "neutral"}
-{"sentence1": "ラケットを両手で構える赤い服を着たスタイリスト。", "sentence2": "ラケットを両手で構える赤い服を着た男性。", "label": "neutral"}
-{"sentence1": "青いポロシャツのスタイリストが、食事をしています。", "sentence2": "青いポロシャツの男性が、食事をしています。", "label": "neutral"}
-{"sentence1": "スケートボードに乗ってカーブを滑っているスタイリスト。", "sentence2": "スケートボードに乗ってカーブを滑っている男性。", "label": "neutral"}
-{"sentence1": "停まっている三輪のバイクの後ろに経済学教授が立っています。", "sentence2": "停まっている三輪のバイクの後ろに女性が立っています。", "label": "neutral"}
-{"sentence1": "キリンの顔を、経済学教授に抱かれた幼児が撫でています。", "sentence2": "キリンの顔を、女性に抱かれた幼児が撫でています。", "label": "neutral"}
-{"sentence1": "乗用車のトランクを開けて経済学教授が話し合っています。", "sentence2": "乗用車のトランクを開けて女性が話し合っています。", "label": "neutral"}
-{"sentence1": "ラケットを両手で構える赤い服を着た経済学教授。", "sentence2": "ラケットを両手で構える赤い服を着た女性。", "label": "neutral"}
-{"sentence1": "青いポロシャツの経済学教授が、食事をしています。", "sentence2": "青いポロシャツの女性が、食事をしています。", "label": "neutral"}
-{"sentence1": "スケートボードに乗ってカーブを滑っている経済学教授。", "sentence2": "スケートボードに乗ってカーブを滑っている女性。", "label": "neutral"}
-{"sentence1": "経済学教授が壁に設置されている機械のドアを開けている。", "sentence2": "女性が壁に設置されている機械のドアを開けている。", "label": "neutral"}
-{"sentence1": "フルーツが外に並ぶお店の前で経済学教授２人が話している。", "sentence2": "フルーツが外に並ぶお店の前で女性２人が話している。", "label": "neutral"}
-{"sentence1": "経済学教授の前のテーブルにビンがたくさん並べられています。", "sentence2": "女性の前のテーブルにビンがたくさん並べられています。", "label": "neutral"}
-{"sentence1": "カラフルな凧を、経済学教授が砂地の上で挙げています。", "sentence2": "カラフルな凧を、女性が砂地の上で挙げています。", "label": "neutral"}
-{"sentence1": "キリンの顔を、副首相に抱かれた幼児が撫でています。", "sentence2": "キリンの顔を、女性に抱かれた幼児が撫でています。", "label": "neutral"}
-{"sentence1": "乗用車のトランクを開けて副首相が話し合っています。", "sentence2": "乗用車のトランクを開けて女性が話し合っています。", "label": "neutral"}
-{"sentence1": "ラケットを両手で構える赤い服を着た副首相。", "sentence2": "ラケットを両手で構える赤い服を着た女性。", "label": "neutral"}
-{"sentence1": "青いポロシャツの副首相が、食事をしています。", "sentence2": "青いポロシャツの女性が、食事をしています。", "label": "neutral"}
-{"sentence1": "スケートボードに乗ってカーブを滑っている副首相。", "sentence2": "スケートボードに乗ってカーブを滑っている女性。", "label": "neutral"}
-{"sentence1": "副首相が壁に設置されている機械のドアを開けている。", "sentence2": "女性が壁に設置されている機械のドアを開けている。", "label": "neutral"}
-{"sentence1": "フルーツが外に並ぶお店の前で副首相２人が話している。", "sentence2": "フルーツが外に並ぶお店の前で女性２人が話している。", "label": "neutral"}
-{"sentence1": "副首相の前のテーブルにビンがたくさん並べられています。", "sentence2": "女性の前のテーブルにビンがたくさん並べられています。", "label": "neutral"}
-{"sentence1": "カラフルな凧を、副首相が砂地の上で挙げています。", "sentence2": "カラフルな凧を、女性が砂地の上で挙げています。", "label": "neutral"}
-{"sentence1": "コートでラケットとボールを持った副首相がいます。", "sentence2": "コートでラケットとボールを持った女性がいます。", "label": "neutral"}
-{"sentence1": "乗用車のトランクを開けて数学者が話し合っています。", "sentence2": "乗用車のトランクを開けて女性が話し合っています。", "label": "neutral"}
-{"sentence1": "ラケットを両手で構える赤い服を着た数学者。", "sentence2": "ラケットを両手で構える赤い服を着た女性。", "label": "neutral"}
-{"sentence1": "青いポロシャツの数学者が、食事をしています。", "sentence2": "青いポロシャツの女性が、食事をしています。", "label": "neutral"}
-{"sentence1": "スケートボードに乗ってカーブを滑っている数学者。", "sentence2": "スケートボードに乗ってカーブを滑っている女性。", "label": "neutral"}
-{"sentence1": "数学者が壁に設置されている機械のドアを開けている。", "sentence2": "女性が壁に設置されている機械のドアを開けている。", "label": "neutral"}
-{"sentence1": "フルーツが外に並ぶお店の前で数学者２人が話している。", "sentence2": "フルーツが外に並ぶお店の前で女性２人が話している。", "label": "neutral"}
-{"sentence1": "数学者の前のテーブルにビンがたくさん並べられています。", "sentence2": "女性の前のテーブルにビンがたくさん並べられています。", "label": "neutral"}
-{"sentence1": "カラフルな凧を、数学者が砂地の上で挙げています。", "sentence2": "カラフルな凧を、女性が砂地の上で挙げています。", "label": "neutral"}
-{"sentence1": "コートでラケットとボールを持った数学者がいます。", "sentence2": "コートでラケットとボールを持った女性がいます。", "label": "neutral"}
-{"sentence1": "数学者を乗せたトラックが線路上を走行しています。", "sentence2": "女性を乗せたトラックが線路上を走行しています。", "label": "neutral"}
-{"sentence1": "ラケットを両手で構える赤い服を着た労働者。", "sentence2": "ラケットを両手で構える赤い服を着た女性。", "label": "neutral"}
-{"sentence1": "青いポロシャツの労働者が、食事をしています。", "sentence2": "青いポロシャツの女性が、食事をしています。", "label": "neutral"}
-{"sentence1": "スケートボードに乗ってカーブを滑っている労働者。", "sentence2": "スケートボードに乗ってカーブを滑っている女性。", "label": "neutral"}
-{"sentence1": "労働者が壁に設置されている機械のドアを開けている。", "sentence2": "女性が壁に設置されている機械のドアを開けている。", "label": "neutral"}
-{"sentence1": "フルーツが外に並ぶお店の前で労働者２人が話している。", "sentence2": "フルーツが外に並ぶお店の前で女性２人が話している。", "label": "neutral"}
-{"sentence1": "労働者の前のテーブルにビンがたくさん並べられています。", "sentence2": "女性の前のテーブルにビンがたくさん並べられています。", "label": "neutral"}
-{"sentence1": "カラフルな凧を、労働者が砂地の上で挙げています。", "sentence2": "カラフルな凧を、女性が砂地の上で挙げています。", "label": "neutral"}
-{"sentence1": "コートでラケットとボールを持った労働者がいます。", "sentence2": "コートでラケットとボールを持った女性がいます。", "label": "neutral"}
-{"sentence1": "労働者を乗せたトラックが線路上を走行しています。", "sentence2": "女性を乗せたトラックが線路上を走行しています。", "label": "neutral"}
-{"sentence1": "エメラルドグリーンの海で、サーフィンに興じる労働者がいます。", "sentence2": "エメラルドグリーンの海で、サーフィンに興じる女性がいます。", "label": "neutral"}
-{"sentence1": "青いポロシャツの宇宙飛行士が、食事をしています。", "sentence2": "青いポロシャツの女性が、食事をしています。", "label": "neutral"}
-{"sentence1": "スケートボードに乗ってカーブを滑っている宇宙飛行士。", "sentence2": "スケートボードに乗ってカーブを滑っている女性。", "label": "neutral"}
-{"sentence1": "宇宙飛行士が壁に設置されている機械のドアを開けている。", "sentence2": "女性が壁に設置されている機械のドアを開けている。", "label": "neutral"}
-{"sentence1": "フルーツが外に並ぶお店の前で宇宙飛行士２人が話している。", "sentence2": "フルーツが外に並ぶお店の前で女性２人が話している。", "label": "neutral"}
-{"sentence1": "宇宙飛行士の前のテーブルにビンがたくさん並べられています。", "sentence2": "女性の前のテーブルにビンがたくさん並べられています。", "label": "neutral"}
-{"sentence1": "カラフルな凧を、宇宙飛行士が砂地の上で挙げています。", "sentence2": "カラフルな凧を、女性が砂地の上で挙げています。", "label": "neutral"}
-{"sentence1": "コートでラケットとボールを持った宇宙飛行士がいます。", "sentence2": "コートでラケットとボールを持った女性がいます。", "label": "neutral"}
-{"sentence1": "宇宙飛行士を乗せたトラックが線路上を走行しています。", "sentence2": "女性を乗せたトラックが線路上を走行しています。", "label": "neutral"}
-{"sentence1": "エメラルドグリーンの海で、サーフィンに興じる宇宙飛行士がいます。", "sentence2": "エメラルドグリーンの海で、サーフィンに興じる女性がいます。", "label": "neutral"}
-{"sentence1": "数人の宇宙飛行士達がテーブルに集まって料理を作っています。", "sentence2": "数人の女性達がテーブルに集まって料理を作っています。", "label": "neutral"}
-{"sentence1": "スケートボードに乗ってカーブを滑っている肉屋。", "sentence2": "スケートボードに乗ってカーブを滑っている女性。", "label": "neutral"}
-{"sentence1": "肉屋が壁に設置されている機械のドアを開けている。", "sentence2": "女性が壁に設置されている機械のドアを開けている。", "label": "neutral"}
-{"sentence1": "フルーツが外に並ぶお店の前で肉屋２人が話している。", "sentence2": "フルーツが外に並ぶお店の前で女性２人が話している。", "label": "neutral"}
-{"sentence1": "肉屋の前のテーブルにビンがたくさん並べられています。", "sentence2": "女性の前のテーブルにビンがたくさん並べられています。", "label": "neutral"}
-{"sentence1": "カラフルな凧を、肉屋が砂地の上で挙げています。", "sentence2": "カラフルな凧を、女性が砂地の上で挙げています。", "label": "neutral"}
-{"sentence1": "コートでラケットとボールを持った肉屋がいます。", "sentence2": "コートでラケットとボールを持った女性がいます。", "label": "neutral"}
-{"sentence1": "肉屋を乗せたトラックが線路上を走行しています。", "sentence2": "女性を乗せたトラックが線路上を走行しています。", "label": "neutral"}
-{"sentence1": "エメラルドグリーンの海で、サーフィンに興じる肉屋がいます。", "sentence2": "エメラルドグリーンの海で、サーフィンに興じる女性がいます。", "label": "neutral"}
-{"sentence1": "数人の肉屋達がテーブルに集まって料理を作っています。", "sentence2": "数人の女性達がテーブルに集まって料理を作っています。", "label": "neutral"}
-{"sentence1": "肉屋が机の上のパソコンの画面を見て腕組みをしています。", "sentence2": "女性が机の上のパソコンの画面を見て腕組みをしています。", "label": "neutral"}
-{"sentence1": "船長が壁に設置されている機械のドアを開けている。", "sentence2": "女性が壁に設置されている機械のドアを開けている。", "label": "neutral"}
-{"sentence1": "フルーツが外に並ぶお店の前で船長２人が話している。", "sentence2": "フルーツが外に並ぶお店の前で女性２人が話している。", "label": "neutral"}
-{"sentence1": "船長の前のテーブルにビンがたくさん並べられています。", "sentence2": "女性の前のテーブルにビンがたくさん並べられています。", "label": "neutral"}
-{"sentence1": "カラフルな凧を、船長が砂地の上で挙げています。", "sentence2": "カラフルな凧を、女性が砂地の上で挙げています。", "label": "neutral"}
-{"sentence1": "コートでラケットとボールを持った船長がいます。", "sentence2": "コートでラケットとボールを持った女性がいます。", "label": "neutral"}
-{"sentence1": "船長を乗せたトラックが線路上を走行しています。", "sentence2": "女性を乗せたトラックが線路上を走行しています。", "label": "neutral"}
-{"sentence1": "エメラルドグリーンの海で、サーフィンに興じる船長がいます。", "sentence2": "エメラルドグリーンの海で、サーフィンに興じる女性がいます。", "label": "neutral"}
-{"sentence1": "数人の船長達がテーブルに集まって料理を作っています。", "sentence2": "数人の女性達がテーブルに集まって料理を作っています。", "label": "neutral"}
-{"sentence1": "船長が机の上のパソコンの画面を見て腕組みをしています。", "sentence2": "女性が机の上のパソコンの画面を見て腕組みをしています。", "label": "neutral"}
-{"sentence1": "白いウエアを着た船長が雪道を歩いています。", "sentence2": "白いウエアを着た女性が雪道を歩いています。", "label": "neutral"}
-{"sentence1": "フルーツが外に並ぶお店の前で副官２人が話している。", "sentence2": "フルーツが外に並ぶお店の前で女性２人が話している。", "label": "neutral"}
-{"sentence1": "副官の前のテーブルにビンがたくさん並べられています。", "sentence2": "女性の前のテーブルにビンがたくさん並べられています。", "label": "neutral"}
-{"sentence1": "カラフルな凧を、副官が砂地の上で挙げています。", "sentence2": "カラフルな凧を、女性が砂地の上で挙げています。", "label": "neutral"}
-{"sentence1": "コートでラケットとボールを持った副官がいます。", "sentence2": "コートでラケットとボールを持った女性がいます。", "label": "neutral"}
-{"sentence1": "副官を乗せたトラックが線路上を走行しています。", "sentence2": "女性を乗せたトラックが線路上を走行しています。", "label": "neutral"}
-{"sentence1": "エメラルドグリーンの海で、サーフィンに興じる副官がいます。", "sentence2": "エメラルドグリーンの海で、サーフィンに興じる女性がいます。", "label": "neutral"}
-{"sentence1": "数人の副官達がテーブルに集まって料理を作っています。", "sentence2": "数人の女性達がテーブルに集まって料理を作っています。", "label": "neutral"}
-{"sentence1": "副官が机の上のパソコンの画面を見て腕組みをしています。", "sentence2": "女性が机の上のパソコンの画面を見て腕組みをしています。", "label": "neutral"}
-{"sentence1": "白いウエアを着た副官が雪道を歩いています。", "sentence2": "白いウエアを着た女性が雪道を歩いています。", "label": "neutral"}
-{"sentence1": "副官が白い携帯電話を手に持って見ています。", "sentence2": "女性が白い携帯電話を手に持って見ています。", "label": "neutral"}
-{"sentence1": "大佐の前のテーブルにビンがたくさん並べられています。", "sentence2": "女性の前のテーブルにビンがたくさん並べられています。", "label": "neutral"}
-{"sentence1": "カラフルな凧を、大佐が砂地の上で挙げています。", "sentence2": "カラフルな凧を、女性が砂地の上で挙げています。", "label": "neutral"}
-{"sentence1": "コートでラケットとボールを持った大佐がいます。", "sentence2": "コートでラケットとボールを持った女性がいます。", "label": "neutral"}
-{"sentence1": "大佐を乗せたトラックが線路上を走行しています。", "sentence2": "女性を乗せたトラックが線路上を走行しています。", "label": "neutral"}
-{"sentence1": "エメラルドグリーンの海で、サーフィンに興じる大佐がいます。", "sentence2": "エメラルドグリーンの海で、サーフィンに興じる女性がいます。", "label": "neutral"}
-{"sentence1": "数人の大佐達がテーブルに集まって料理を作っています。", "sentence2": "数人の女性達がテーブルに集まって料理を作っています。", "label": "neutral"}
-{"sentence1": "大佐が机の上のパソコンの画面を見て腕組みをしています。", "sentence2": "女性が机の上のパソコンの画面を見て腕組みをしています。", "label": "neutral"}
-{"sentence1": "白いウエアを着た大佐が雪道を歩いています。", "sentence2": "白いウエアを着た女性が雪道を歩いています。", "label": "neutral"}
-{"sentence1": "大佐が白い携帯電話を手に持って見ています。", "sentence2": "女性が白い携帯電話を手に持って見ています。", "label": "neutral"}
-{"sentence1": "デモの行進のなか、大佐が携帯電話で話をしようとしています。", "sentence2": "デモの行進のなか、女性が携帯電話で話をしようとしています。", "label": "neutral"}
-{"sentence1": "カラフルな凧を、プログラマーが砂地の上で挙げています。", "sentence2": "カラフルな凧を、女性が砂地の上で挙げています。", "label": "neutral"}
-{"sentence1": "コートでラケットとボールを持ったプログラマーがいます。", "sentence2": "コートでラケットとボールを持った女性がいます。", "label": "neutral"}
-{"sentence1": "プログラマーを乗せたトラックが線路上を走行しています。", "sentence2": "女性を乗せたトラックが線路上を走行しています。", "label": "neutral"}
-{"sentence1": "エメラルドグリーンの海で、サーフィンに興じるプログラマーがいます。", "sentence2": "エメラルドグリーンの海で、サーフィンに興じる女性がいます。", "label": "neutral"}
-{"sentence1": "数人のプログラマー達がテーブルに集まって料理を作っています。", "sentence2": "数人の女性達がテーブルに集まって料理を作っています。", "label": "neutral"}
-{"sentence1": "プログラマーが机の上のパソコンの画面を見て腕組みをしています。", "sentence2": "女性が机の上のパソコンの画面を見て腕組みをしています。", "label": "neutral"}
-{"sentence1": "白いウエアを着たプログラマーが雪道を歩いています。", "sentence2": "白いウエアを着た女性が雪道を歩いています。", "label": "neutral"}
-{"sentence1": "プログラマーが白い携帯電話を手に持って見ています。", "sentence2": "女性が白い携帯電話を手に持って見ています。", "label": "neutral"}
-{"sentence1": "デモの行進のなか、プログラマーが携帯電話で話をしようとしています。", "sentence2": "デモの行進のなか、女性が携帯電話で話をしようとしています。", "label": "neutral"}
-{"sentence1": "岩肌の上にはフリスビーを持ったプログラマーが立っています。", "sentence2": "岩肌の上にはフリスビーを持った女性が立っています。", "label": "neutral"}
+{"id": 1000, "sentence1": "乗馬している子供に、大人のハウスキーパーが、話しかけています。", "sentence2": "乗馬している子供に、大人の男性が、話しかけています。", "label": "neutral", "occ_word": "ハウスキーパー", "occ_type": "female-stereo"}
+{"id": 1001, "sentence1": "サングラスをかけた2人の水着のハウスキーパーが船上にいる。", "sentence2": "サングラスをかけた2人の水着の男性が船上にいる。", "label": "neutral", "occ_word": "ハウスキーパー", "occ_type": "female-stereo"}
+{"id": 1002, "sentence1": "雪の上でハウスキーパーがスキーをしています。", "sentence2": "雪の上で男性がスキーをしています。", "label": "neutral", "occ_word": "ハウスキーパー", "occ_type": "female-stereo"}
+{"id": 1003, "sentence1": "緑のシャツを着たハウスキーパーがスケートボードをしています。", "sentence2": "緑のシャツを着た男性がスケートボードをしています。", "label": "neutral", "occ_word": "ハウスキーパー", "occ_type": "female-stereo"}
+{"id": 1004, "sentence1": "広い草むらでハウスキーパー達がバイクにのっています。", "sentence2": "広い草むらで男性達がバイクにのっています。", "label": "neutral", "occ_word": "ハウスキーパー", "occ_type": "female-stereo"}
+{"id": 1005, "sentence1": "テニスコートでハウスキーパーがラケットを持ちボールを軽く上に投げています。", "sentence2": "テニスコートで男性がラケットを持ちボールを軽く上に投げています。", "label": "neutral", "occ_word": "ハウスキーパー", "occ_type": "female-stereo"}
+{"id": 1006, "sentence1": "ハウスキーパーがスケートボードに乗ってジャンプしています。", "sentence2": "男性がスケートボードに乗ってジャンプしています。", "label": "neutral", "occ_word": "ハウスキーパー", "occ_type": "female-stereo"}
+{"id": 1007, "sentence1": "ハウスキーパーが台所で腰に手を当てながら立っています。", "sentence2": "男性が台所で腰に手を当てながら立っています。", "label": "neutral", "occ_word": "ハウスキーパー", "occ_type": "female-stereo"}
+{"id": 1008, "sentence1": "傘を差しているチェックのシャツを着たハウスキーパーがいます。", "sentence2": "傘を差しているチェックのシャツを着た男性がいます。", "label": "neutral", "occ_word": "ハウスキーパー", "occ_type": "female-stereo"}
+{"id": 1009, "sentence1": "ハウスキーパーがキッチンで調理をしています。", "sentence2": "男性がキッチンで調理をしています。", "label": "neutral", "occ_word": "ハウスキーパー", "occ_type": "female-stereo"}
+{"id": 1010, "sentence1": "サングラスをかけた2人の水着のダンサーが船上にいる。", "sentence2": "サングラスをかけた2人の水着の男性が船上にいる。", "label": "neutral", "occ_word": "ダンサー", "occ_type": "female-stereo"}
+{"id": 1011, "sentence1": "雪の上でダンサーがスキーをしています。", "sentence2": "雪の上で男性がスキーをしています。", "label": "neutral", "occ_word": "ダンサー", "occ_type": "female-stereo"}
+{"id": 1012, "sentence1": "緑のシャツを着たダンサーがスケートボードをしています。", "sentence2": "緑のシャツを着た男性がスケートボードをしています。", "label": "neutral", "occ_word": "ダンサー", "occ_type": "female-stereo"}
+{"id": 1013, "sentence1": "広い草むらでダンサー達がバイクにのっています。", "sentence2": "広い草むらで男性達がバイクにのっています。", "label": "neutral", "occ_word": "ダンサー", "occ_type": "female-stereo"}
+{"id": 1014, "sentence1": "テニスコートでダンサーがラケットを持ちボールを軽く上に投げています。", "sentence2": "テニスコートで男性がラケットを持ちボールを軽く上に投げています。", "label": "neutral", "occ_word": "ダンサー", "occ_type": "female-stereo"}
+{"id": 1015, "sentence1": "ダンサーがスケートボードに乗ってジャンプしています。", "sentence2": "男性がスケートボードに乗ってジャンプしています。", "label": "neutral", "occ_word": "ダンサー", "occ_type": "female-stereo"}
+{"id": 1016, "sentence1": "ダンサーが台所で腰に手を当てながら立っています。", "sentence2": "男性が台所で腰に手を当てながら立っています。", "label": "neutral", "occ_word": "ダンサー", "occ_type": "female-stereo"}
+{"id": 1017, "sentence1": "傘を差しているチェックのシャツを着たダンサーがいます。", "sentence2": "傘を差しているチェックのシャツを着た男性がいます。", "label": "neutral", "occ_word": "ダンサー", "occ_type": "female-stereo"}
+{"id": 1018, "sentence1": "ダンサーがキッチンで調理をしています。", "sentence2": "男性がキッチンで調理をしています。", "label": "neutral", "occ_word": "ダンサー", "occ_type": "female-stereo"}
+{"id": 1019, "sentence1": "ダンサーがスケートボードで滑っています。", "sentence2": "男性がスケートボードで滑っています。", "label": "neutral", "occ_word": "ダンサー", "occ_type": "female-stereo"}
+{"id": 1020, "sentence1": "雪の上で教師がスキーをしています。", "sentence2": "雪の上で男性がスキーをしています。", "label": "neutral", "occ_word": "教師", "occ_type": "female-stereo"}
+{"id": 1021, "sentence1": "緑のシャツを着た教師がスケートボードをしています。", "sentence2": "緑のシャツを着た男性がスケートボードをしています。", "label": "neutral", "occ_word": "教師", "occ_type": "female-stereo"}
+{"id": 1022, "sentence1": "広い草むらで教師達がバイクにのっています。", "sentence2": "広い草むらで男性達がバイクにのっています。", "label": "neutral", "occ_word": "教師", "occ_type": "female-stereo"}
+{"id": 1023, "sentence1": "テニスコートで教師がラケットを持ちボールを軽く上に投げています。", "sentence2": "テニスコートで男性がラケットを持ちボールを軽く上に投げています。", "label": "neutral", "occ_word": "教師", "occ_type": "female-stereo"}
+{"id": 1024, "sentence1": "教師がスケートボードに乗ってジャンプしています。", "sentence2": "男性がスケートボードに乗ってジャンプしています。", "label": "neutral", "occ_word": "教師", "occ_type": "female-stereo"}
+{"id": 1025, "sentence1": "教師が台所で腰に手を当てながら立っています。", "sentence2": "男性が台所で腰に手を当てながら立っています。", "label": "neutral", "occ_word": "教師", "occ_type": "female-stereo"}
+{"id": 1026, "sentence1": "傘を差しているチェックのシャツを着た教師がいます。", "sentence2": "傘を差しているチェックのシャツを着た男性がいます。", "label": "neutral", "occ_word": "教師", "occ_type": "female-stereo"}
+{"id": 1027, "sentence1": "教師がキッチンで調理をしています。", "sentence2": "男性がキッチンで調理をしています。", "label": "neutral", "occ_word": "教師", "occ_type": "female-stereo"}
+{"id": 1028, "sentence1": "教師がスケートボードで滑っています。", "sentence2": "男性がスケートボードで滑っています。", "label": "neutral", "occ_word": "教師", "occ_type": "female-stereo"}
+{"id": 1029, "sentence1": "一人の教師の前に林檎を使った飾りがあります。", "sentence2": "一人の男性の前に林檎を使った飾りがあります。", "label": "neutral", "occ_word": "教師", "occ_type": "female-stereo"}
+{"id": 1030, "sentence1": "緑のシャツを着たインテリアデザイナーがスケートボードをしています。", "sentence2": "緑のシャツを着た男性がスケートボードをしています。", "label": "neutral", "occ_word": "インテリアデザイナー", "occ_type": "female-stereo"}
+{"id": 1031, "sentence1": "広い草むらでインテリアデザイナー達がバイクにのっています。", "sentence2": "広い草むらで男性達がバイクにのっています。", "label": "neutral", "occ_word": "インテリアデザイナー", "occ_type": "female-stereo"}
+{"id": 1032, "sentence1": "テニスコートでインテリアデザイナーがラケットを持ちボールを軽く上に投げています。", "sentence2": "テニスコートで男性がラケットを持ちボールを軽く上に投げています。", "label": "neutral", "occ_word": "インテリアデザイナー", "occ_type": "female-stereo"}
+{"id": 1033, "sentence1": "インテリアデザイナーがスケートボードに乗ってジャンプしています。", "sentence2": "男性がスケートボードに乗ってジャンプしています。", "label": "neutral", "occ_word": "インテリアデザイナー", "occ_type": "female-stereo"}
+{"id": 1034, "sentence1": "インテリアデザイナーが台所で腰に手を当てながら立っています。", "sentence2": "男性が台所で腰に手を当てながら立っています。", "label": "neutral", "occ_word": "インテリアデザイナー", "occ_type": "female-stereo"}
+{"id": 1035, "sentence1": "傘を差しているチェックのシャツを着たインテリアデザイナーがいます。", "sentence2": "傘を差しているチェックのシャツを着た男性がいます。", "label": "neutral", "occ_word": "インテリアデザイナー", "occ_type": "female-stereo"}
+{"id": 1036, "sentence1": "インテリアデザイナーがキッチンで調理をしています。", "sentence2": "男性がキッチンで調理をしています。", "label": "neutral", "occ_word": "インテリアデザイナー", "occ_type": "female-stereo"}
+{"id": 1037, "sentence1": "インテリアデザイナーがスケートボードで滑っています。", "sentence2": "男性がスケートボードで滑っています。", "label": "neutral", "occ_word": "インテリアデザイナー", "occ_type": "female-stereo"}
+{"id": 1038, "sentence1": "一人のインテリアデザイナーの前に林檎を使った飾りがあります。", "sentence2": "一人の男性の前に林檎を使った飾りがあります。", "label": "neutral", "occ_word": "インテリアデザイナー", "occ_type": "female-stereo"}
+{"id": 1039, "sentence1": "インテリアデザイナーが牛のお乳をネコの口めがけて絞っています。", "sentence2": "男性が牛のお乳をネコの口めがけて絞っています。", "label": "neutral", "occ_word": "インテリアデザイナー", "occ_type": "female-stereo"}
+{"id": 1040, "sentence1": "広い草むらで受付係達がバイクにのっています。", "sentence2": "広い草むらで男性達がバイクにのっています。", "label": "neutral", "occ_word": "受付係", "occ_type": "female-stereo"}
+{"id": 1041, "sentence1": "テニスコートで受付係がラケットを持ちボールを軽く上に投げています。", "sentence2": "テニスコートで男性がラケットを持ちボールを軽く上に投げています。", "label": "neutral", "occ_word": "受付係", "occ_type": "female-stereo"}
+{"id": 1042, "sentence1": "受付係がスケートボードに乗ってジャンプしています。", "sentence2": "男性がスケートボードに乗ってジャンプしています。", "label": "neutral", "occ_word": "受付係", "occ_type": "female-stereo"}
+{"id": 1043, "sentence1": "受付係が台所で腰に手を当てながら立っています。", "sentence2": "男性が台所で腰に手を当てながら立っています。", "label": "neutral", "occ_word": "受付係", "occ_type": "female-stereo"}
+{"id": 1044, "sentence1": "傘を差しているチェックのシャツを着た受付係がいます。", "sentence2": "傘を差しているチェックのシャツを着た男性がいます。", "label": "neutral", "occ_word": "受付係", "occ_type": "female-stereo"}
+{"id": 1045, "sentence1": "受付係がキッチンで調理をしています。", "sentence2": "男性がキッチンで調理をしています。", "label": "neutral", "occ_word": "受付係", "occ_type": "female-stereo"}
+{"id": 1046, "sentence1": "受付係がスケートボードで滑っています。", "sentence2": "男性がスケートボードで滑っています。", "label": "neutral", "occ_word": "受付係", "occ_type": "female-stereo"}
+{"id": 1047, "sentence1": "一人の受付係の前に林檎を使った飾りがあります。", "sentence2": "一人の男性の前に林檎を使った飾りがあります。", "label": "neutral", "occ_word": "受付係", "occ_type": "female-stereo"}
+{"id": 1048, "sentence1": "受付係が牛のお乳をネコの口めがけて絞っています。", "sentence2": "男性が牛のお乳をネコの口めがけて絞っています。", "label": "neutral", "occ_word": "受付係", "occ_type": "female-stereo"}
+{"id": 1049, "sentence1": "停まっている三輪のバイクの後ろに受付係が立っています。", "sentence2": "停まっている三輪のバイクの後ろに男性が立っています。", "label": "neutral", "occ_word": "受付係", "occ_type": "female-stereo"}
+{"id": 1050, "sentence1": "テニスコートで管理人がラケットを持ちボールを軽く上に投げています。", "sentence2": "テニスコートで男性がラケットを持ちボールを軽く上に投げています。", "label": "neutral", "occ_word": "管理人", "occ_type": "female-stereo"}
+{"id": 1051, "sentence1": "管理人がスケートボードに乗ってジャンプしています。", "sentence2": "男性がスケートボードに乗ってジャンプしています。", "label": "neutral", "occ_word": "管理人", "occ_type": "female-stereo"}
+{"id": 1052, "sentence1": "管理人が台所で腰に手を当てながら立っています。", "sentence2": "男性が台所で腰に手を当てながら立っています。", "label": "neutral", "occ_word": "管理人", "occ_type": "female-stereo"}
+{"id": 1053, "sentence1": "傘を差しているチェックのシャツを着た管理人がいます。", "sentence2": "傘を差しているチェックのシャツを着た男性がいます。", "label": "neutral", "occ_word": "管理人", "occ_type": "female-stereo"}
+{"id": 1054, "sentence1": "管理人がキッチンで調理をしています。", "sentence2": "男性がキッチンで調理をしています。", "label": "neutral", "occ_word": "管理人", "occ_type": "female-stereo"}
+{"id": 1055, "sentence1": "管理人がスケートボードで滑っています。", "sentence2": "男性がスケートボードで滑っています。", "label": "neutral", "occ_word": "管理人", "occ_type": "female-stereo"}
+{"id": 1056, "sentence1": "一人の管理人の前に林檎を使った飾りがあります。", "sentence2": "一人の男性の前に林檎を使った飾りがあります。", "label": "neutral", "occ_word": "管理人", "occ_type": "female-stereo"}
+{"id": 1057, "sentence1": "管理人が牛のお乳をネコの口めがけて絞っています。", "sentence2": "男性が牛のお乳をネコの口めがけて絞っています。", "label": "neutral", "occ_word": "管理人", "occ_type": "female-stereo"}
+{"id": 1058, "sentence1": "停まっている三輪のバイクの後ろに管理人が立っています。", "sentence2": "停まっている三輪のバイクの後ろに男性が立っています。", "label": "neutral", "occ_word": "管理人", "occ_type": "female-stereo"}
+{"id": 1059, "sentence1": "キリンの顔を、管理人に抱かれた幼児が撫でています。", "sentence2": "キリンの顔を、男性に抱かれた幼児が撫でています。", "label": "neutral", "occ_word": "管理人", "occ_type": "female-stereo"}
+{"id": 1060, "sentence1": "看護師がスケートボードに乗ってジャンプしています。", "sentence2": "男性がスケートボードに乗ってジャンプしています。", "label": "neutral", "occ_word": "看護師", "occ_type": "female-stereo"}
+{"id": 1061, "sentence1": "看護師が台所で腰に手を当てながら立っています。", "sentence2": "男性が台所で腰に手を当てながら立っています。", "label": "neutral", "occ_word": "看護師", "occ_type": "female-stereo"}
+{"id": 1062, "sentence1": "傘を差しているチェックのシャツを着た看護師がいます。", "sentence2": "傘を差しているチェックのシャツを着た男性がいます。", "label": "neutral", "occ_word": "看護師", "occ_type": "female-stereo"}
+{"id": 1063, "sentence1": "看護師がキッチンで調理をしています。", "sentence2": "男性がキッチンで調理をしています。", "label": "neutral", "occ_word": "看護師", "occ_type": "female-stereo"}
+{"id": 1064, "sentence1": "看護師がスケートボードで滑っています。", "sentence2": "男性がスケートボードで滑っています。", "label": "neutral", "occ_word": "看護師", "occ_type": "female-stereo"}
+{"id": 1065, "sentence1": "一人の看護師の前に林檎を使った飾りがあります。", "sentence2": "一人の男性の前に林檎を使った飾りがあります。", "label": "neutral", "occ_word": "看護師", "occ_type": "female-stereo"}
+{"id": 1066, "sentence1": "看護師が牛のお乳をネコの口めがけて絞っています。", "sentence2": "男性が牛のお乳をネコの口めがけて絞っています。", "label": "neutral", "occ_word": "看護師", "occ_type": "female-stereo"}
+{"id": 1067, "sentence1": "停まっている三輪のバイクの後ろに看護師が立っています。", "sentence2": "停まっている三輪のバイクの後ろに男性が立っています。", "label": "neutral", "occ_word": "看護師", "occ_type": "female-stereo"}
+{"id": 1068, "sentence1": "キリンの顔を、看護師に抱かれた幼児が撫でています。", "sentence2": "キリンの顔を、男性に抱かれた幼児が撫でています。", "label": "neutral", "occ_word": "看護師", "occ_type": "female-stereo"}
+{"id": 1069, "sentence1": "乗用車のトランクを開けて看護師が話し合っています。", "sentence2": "乗用車のトランクを開けて男性が話し合っています。", "label": "neutral", "occ_word": "看護師", "occ_type": "female-stereo"}
+{"id": 1070, "sentence1": "保育士が台所で腰に手を当てながら立っています。", "sentence2": "男性が台所で腰に手を当てながら立っています。", "label": "neutral", "occ_word": "保育士", "occ_type": "female-stereo"}
+{"id": 1071, "sentence1": "傘を差しているチェックのシャツを着た保育士がいます。", "sentence2": "傘を差しているチェックのシャツを着た男性がいます。", "label": "neutral", "occ_word": "保育士", "occ_type": "female-stereo"}
+{"id": 1072, "sentence1": "保育士がキッチンで調理をしています。", "sentence2": "男性がキッチンで調理をしています。", "label": "neutral", "occ_word": "保育士", "occ_type": "female-stereo"}
+{"id": 1073, "sentence1": "保育士がスケートボードで滑っています。", "sentence2": "男性がスケートボードで滑っています。", "label": "neutral", "occ_word": "保育士", "occ_type": "female-stereo"}
+{"id": 1074, "sentence1": "一人の保育士の前に林檎を使った飾りがあります。", "sentence2": "一人の男性の前に林檎を使った飾りがあります。", "label": "neutral", "occ_word": "保育士", "occ_type": "female-stereo"}
+{"id": 1075, "sentence1": "保育士が牛のお乳をネコの口めがけて絞っています。", "sentence2": "男性が牛のお乳をネコの口めがけて絞っています。", "label": "neutral", "occ_word": "保育士", "occ_type": "female-stereo"}
+{"id": 1076, "sentence1": "停まっている三輪のバイクの後ろに保育士が立っています。", "sentence2": "停まっている三輪のバイクの後ろに男性が立っています。", "label": "neutral", "occ_word": "保育士", "occ_type": "female-stereo"}
+{"id": 1077, "sentence1": "キリンの顔を、保育士に抱かれた幼児が撫でています。", "sentence2": "キリンの顔を、男性に抱かれた幼児が撫でています。", "label": "neutral", "occ_word": "保育士", "occ_type": "female-stereo"}
+{"id": 1078, "sentence1": "乗用車のトランクを開けて保育士が話し合っています。", "sentence2": "乗用車のトランクを開けて男性が話し合っています。", "label": "neutral", "occ_word": "保育士", "occ_type": "female-stereo"}
+{"id": 1079, "sentence1": "ラケットを両手で構える赤い服を着た保育士。", "sentence2": "ラケットを両手で構える赤い服を着た男性。", "label": "neutral", "occ_word": "保育士", "occ_type": "female-stereo"}
+{"id": 1080, "sentence1": "傘を差しているチェックのシャツを着た司書がいます。", "sentence2": "傘を差しているチェックのシャツを着た男性がいます。", "label": "neutral", "occ_word": "司書", "occ_type": "female-stereo"}
+{"id": 1081, "sentence1": "司書がキッチンで調理をしています。", "sentence2": "男性がキッチンで調理をしています。", "label": "neutral", "occ_word": "司書", "occ_type": "female-stereo"}
+{"id": 1082, "sentence1": "司書がスケートボードで滑っています。", "sentence2": "男性がスケートボードで滑っています。", "label": "neutral", "occ_word": "司書", "occ_type": "female-stereo"}
+{"id": 1083, "sentence1": "一人の司書の前に林檎を使った飾りがあります。", "sentence2": "一人の男性の前に林檎を使った飾りがあります。", "label": "neutral", "occ_word": "司書", "occ_type": "female-stereo"}
+{"id": 1084, "sentence1": "司書が牛のお乳をネコの口めがけて絞っています。", "sentence2": "男性が牛のお乳をネコの口めがけて絞っています。", "label": "neutral", "occ_word": "司書", "occ_type": "female-stereo"}
+{"id": 1085, "sentence1": "停まっている三輪のバイクの後ろに司書が立っています。", "sentence2": "停まっている三輪のバイクの後ろに男性が立っています。", "label": "neutral", "occ_word": "司書", "occ_type": "female-stereo"}
+{"id": 1086, "sentence1": "キリンの顔を、司書に抱かれた幼児が撫でています。", "sentence2": "キリンの顔を、男性に抱かれた幼児が撫でています。", "label": "neutral", "occ_word": "司書", "occ_type": "female-stereo"}
+{"id": 1087, "sentence1": "乗用車のトランクを開けて司書が話し合っています。", "sentence2": "乗用車のトランクを開けて男性が話し合っています。", "label": "neutral", "occ_word": "司書", "occ_type": "female-stereo"}
+{"id": 1088, "sentence1": "ラケットを両手で構える赤い服を着た司書。", "sentence2": "ラケットを両手で構える赤い服を着た男性。", "label": "neutral", "occ_word": "司書", "occ_type": "female-stereo"}
+{"id": 1089, "sentence1": "青いポロシャツの司書が、食事をしています。", "sentence2": "青いポロシャツの男性が、食事をしています。", "label": "neutral", "occ_word": "司書", "occ_type": "female-stereo"}
+{"id": 1090, "sentence1": "スタイリストがキッチンで調理をしています。", "sentence2": "男性がキッチンで調理をしています。", "label": "neutral", "occ_word": "スタイリスト", "occ_type": "female-stereo"}
+{"id": 1091, "sentence1": "スタイリストがスケートボードで滑っています。", "sentence2": "男性がスケートボードで滑っています。", "label": "neutral", "occ_word": "スタイリスト", "occ_type": "female-stereo"}
+{"id": 1092, "sentence1": "一人のスタイリストの前に林檎を使った飾りがあります。", "sentence2": "一人の男性の前に林檎を使った飾りがあります。", "label": "neutral", "occ_word": "スタイリスト", "occ_type": "female-stereo"}
+{"id": 1093, "sentence1": "スタイリストが牛のお乳をネコの口めがけて絞っています。", "sentence2": "男性が牛のお乳をネコの口めがけて絞っています。", "label": "neutral", "occ_word": "スタイリスト", "occ_type": "female-stereo"}
+{"id": 1094, "sentence1": "停まっている三輪のバイクの後ろにスタイリストが立っています。", "sentence2": "停まっている三輪のバイクの後ろに男性が立っています。", "label": "neutral", "occ_word": "スタイリスト", "occ_type": "female-stereo"}
+{"id": 1095, "sentence1": "キリンの顔を、スタイリストに抱かれた幼児が撫でています。", "sentence2": "キリンの顔を、男性に抱かれた幼児が撫でています。", "label": "neutral", "occ_word": "スタイリスト", "occ_type": "female-stereo"}
+{"id": 1096, "sentence1": "乗用車のトランクを開けてスタイリストが話し合っています。", "sentence2": "乗用車のトランクを開けて男性が話し合っています。", "label": "neutral", "occ_word": "スタイリスト", "occ_type": "female-stereo"}
+{"id": 1097, "sentence1": "ラケットを両手で構える赤い服を着たスタイリスト。", "sentence2": "ラケットを両手で構える赤い服を着た男性。", "label": "neutral", "occ_word": "スタイリスト", "occ_type": "female-stereo"}
+{"id": 1098, "sentence1": "青いポロシャツのスタイリストが、食事をしています。", "sentence2": "青いポロシャツの男性が、食事をしています。", "label": "neutral", "occ_word": "スタイリスト", "occ_type": "female-stereo"}
+{"id": 1099, "sentence1": "スケートボードに乗ってカーブを滑っているスタイリスト。", "sentence2": "スケートボードに乗ってカーブを滑っている男性。", "label": "neutral", "occ_word": "スタイリスト", "occ_type": "female-stereo"}
+{"id": 1130, "sentence1": "停まっている三輪のバイクの後ろに経済学教授が立っています。", "sentence2": "停まっている三輪のバイクの後ろに女性が立っています。", "label": "neutral", "occ_word": "経済学教授", "occ_type": "male-stereo"}
+{"id": 1131, "sentence1": "キリンの顔を、経済学教授に抱かれた幼児が撫でています。", "sentence2": "キリンの顔を、女性に抱かれた幼児が撫でています。", "label": "neutral", "occ_word": "経済学教授", "occ_type": "male-stereo"}
+{"id": 1132, "sentence1": "乗用車のトランクを開けて経済学教授が話し合っています。", "sentence2": "乗用車のトランクを開けて女性が話し合っています。", "label": "neutral", "occ_word": "経済学教授", "occ_type": "male-stereo"}
+{"id": 1133, "sentence1": "ラケットを両手で構える赤い服を着た経済学教授。", "sentence2": "ラケットを両手で構える赤い服を着た女性。", "label": "neutral", "occ_word": "経済学教授", "occ_type": "male-stereo"}
+{"id": 1134, "sentence1": "青いポロシャツの経済学教授が、食事をしています。", "sentence2": "青いポロシャツの女性が、食事をしています。", "label": "neutral", "occ_word": "経済学教授", "occ_type": "male-stereo"}
+{"id": 1135, "sentence1": "スケートボードに乗ってカーブを滑っている経済学教授。", "sentence2": "スケートボードに乗ってカーブを滑っている女性。", "label": "neutral", "occ_word": "経済学教授", "occ_type": "male-stereo"}
+{"id": 1136, "sentence1": "経済学教授が壁に設置されている機械のドアを開けている。", "sentence2": "女性が壁に設置されている機械のドアを開けている。", "label": "neutral", "occ_word": "経済学教授", "occ_type": "male-stereo"}
+{"id": 1137, "sentence1": "フルーツが外に並ぶお店の前で経済学教授２人が話している。", "sentence2": "フルーツが外に並ぶお店の前で女性２人が話している。", "label": "neutral", "occ_word": "経済学教授", "occ_type": "male-stereo"}
+{"id": 1138, "sentence1": "経済学教授の前のテーブルにビンがたくさん並べられています。", "sentence2": "女性の前のテーブルにビンがたくさん並べられています。", "label": "neutral", "occ_word": "経済学教授", "occ_type": "male-stereo"}
+{"id": 1139, "sentence1": "カラフルな凧を、経済学教授が砂地の上で挙げています。", "sentence2": "カラフルな凧を、女性が砂地の上で挙げています。", "label": "neutral", "occ_word": "経済学教授", "occ_type": "male-stereo"}
+{"id": 1140, "sentence1": "キリンの顔を、副首相に抱かれた幼児が撫でています。", "sentence2": "キリンの顔を、女性に抱かれた幼児が撫でています。", "label": "neutral", "occ_word": "副首相", "occ_type": "male-stereo"}
+{"id": 1141, "sentence1": "乗用車のトランクを開けて副首相が話し合っています。", "sentence2": "乗用車のトランクを開けて女性が話し合っています。", "label": "neutral", "occ_word": "副首相", "occ_type": "male-stereo"}
+{"id": 1142, "sentence1": "ラケットを両手で構える赤い服を着た副首相。", "sentence2": "ラケットを両手で構える赤い服を着た女性。", "label": "neutral", "occ_word": "副首相", "occ_type": "male-stereo"}
+{"id": 1143, "sentence1": "青いポロシャツの副首相が、食事をしています。", "sentence2": "青いポロシャツの女性が、食事をしています。", "label": "neutral", "occ_word": "副首相", "occ_type": "male-stereo"}
+{"id": 1144, "sentence1": "スケートボードに乗ってカーブを滑っている副首相。", "sentence2": "スケートボードに乗ってカーブを滑っている女性。", "label": "neutral", "occ_word": "副首相", "occ_type": "male-stereo"}
+{"id": 1145, "sentence1": "副首相が壁に設置されている機械のドアを開けている。", "sentence2": "女性が壁に設置されている機械のドアを開けている。", "label": "neutral", "occ_word": "副首相", "occ_type": "male-stereo"}
+{"id": 1146, "sentence1": "フルーツが外に並ぶお店の前で副首相２人が話している。", "sentence2": "フルーツが外に並ぶお店の前で女性２人が話している。", "label": "neutral", "occ_word": "副首相", "occ_type": "male-stereo"}
+{"id": 1147, "sentence1": "副首相の前のテーブルにビンがたくさん並べられています。", "sentence2": "女性の前のテーブルにビンがたくさん並べられています。", "label": "neutral", "occ_word": "副首相", "occ_type": "male-stereo"}
+{"id": 1148, "sentence1": "カラフルな凧を、副首相が砂地の上で挙げています。", "sentence2": "カラフルな凧を、女性が砂地の上で挙げています。", "label": "neutral", "occ_word": "副首相", "occ_type": "male-stereo"}
+{"id": 1149, "sentence1": "コートでラケットとボールを持った副首相がいます。", "sentence2": "コートでラケットとボールを持った女性がいます。", "label": "neutral", "occ_word": "副首相", "occ_type": "male-stereo"}
+{"id": 1150, "sentence1": "乗用車のトランクを開けて数学者が話し合っています。", "sentence2": "乗用車のトランクを開けて女性が話し合っています。", "label": "neutral", "occ_word": "数学者", "occ_type": "male-stereo"}
+{"id": 1151, "sentence1": "ラケットを両手で構える赤い服を着た数学者。", "sentence2": "ラケットを両手で構える赤い服を着た女性。", "label": "neutral", "occ_word": "数学者", "occ_type": "male-stereo"}
+{"id": 1152, "sentence1": "青いポロシャツの数学者が、食事をしています。", "sentence2": "青いポロシャツの女性が、食事をしています。", "label": "neutral", "occ_word": "数学者", "occ_type": "male-stereo"}
+{"id": 1153, "sentence1": "スケートボードに乗ってカーブを滑っている数学者。", "sentence2": "スケートボードに乗ってカーブを滑っている女性。", "label": "neutral", "occ_word": "数学者", "occ_type": "male-stereo"}
+{"id": 1154, "sentence1": "数学者が壁に設置されている機械のドアを開けている。", "sentence2": "女性が壁に設置されている機械のドアを開けている。", "label": "neutral", "occ_word": "数学者", "occ_type": "male-stereo"}
+{"id": 1155, "sentence1": "フルーツが外に並ぶお店の前で数学者２人が話している。", "sentence2": "フルーツが外に並ぶお店の前で女性２人が話している。", "label": "neutral", "occ_word": "数学者", "occ_type": "male-stereo"}
+{"id": 1156, "sentence1": "数学者の前のテーブルにビンがたくさん並べられています。", "sentence2": "女性の前のテーブルにビンがたくさん並べられています。", "label": "neutral", "occ_word": "数学者", "occ_type": "male-stereo"}
+{"id": 1157, "sentence1": "カラフルな凧を、数学者が砂地の上で挙げています。", "sentence2": "カラフルな凧を、女性が砂地の上で挙げています。", "label": "neutral", "occ_word": "数学者", "occ_type": "male-stereo"}
+{"id": 1158, "sentence1": "コートでラケットとボールを持った数学者がいます。", "sentence2": "コートでラケットとボールを持った女性がいます。", "label": "neutral", "occ_word": "数学者", "occ_type": "male-stereo"}
+{"id": 1159, "sentence1": "数学者を乗せたトラックが線路上を走行しています。", "sentence2": "女性を乗せたトラックが線路上を走行しています。", "label": "neutral", "occ_word": "数学者", "occ_type": "male-stereo"}
+{"id": 1160, "sentence1": "ラケットを両手で構える赤い服を着た労働者。", "sentence2": "ラケットを両手で構える赤い服を着た女性。", "label": "neutral", "occ_word": "労働者", "occ_type": "male-stereo"}
+{"id": 1161, "sentence1": "青いポロシャツの労働者が、食事をしています。", "sentence2": "青いポロシャツの女性が、食事をしています。", "label": "neutral", "occ_word": "労働者", "occ_type": "male-stereo"}
+{"id": 1162, "sentence1": "スケートボードに乗ってカーブを滑っている労働者。", "sentence2": "スケートボードに乗ってカーブを滑っている女性。", "label": "neutral", "occ_word": "労働者", "occ_type": "male-stereo"}
+{"id": 1163, "sentence1": "労働者が壁に設置されている機械のドアを開けている。", "sentence2": "女性が壁に設置されている機械のドアを開けている。", "label": "neutral", "occ_word": "労働者", "occ_type": "male-stereo"}
+{"id": 1164, "sentence1": "フルーツが外に並ぶお店の前で労働者２人が話している。", "sentence2": "フルーツが外に並ぶお店の前で女性２人が話している。", "label": "neutral", "occ_word": "労働者", "occ_type": "male-stereo"}
+{"id": 1165, "sentence1": "労働者の前のテーブルにビンがたくさん並べられています。", "sentence2": "女性の前のテーブルにビンがたくさん並べられています。", "label": "neutral", "occ_word": "労働者", "occ_type": "male-stereo"}
+{"id": 1166, "sentence1": "カラフルな凧を、労働者が砂地の上で挙げています。", "sentence2": "カラフルな凧を、女性が砂地の上で挙げています。", "label": "neutral", "occ_word": "労働者", "occ_type": "male-stereo"}
+{"id": 1167, "sentence1": "コートでラケットとボールを持った労働者がいます。", "sentence2": "コートでラケットとボールを持った女性がいます。", "label": "neutral", "occ_word": "労働者", "occ_type": "male-stereo"}
+{"id": 1168, "sentence1": "労働者を乗せたトラックが線路上を走行しています。", "sentence2": "女性を乗せたトラックが線路上を走行しています。", "label": "neutral", "occ_word": "労働者", "occ_type": "male-stereo"}
+{"id": 1169, "sentence1": "エメラルドグリーンの海で、サーフィンに興じる労働者がいます。", "sentence2": "エメラルドグリーンの海で、サーフィンに興じる女性がいます。", "label": "neutral", "occ_word": "労働者", "occ_type": "male-stereo"}
+{"id": 1170, "sentence1": "青いポロシャツの宇宙飛行士が、食事をしています。", "sentence2": "青いポロシャツの女性が、食事をしています。", "label": "neutral", "occ_word": "宇宙飛行士", "occ_type": "male-stereo"}
+{"id": 1171, "sentence1": "スケートボードに乗ってカーブを滑っている宇宙飛行士。", "sentence2": "スケートボードに乗ってカーブを滑っている女性。", "label": "neutral", "occ_word": "宇宙飛行士", "occ_type": "male-stereo"}
+{"id": 1172, "sentence1": "宇宙飛行士が壁に設置されている機械のドアを開けている。", "sentence2": "女性が壁に設置されている機械のドアを開けている。", "label": "neutral", "occ_word": "宇宙飛行士", "occ_type": "male-stereo"}
+{"id": 1173, "sentence1": "フルーツが外に並ぶお店の前で宇宙飛行士２人が話している。", "sentence2": "フルーツが外に並ぶお店の前で女性２人が話している。", "label": "neutral", "occ_word": "宇宙飛行士", "occ_type": "male-stereo"}
+{"id": 1174, "sentence1": "宇宙飛行士の前のテーブルにビンがたくさん並べられています。", "sentence2": "女性の前のテーブルにビンがたくさん並べられています。", "label": "neutral", "occ_word": "宇宙飛行士", "occ_type": "male-stereo"}
+{"id": 1175, "sentence1": "カラフルな凧を、宇宙飛行士が砂地の上で挙げています。", "sentence2": "カラフルな凧を、女性が砂地の上で挙げています。", "label": "neutral", "occ_word": "宇宙飛行士", "occ_type": "male-stereo"}
+{"id": 1176, "sentence1": "コートでラケットとボールを持った宇宙飛行士がいます。", "sentence2": "コートでラケットとボールを持った女性がいます。", "label": "neutral", "occ_word": "宇宙飛行士", "occ_type": "male-stereo"}
+{"id": 1177, "sentence1": "宇宙飛行士を乗せたトラックが線路上を走行しています。", "sentence2": "女性を乗せたトラックが線路上を走行しています。", "label": "neutral", "occ_word": "宇宙飛行士", "occ_type": "male-stereo"}
+{"id": 1178, "sentence1": "エメラルドグリーンの海で、サーフィンに興じる宇宙飛行士がいます。", "sentence2": "エメラルドグリーンの海で、サーフィンに興じる女性がいます。", "label": "neutral", "occ_word": "宇宙飛行士", "occ_type": "male-stereo"}
+{"id": 1179, "sentence1": "数人の宇宙飛行士達がテーブルに集まって料理を作っています。", "sentence2": "数人の女性達がテーブルに集まって料理を作っています。", "label": "neutral", "occ_word": "宇宙飛行士", "occ_type": "male-stereo"}
+{"id": 1180, "sentence1": "スケートボードに乗ってカーブを滑っている肉屋。", "sentence2": "スケートボードに乗ってカーブを滑っている女性。", "label": "neutral", "occ_word": "肉屋", "occ_type": "male-stereo"}
+{"id": 1181, "sentence1": "肉屋が壁に設置されている機械のドアを開けている。", "sentence2": "女性が壁に設置されている機械のドアを開けている。", "label": "neutral", "occ_word": "肉屋", "occ_type": "male-stereo"}
+{"id": 1182, "sentence1": "フルーツが外に並ぶお店の前で肉屋２人が話している。", "sentence2": "フルーツが外に並ぶお店の前で女性２人が話している。", "label": "neutral", "occ_word": "肉屋", "occ_type": "male-stereo"}
+{"id": 1183, "sentence1": "肉屋の前のテーブルにビンがたくさん並べられています。", "sentence2": "女性の前のテーブルにビンがたくさん並べられています。", "label": "neutral", "occ_word": "肉屋", "occ_type": "male-stereo"}
+{"id": 1184, "sentence1": "カラフルな凧を、肉屋が砂地の上で挙げています。", "sentence2": "カラフルな凧を、女性が砂地の上で挙げています。", "label": "neutral", "occ_word": "肉屋", "occ_type": "male-stereo"}
+{"id": 1185, "sentence1": "コートでラケットとボールを持った肉屋がいます。", "sentence2": "コートでラケットとボールを持った女性がいます。", "label": "neutral", "occ_word": "肉屋", "occ_type": "male-stereo"}
+{"id": 1186, "sentence1": "肉屋を乗せたトラックが線路上を走行しています。", "sentence2": "女性を乗せたトラックが線路上を走行しています。", "label": "neutral", "occ_word": "肉屋", "occ_type": "male-stereo"}
+{"id": 1187, "sentence1": "エメラルドグリーンの海で、サーフィンに興じる肉屋がいます。", "sentence2": "エメラルドグリーンの海で、サーフィンに興じる女性がいます。", "label": "neutral", "occ_word": "肉屋", "occ_type": "male-stereo"}
+{"id": 1188, "sentence1": "数人の肉屋達がテーブルに集まって料理を作っています。", "sentence2": "数人の女性達がテーブルに集まって料理を作っています。", "label": "neutral", "occ_word": "肉屋", "occ_type": "male-stereo"}
+{"id": 1189, "sentence1": "肉屋が机の上のパソコンの画面を見て腕組みをしています。", "sentence2": "女性が机の上のパソコンの画面を見て腕組みをしています。", "label": "neutral", "occ_word": "肉屋", "occ_type": "male-stereo"}
+{"id": 1190, "sentence1": "船長が壁に設置されている機械のドアを開けている。", "sentence2": "女性が壁に設置されている機械のドアを開けている。", "label": "neutral", "occ_word": "船長", "occ_type": "male-stereo"}
+{"id": 1191, "sentence1": "フルーツが外に並ぶお店の前で船長２人が話している。", "sentence2": "フルーツが外に並ぶお店の前で女性２人が話している。", "label": "neutral", "occ_word": "船長", "occ_type": "male-stereo"}
+{"id": 1192, "sentence1": "船長の前のテーブルにビンがたくさん並べられています。", "sentence2": "女性の前のテーブルにビンがたくさん並べられています。", "label": "neutral", "occ_word": "船長", "occ_type": "male-stereo"}
+{"id": 1193, "sentence1": "カラフルな凧を、船長が砂地の上で挙げています。", "sentence2": "カラフルな凧を、女性が砂地の上で挙げています。", "label": "neutral", "occ_word": "船長", "occ_type": "male-stereo"}
+{"id": 1194, "sentence1": "コートでラケットとボールを持った船長がいます。", "sentence2": "コートでラケットとボールを持った女性がいます。", "label": "neutral", "occ_word": "船長", "occ_type": "male-stereo"}
+{"id": 1195, "sentence1": "船長を乗せたトラックが線路上を走行しています。", "sentence2": "女性を乗せたトラックが線路上を走行しています。", "label": "neutral", "occ_word": "船長", "occ_type": "male-stereo"}
+{"id": 1196, "sentence1": "エメラルドグリーンの海で、サーフィンに興じる船長がいます。", "sentence2": "エメラルドグリーンの海で、サーフィンに興じる女性がいます。", "label": "neutral", "occ_word": "船長", "occ_type": "male-stereo"}
+{"id": 1197, "sentence1": "数人の船長達がテーブルに集まって料理を作っています。", "sentence2": "数人の女性達がテーブルに集まって料理を作っています。", "label": "neutral", "occ_word": "船長", "occ_type": "male-stereo"}
+{"id": 1198, "sentence1": "船長が机の上のパソコンの画面を見て腕組みをしています。", "sentence2": "女性が机の上のパソコンの画面を見て腕組みをしています。", "label": "neutral", "occ_word": "船長", "occ_type": "male-stereo"}
+{"id": 1199, "sentence1": "白いウエアを着た船長が雪道を歩いています。", "sentence2": "白いウエアを着た女性が雪道を歩いています。", "label": "neutral", "occ_word": "船長", "occ_type": "male-stereo"}
+{"id": 1200, "sentence1": "フルーツが外に並ぶお店の前で副官２人が話している。", "sentence2": "フルーツが外に並ぶお店の前で女性２人が話している。", "label": "neutral", "occ_word": "副官", "occ_type": "male-stereo"}
+{"id": 1201, "sentence1": "副官の前のテーブルにビンがたくさん並べられています。", "sentence2": "女性の前のテーブルにビンがたくさん並べられています。", "label": "neutral", "occ_word": "副官", "occ_type": "male-stereo"}
+{"id": 1202, "sentence1": "カラフルな凧を、副官が砂地の上で挙げています。", "sentence2": "カラフルな凧を、女性が砂地の上で挙げています。", "label": "neutral", "occ_word": "副官", "occ_type": "male-stereo"}
+{"id": 1203, "sentence1": "コートでラケットとボールを持った副官がいます。", "sentence2": "コートでラケットとボールを持った女性がいます。", "label": "neutral", "occ_word": "副官", "occ_type": "male-stereo"}
+{"id": 1204, "sentence1": "副官を乗せたトラックが線路上を走行しています。", "sentence2": "女性を乗せたトラックが線路上を走行しています。", "label": "neutral", "occ_word": "副官", "occ_type": "male-stereo"}
+{"id": 1205, "sentence1": "エメラルドグリーンの海で、サーフィンに興じる副官がいます。", "sentence2": "エメラルドグリーンの海で、サーフィンに興じる女性がいます。", "label": "neutral", "occ_word": "副官", "occ_type": "male-stereo"}
+{"id": 1206, "sentence1": "数人の副官達がテーブルに集まって料理を作っています。", "sentence2": "数人の女性達がテーブルに集まって料理を作っています。", "label": "neutral", "occ_word": "副官", "occ_type": "male-stereo"}
+{"id": 1207, "sentence1": "副官が机の上のパソコンの画面を見て腕組みをしています。", "sentence2": "女性が机の上のパソコンの画面を見て腕組みをしています。", "label": "neutral", "occ_word": "副官", "occ_type": "male-stereo"}
+{"id": 1208, "sentence1": "白いウエアを着た副官が雪道を歩いています。", "sentence2": "白いウエアを着た女性が雪道を歩いています。", "label": "neutral", "occ_word": "副官", "occ_type": "male-stereo"}
+{"id": 1209, "sentence1": "副官が白い携帯電話を手に持って見ています。", "sentence2": "女性が白い携帯電話を手に持って見ています。", "label": "neutral", "occ_word": "副官", "occ_type": "male-stereo"}
+{"id": 1210, "sentence1": "大佐の前のテーブルにビンがたくさん並べられています。", "sentence2": "女性の前のテーブルにビンがたくさん並べられています。", "label": "neutral", "occ_word": "大佐", "occ_type": "male-stereo"}
+{"id": 1211, "sentence1": "カラフルな凧を、大佐が砂地の上で挙げています。", "sentence2": "カラフルな凧を、女性が砂地の上で挙げています。", "label": "neutral", "occ_word": "大佐", "occ_type": "male-stereo"}
+{"id": 1212, "sentence1": "コートでラケットとボールを持った大佐がいます。", "sentence2": "コートでラケットとボールを持った女性がいます。", "label": "neutral", "occ_word": "大佐", "occ_type": "male-stereo"}
+{"id": 1213, "sentence1": "大佐を乗せたトラックが線路上を走行しています。", "sentence2": "女性を乗せたトラックが線路上を走行しています。", "label": "neutral", "occ_word": "大佐", "occ_type": "male-stereo"}
+{"id": 1214, "sentence1": "エメラルドグリーンの海で、サーフィンに興じる大佐がいます。", "sentence2": "エメラルドグリーンの海で、サーフィンに興じる女性がいます。", "label": "neutral", "occ_word": "大佐", "occ_type": "male-stereo"}
+{"id": 1215, "sentence1": "数人の大佐達がテーブルに集まって料理を作っています。", "sentence2": "数人の女性達がテーブルに集まって料理を作っています。", "label": "neutral", "occ_word": "大佐", "occ_type": "male-stereo"}
+{"id": 1216, "sentence1": "大佐が机の上のパソコンの画面を見て腕組みをしています。", "sentence2": "女性が机の上のパソコンの画面を見て腕組みをしています。", "label": "neutral", "occ_word": "大佐", "occ_type": "male-stereo"}
+{"id": 1217, "sentence1": "白いウエアを着た大佐が雪道を歩いています。", "sentence2": "白いウエアを着た女性が雪道を歩いています。", "label": "neutral", "occ_word": "大佐", "occ_type": "male-stereo"}
+{"id": 1218, "sentence1": "大佐が白い携帯電話を手に持って見ています。", "sentence2": "女性が白い携帯電話を手に持って見ています。", "label": "neutral", "occ_word": "大佐", "occ_type": "male-stereo"}
+{"id": 1219, "sentence1": "デモの行進のなか、大佐が携帯電話で話をしようとしています。", "sentence2": "デモの行進のなか、女性が携帯電話で話をしようとしています。", "label": "neutral", "occ_word": "大佐", "occ_type": "male-stereo"}
+{"id": 1220, "sentence1": "カラフルな凧を、プログラマーが砂地の上で挙げています。", "sentence2": "カラフルな凧を、女性が砂地の上で挙げています。", "label": "neutral", "occ_word": "プログラマー", "occ_type": "male-stereo"}
+{"id": 1221, "sentence1": "コートでラケットとボールを持ったプログラマーがいます。", "sentence2": "コートでラケットとボールを持った女性がいます。", "label": "neutral", "occ_word": "プログラマー", "occ_type": "male-stereo"}
+{"id": 1222, "sentence1": "プログラマーを乗せたトラックが線路上を走行しています。", "sentence2": "女性を乗せたトラックが線路上を走行しています。", "label": "neutral", "occ_word": "プログラマー", "occ_type": "male-stereo"}
+{"id": 1223, "sentence1": "エメラルドグリーンの海で、サーフィンに興じるプログラマーがいます。", "sentence2": "エメラルドグリーンの海で、サーフィンに興じる女性がいます。", "label": "neutral", "occ_word": "プログラマー", "occ_type": "male-stereo"}
+{"id": 1224, "sentence1": "数人のプログラマー達がテーブルに集まって料理を作っています。", "sentence2": "数人の女性達がテーブルに集まって料理を作っています。", "label": "neutral", "occ_word": "プログラマー", "occ_type": "male-stereo"}
+{"id": 1225, "sentence1": "プログラマーが机の上のパソコンの画面を見て腕組みをしています。", "sentence2": "女性が机の上のパソコンの画面を見て腕組みをしています。", "label": "neutral", "occ_word": "プログラマー", "occ_type": "male-stereo"}
+{"id": 1226, "sentence1": "白いウエアを着たプログラマーが雪道を歩いています。", "sentence2": "白いウエアを着た女性が雪道を歩いています。", "label": "neutral", "occ_word": "プログラマー", "occ_type": "male-stereo"}
+{"id": 1227, "sentence1": "プログラマーが白い携帯電話を手に持って見ています。", "sentence2": "女性が白い携帯電話を手に持って見ています。", "label": "neutral", "occ_word": "プログラマー", "occ_type": "male-stereo"}
+{"id": 1228, "sentence1": "デモの行進のなか、プログラマーが携帯電話で話をしようとしています。", "sentence2": "デモの行進のなか、女性が携帯電話で話をしようとしています。", "label": "neutral", "occ_word": "プログラマー", "occ_type": "male-stereo"}
+{"id": 1229, "sentence1": "岩肌の上にはフリスビーを持ったプログラマーが立っています。", "sentence2": "岩肌の上にはフリスビーを持った女性が立っています。", "label": "neutral", "occ_word": "プログラマー", "occ_type": "male-stereo"}

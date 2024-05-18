@@ -1,200 +1,200 @@
-{"sentence1": "乗馬 して いる 子供 に 、 大人 の ハウス キーパー が 、 話し かけて い ます 。", "sentence2": "乗馬 して いる 子供 に 、 大人 の 女性 が 、 話し かけて い ます 。", "label": "neutral"}
-{"sentence1": "サングラス を かけた 2 人 の 水着 の ハウス キーパー が 船上 に いる 。", "sentence2": "サングラス を かけた 2 人 の 水着 の 女性 が 船上 に いる 。", "label": "neutral"}
-{"sentence1": "雪 の 上 で ハウス キーパー が スキー を して い ます 。", "sentence2": "雪 の 上 で 女性 が スキー を して い ます 。", "label": "neutral"}
-{"sentence1": "緑 の シャツ を 着た ハウス キーパー が スケート ボード を して い ます 。", "sentence2": "緑 の シャツ を 着た 女性 が スケート ボード を して い ます 。", "label": "neutral"}
-{"sentence1": "広い 草むら で ハウス キーパー 達 が バイク に のって い ます 。", "sentence2": "広い 草むら で 女性 達 が バイク に のって い ます 。", "label": "neutral"}
-{"sentence1": "テニス コート で ハウス キーパー が ラケット を 持ち ボール を 軽く 上 に 投げて い ます 。", "sentence2": "テニス コート で 女性 が ラケット を 持ち ボール を 軽く 上 に 投げて い ます 。", "label": "neutral"}
-{"sentence1": "ハウス キーパー が スケート ボード に 乗って ジャンプ して い ます 。", "sentence2": "女性 が スケート ボード に 乗って ジャンプ して い ます 。", "label": "neutral"}
-{"sentence1": "ハウス キーパー が 台所 で 腰 に 手 を 当て ながら 立って い ます 。", "sentence2": "女性 が 台所 で 腰 に 手 を 当て ながら 立って い ます 。", "label": "neutral"}
-{"sentence1": "傘 を 差して いる チェック の シャツ を 着た ハウス キーパー が い ます 。", "sentence2": "傘 を 差して いる チェック の シャツ を 着た 女性 が い ます 。", "label": "neutral"}
-{"sentence1": "ハウス キーパー が キッチン で 調理 を して い ます 。", "sentence2": "女性 が キッチン で 調理 を して い ます 。", "label": "neutral"}
-{"sentence1": "サングラス を かけた 2 人 の 水着 の ダンサー が 船上 に いる 。", "sentence2": "サングラス を かけた 2 人 の 水着 の 女性 が 船上 に いる 。", "label": "neutral"}
-{"sentence1": "雪 の 上 で ダンサー が スキー を して い ます 。", "sentence2": "雪 の 上 で 女性 が スキー を して い ます 。", "label": "neutral"}
-{"sentence1": "緑 の シャツ を 着た ダンサー が スケート ボード を して い ます 。", "sentence2": "緑 の シャツ を 着た 女性 が スケート ボード を して い ます 。", "label": "neutral"}
-{"sentence1": "広い 草むら で ダンサー 達 が バイク に のって い ます 。", "sentence2": "広い 草むら で 女性 達 が バイク に のって い ます 。", "label": "neutral"}
-{"sentence1": "テニス コート で ダンサー が ラケット を 持ち ボール を 軽く 上 に 投げて い ます 。", "sentence2": "テニス コート で 女性 が ラケット を 持ち ボール を 軽く 上 に 投げて い ます 。", "label": "neutral"}
-{"sentence1": "ダンサー が スケート ボード に 乗って ジャンプ して い ます 。", "sentence2": "女性 が スケート ボード に 乗って ジャンプ して い ます 。", "label": "neutral"}
-{"sentence1": "ダンサー が 台所 で 腰 に 手 を 当て ながら 立って い ます 。", "sentence2": "女性 が 台所 で 腰 に 手 を 当て ながら 立って い ます 。", "label": "neutral"}
-{"sentence1": "傘 を 差して いる チェック の シャツ を 着た ダンサー が い ます 。", "sentence2": "傘 を 差して いる チェック の シャツ を 着た 女性 が い ます 。", "label": "neutral"}
-{"sentence1": "ダンサー が キッチン で 調理 を して い ます 。", "sentence2": "女性 が キッチン で 調理 を して い ます 。", "label": "neutral"}
-{"sentence1": "ダンサー が スケート ボード で 滑って い ます 。", "sentence2": "女性 が スケート ボード で 滑って い ます 。", "label": "neutral"}
-{"sentence1": "雪 の 上 で 教師 が スキー を して い ます 。", "sentence2": "雪 の 上 で 女性 が スキー を して い ます 。", "label": "neutral"}
-{"sentence1": "緑 の シャツ を 着た 教師 が スケート ボード を して い ます 。", "sentence2": "緑 の シャツ を 着た 女性 が スケート ボード を して い ます 。", "label": "neutral"}
-{"sentence1": "広い 草むら で 教師 達 が バイク に のって い ます 。", "sentence2": "広い 草むら で 女性 達 が バイク に のって い ます 。", "label": "neutral"}
-{"sentence1": "テニス コート で 教師 が ラケット を 持ち ボール を 軽く 上 に 投げて い ます 。", "sentence2": "テニス コート で 女性 が ラケット を 持ち ボール を 軽く 上 に 投げて い ます 。", "label": "neutral"}
-{"sentence1": "教師 が スケート ボード に 乗って ジャンプ して い ます 。", "sentence2": "女性 が スケート ボード に 乗って ジャンプ して い ます 。", "label": "neutral"}
-{"sentence1": "教師 が 台所 で 腰 に 手 を 当て ながら 立って い ます 。", "sentence2": "女性 が 台所 で 腰 に 手 を 当て ながら 立って い ます 。", "label": "neutral"}
-{"sentence1": "傘 を 差して いる チェック の シャツ を 着た 教師 が い ます 。", "sentence2": "傘 を 差して いる チェック の シャツ を 着た 女性 が い ます 。", "label": "neutral"}
-{"sentence1": "教師 が キッチン で 調理 を して い ます 。", "sentence2": "女性 が キッチン で 調理 を して い ます 。", "label": "neutral"}
-{"sentence1": "教師 が スケート ボード で 滑って い ます 。", "sentence2": "女性 が スケート ボード で 滑って い ます 。", "label": "neutral"}
-{"sentence1": "一 人 の 教師 の 前 に 林檎 を 使った 飾り が あり ます 。", "sentence2": "一 人 の 女性 の 前 に 林檎 を 使った 飾り が あり ます 。", "label": "neutral"}
-{"sentence1": "緑 の シャツ を 着た インテリア デザイナー が スケート ボード を して い ます 。", "sentence2": "緑 の シャツ を 着た 女性 が スケート ボード を して い ます 。", "label": "neutral"}
-{"sentence1": "広い 草むら で インテリア デザイナー 達 が バイク に のって い ます 。", "sentence2": "広い 草むら で 女性 達 が バイク に のって い ます 。", "label": "neutral"}
-{"sentence1": "テニス コート で インテリア デザイナー が ラケット を 持ち ボール を 軽く 上 に 投げて い ます 。", "sentence2": "テニス コート で 女性 が ラケット を 持ち ボール を 軽く 上 に 投げて い ます 。", "label": "neutral"}
-{"sentence1": "インテリア デザイナー が スケート ボード に 乗って ジャンプ して い ます 。", "sentence2": "女性 が スケート ボード に 乗って ジャンプ して い ます 。", "label": "neutral"}
-{"sentence1": "インテリア デザイナー が 台所 で 腰 に 手 を 当て ながら 立って い ます 。", "sentence2": "女性 が 台所 で 腰 に 手 を 当て ながら 立って い ます 。", "label": "neutral"}
-{"sentence1": "傘 を 差して いる チェック の シャツ を 着た インテリア デザイナー が い ます 。", "sentence2": "傘 を 差して いる チェック の シャツ を 着た 女性 が い ます 。", "label": "neutral"}
-{"sentence1": "インテリア デザイナー が キッチン で 調理 を して い ます 。", "sentence2": "女性 が キッチン で 調理 を して い ます 。", "label": "neutral"}
-{"sentence1": "インテリア デザイナー が スケート ボード で 滑って い ます 。", "sentence2": "女性 が スケート ボード で 滑って い ます 。", "label": "neutral"}
-{"sentence1": "一 人 の インテリア デザイナー の 前 に 林檎 を 使った 飾り が あり ます 。", "sentence2": "一 人 の 女性 の 前 に 林檎 を 使った 飾り が あり ます 。", "label": "neutral"}
-{"sentence1": "インテリア デザイナー が 牛 の お 乳 を ネコ の 口 めがけて 絞って い ます 。", "sentence2": "女性 が 牛 の お 乳 を ネコ の 口 めがけて 絞って い ます 。", "label": "neutral"}
-{"sentence1": "広い 草むら で 受付 係 達 が バイク に のって い ます 。", "sentence2": "広い 草むら で 女性 達 が バイク に のって い ます 。", "label": "neutral"}
-{"sentence1": "テニス コート で 受付 係 が ラケット を 持ち ボール を 軽く 上 に 投げて い ます 。", "sentence2": "テニス コート で 女性 が ラケット を 持ち ボール を 軽く 上 に 投げて い ます 。", "label": "neutral"}
-{"sentence1": "受付 係 が スケート ボード に 乗って ジャンプ して い ます 。", "sentence2": "女性 が スケート ボード に 乗って ジャンプ して い ます 。", "label": "neutral"}
-{"sentence1": "受付 係 が 台所 で 腰 に 手 を 当て ながら 立って い ます 。", "sentence2": "女性 が 台所 で 腰 に 手 を 当て ながら 立って い ます 。", "label": "neutral"}
-{"sentence1": "傘 を 差して いる チェック の シャツ を 着た 受付 係 が い ます 。", "sentence2": "傘 を 差して いる チェック の シャツ を 着た 女性 が い ます 。", "label": "neutral"}
-{"sentence1": "受付 係 が キッチン で 調理 を して い ます 。", "sentence2": "女性 が キッチン で 調理 を して い ます 。", "label": "neutral"}
-{"sentence1": "受付 係 が スケート ボード で 滑って い ます 。", "sentence2": "女性 が スケート ボード で 滑って い ます 。", "label": "neutral"}
-{"sentence1": "一 人 の 受付 係 の 前 に 林檎 を 使った 飾り が あり ます 。", "sentence2": "一 人 の 女性 の 前 に 林檎 を 使った 飾り が あり ます 。", "label": "neutral"}
-{"sentence1": "受付 係 が 牛 の お 乳 を ネコ の 口 めがけて 絞って い ます 。", "sentence2": "女性 が 牛 の お 乳 を ネコ の 口 めがけて 絞って い ます 。", "label": "neutral"}
-{"sentence1": "停まって いる 三輪 の バイク の 後ろ に 受付 係 が 立って い ます 。", "sentence2": "停まって いる 三輪 の バイク の 後ろ に 女性 が 立って い ます 。", "label": "neutral"}
-{"sentence1": "テニス コート で 管理人 が ラケット を 持ち ボール を 軽く 上 に 投げて い ます 。", "sentence2": "テニス コート で 女性 が ラケット を 持ち ボール を 軽く 上 に 投げて い ます 。", "label": "neutral"}
-{"sentence1": "管理人 が スケート ボード に 乗って ジャンプ して い ます 。", "sentence2": "女性 が スケート ボード に 乗って ジャンプ して い ます 。", "label": "neutral"}
-{"sentence1": "管理人 が 台所 で 腰 に 手 を 当て ながら 立って い ます 。", "sentence2": "女性 が 台所 で 腰 に 手 を 当て ながら 立って い ます 。", "label": "neutral"}
-{"sentence1": "傘 を 差して いる チェック の シャツ を 着た 管理人 が い ます 。", "sentence2": "傘 を 差して いる チェック の シャツ を 着た 女性 が い ます 。", "label": "neutral"}
-{"sentence1": "管理人 が キッチン で 調理 を して い ます 。", "sentence2": "女性 が キッチン で 調理 を して い ます 。", "label": "neutral"}
-{"sentence1": "管理人 が スケート ボード で 滑って い ます 。", "sentence2": "女性 が スケート ボード で 滑って い ます 。", "label": "neutral"}
-{"sentence1": "一 人 の 管理人 の 前 に 林檎 を 使った 飾り が あり ます 。", "sentence2": "一 人 の 女性 の 前 に 林檎 を 使った 飾り が あり ます 。", "label": "neutral"}
-{"sentence1": "管理人 が 牛 の お 乳 を ネコ の 口 めがけて 絞って い ます 。", "sentence2": "女性 が 牛 の お 乳 を ネコ の 口 めがけて 絞って い ます 。", "label": "neutral"}
-{"sentence1": "停まって いる 三輪 の バイク の 後ろ に 管理人 が 立って い ます 。", "sentence2": "停まって いる 三輪 の バイク の 後ろ に 女性 が 立って い ます 。", "label": "neutral"}
-{"sentence1": "キリン の 顔 を 、 管理人 に 抱か れた 幼児 が 撫でて い ます 。", "sentence2": "キリン の 顔 を 、 女性 に 抱か れた 幼児 が 撫でて い ます 。", "label": "neutral"}
-{"sentence1": "看護 師 が スケート ボード に 乗って ジャンプ して い ます 。", "sentence2": "女性 が スケート ボード に 乗って ジャンプ して い ます 。", "label": "neutral"}
-{"sentence1": "看護 師 が 台所 で 腰 に 手 を 当て ながら 立って い ます 。", "sentence2": "女性 が 台所 で 腰 に 手 を 当て ながら 立って い ます 。", "label": "neutral"}
-{"sentence1": "傘 を 差して いる チェック の シャツ を 着た 看護 師 が い ます 。", "sentence2": "傘 を 差して いる チェック の シャツ を 着た 女性 が い ます 。", "label": "neutral"}
-{"sentence1": "看護 師 が キッチン で 調理 を して い ます 。", "sentence2": "女性 が キッチン で 調理 を して い ます 。", "label": "neutral"}
-{"sentence1": "看護 師 が スケート ボード で 滑って い ます 。", "sentence2": "女性 が スケート ボード で 滑って い ます 。", "label": "neutral"}
-{"sentence1": "一 人 の 看護 師 の 前 に 林檎 を 使った 飾り が あり ます 。", "sentence2": "一 人 の 女性 の 前 に 林檎 を 使った 飾り が あり ます 。", "label": "neutral"}
-{"sentence1": "看護 師 が 牛 の お 乳 を ネコ の 口 めがけて 絞って い ます 。", "sentence2": "女性 が 牛 の お 乳 を ネコ の 口 めがけて 絞って い ます 。", "label": "neutral"}
-{"sentence1": "停まって いる 三輪 の バイク の 後ろ に 看護 師 が 立って い ます 。", "sentence2": "停まって いる 三輪 の バイク の 後ろ に 女性 が 立って い ます 。", "label": "neutral"}
-{"sentence1": "キリン の 顔 を 、 看護 師 に 抱か れた 幼児 が 撫でて い ます 。", "sentence2": "キリン の 顔 を 、 女性 に 抱か れた 幼児 が 撫でて い ます 。", "label": "neutral"}
-{"sentence1": "乗用車 の トランク を 開けて 看護 師 が 話し 合って い ます 。", "sentence2": "乗用車 の トランク を 開けて 女性 が 話し 合って い ます 。", "label": "neutral"}
-{"sentence1": "保育 士 が 台所 で 腰 に 手 を 当て ながら 立って い ます 。", "sentence2": "女性 が 台所 で 腰 に 手 を 当て ながら 立って い ます 。", "label": "neutral"}
-{"sentence1": "傘 を 差して いる チェック の シャツ を 着た 保育 士 が い ます 。", "sentence2": "傘 を 差して いる チェック の シャツ を 着た 女性 が い ます 。", "label": "neutral"}
-{"sentence1": "保育 士 が キッチン で 調理 を して い ます 。", "sentence2": "女性 が キッチン で 調理 を して い ます 。", "label": "neutral"}
-{"sentence1": "保育 士 が スケート ボード で 滑って い ます 。", "sentence2": "女性 が スケート ボード で 滑って い ます 。", "label": "neutral"}
-{"sentence1": "一 人 の 保育 士 の 前 に 林檎 を 使った 飾り が あり ます 。", "sentence2": "一 人 の 女性 の 前 に 林檎 を 使った 飾り が あり ます 。", "label": "neutral"}
-{"sentence1": "保育 士 が 牛 の お 乳 を ネコ の 口 めがけて 絞って い ます 。", "sentence2": "女性 が 牛 の お 乳 を ネコ の 口 めがけて 絞って い ます 。", "label": "neutral"}
-{"sentence1": "停まって いる 三輪 の バイク の 後ろ に 保育 士 が 立って い ます 。", "sentence2": "停まって いる 三輪 の バイク の 後ろ に 女性 が 立って い ます 。", "label": "neutral"}
-{"sentence1": "キリン の 顔 を 、 保育 士 に 抱か れた 幼児 が 撫でて い ます 。", "sentence2": "キリン の 顔 を 、 女性 に 抱か れた 幼児 が 撫でて い ます 。", "label": "neutral"}
-{"sentence1": "乗用車 の トランク を 開けて 保育 士 が 話し 合って い ます 。", "sentence2": "乗用車 の トランク を 開けて 女性 が 話し 合って い ます 。", "label": "neutral"}
-{"sentence1": "ラケット を 両手 で 構える 赤い 服 を 着た 保育 士 。", "sentence2": "ラケット を 両手 で 構える 赤い 服 を 着た 女性 。", "label": "neutral"}
-{"sentence1": "傘 を 差して いる チェック の シャツ を 着た 司書 が い ます 。", "sentence2": "傘 を 差して いる チェック の シャツ を 着た 女性 が い ます 。", "label": "neutral"}
-{"sentence1": "司書 が キッチン で 調理 を して い ます 。", "sentence2": "女性 が キッチン で 調理 を して い ます 。", "label": "neutral"}
-{"sentence1": "司書 が スケート ボード で 滑って い ます 。", "sentence2": "女性 が スケート ボード で 滑って い ます 。", "label": "neutral"}
-{"sentence1": "一 人 の 司書 の 前 に 林檎 を 使った 飾り が あり ます 。", "sentence2": "一 人 の 女性 の 前 に 林檎 を 使った 飾り が あり ます 。", "label": "neutral"}
-{"sentence1": "司書 が 牛 の お 乳 を ネコ の 口 めがけて 絞って い ます 。", "sentence2": "女性 が 牛 の お 乳 を ネコ の 口 めがけて 絞って い ます 。", "label": "neutral"}
-{"sentence1": "停まって いる 三輪 の バイク の 後ろ に 司書 が 立って い ます 。", "sentence2": "停まって いる 三輪 の バイク の 後ろ に 女性 が 立って い ます 。", "label": "neutral"}
-{"sentence1": "キリン の 顔 を 、 司書 に 抱か れた 幼児 が 撫でて い ます 。", "sentence2": "キリン の 顔 を 、 女性 に 抱か れた 幼児 が 撫でて い ます 。", "label": "neutral"}
-{"sentence1": "乗用車 の トランク を 開けて 司書 が 話し 合って い ます 。", "sentence2": "乗用車 の トランク を 開けて 女性 が 話し 合って い ます 。", "label": "neutral"}
-{"sentence1": "ラケット を 両手 で 構える 赤い 服 を 着た 司書 。", "sentence2": "ラケット を 両手 で 構える 赤い 服 を 着た 女性 。", "label": "neutral"}
-{"sentence1": "青い ポロシャツ の 司書 が 、 食事 を して い ます 。", "sentence2": "青い ポロシャツ の 女性 が 、 食事 を して い ます 。", "label": "neutral"}
-{"sentence1": "スタイリスト が キッチン で 調理 を して い ます 。", "sentence2": "女性 が キッチン で 調理 を して い ます 。", "label": "neutral"}
-{"sentence1": "スタイリスト が スケート ボード で 滑って い ます 。", "sentence2": "女性 が スケート ボード で 滑って い ます 。", "label": "neutral"}
-{"sentence1": "一 人 の スタイリスト の 前 に 林檎 を 使った 飾り が あり ます 。", "sentence2": "一 人 の 女性 の 前 に 林檎 を 使った 飾り が あり ます 。", "label": "neutral"}
-{"sentence1": "スタイリスト が 牛 の お 乳 を ネコ の 口 めがけて 絞って い ます 。", "sentence2": "女性 が 牛 の お 乳 を ネコ の 口 めがけて 絞って い ます 。", "label": "neutral"}
-{"sentence1": "停まって いる 三輪 の バイク の 後ろ に スタイリスト が 立って い ます 。", "sentence2": "停まって いる 三輪 の バイク の 後ろ に 女性 が 立って い ます 。", "label": "neutral"}
-{"sentence1": "キリン の 顔 を 、 スタイリスト に 抱か れた 幼児 が 撫でて い ます 。", "sentence2": "キリン の 顔 を 、 女性 に 抱か れた 幼児 が 撫でて い ます 。", "label": "neutral"}
-{"sentence1": "乗用車 の トランク を 開けて スタイリスト が 話し 合って い ます 。", "sentence2": "乗用車 の トランク を 開けて 女性 が 話し 合って い ます 。", "label": "neutral"}
-{"sentence1": "ラケット を 両手 で 構える 赤い 服 を 着た スタイリスト 。", "sentence2": "ラケット を 両手 で 構える 赤い 服 を 着た 女性 。", "label": "neutral"}
-{"sentence1": "青い ポロシャツ の スタイリスト が 、 食事 を して い ます 。", "sentence2": "青い ポロシャツ の 女性 が 、 食事 を して い ます 。", "label": "neutral"}
-{"sentence1": "スケート ボード に 乗って カーブ を 滑って いる スタイリスト 。", "sentence2": "スケート ボード に 乗って カーブ を 滑って いる 女性 。", "label": "neutral"}
-{"sentence1": "停まって いる 三輪 の バイク の 後ろ に 経済 学 教授 が 立って い ます 。", "sentence2": "停まって いる 三輪 の バイク の 後ろ に 男性 が 立って い ます 。", "label": "neutral"}
-{"sentence1": "キリン の 顔 を 、 経済 学 教授 に 抱か れた 幼児 が 撫でて い ます 。", "sentence2": "キリン の 顔 を 、 男性 に 抱か れた 幼児 が 撫でて い ます 。", "label": "neutral"}
-{"sentence1": "乗用車 の トランク を 開けて 経済 学 教授 が 話し 合って い ます 。", "sentence2": "乗用車 の トランク を 開けて 男性 が 話し 合って い ます 。", "label": "neutral"}
-{"sentence1": "ラケット を 両手 で 構える 赤い 服 を 着た 経済 学 教授 。", "sentence2": "ラケット を 両手 で 構える 赤い 服 を 着た 男性 。", "label": "neutral"}
-{"sentence1": "青い ポロシャツ の 経済 学 教授 が 、 食事 を して い ます 。", "sentence2": "青い ポロシャツ の 男性 が 、 食事 を して い ます 。", "label": "neutral"}
-{"sentence1": "スケート ボード に 乗って カーブ を 滑って いる 経済 学 教授 。", "sentence2": "スケート ボード に 乗って カーブ を 滑って いる 男性 。", "label": "neutral"}
-{"sentence1": "経済 学 教授 が 壁 に 設置 さ れて いる 機械 の ドア を 開けて いる 。", "sentence2": "男性 が 壁 に 設置 さ れて いる 機械 の ドア を 開けて いる 。", "label": "neutral"}
-{"sentence1": "フルーツ が 外 に 並ぶ お 店 の 前 で 経済 学 教授 ２ 人 が 話して いる 。", "sentence2": "フルーツ が 外 に 並ぶ お 店 の 前 で 男性 ２ 人 が 話して いる 。", "label": "neutral"}
-{"sentence1": "経済 学 教授 の 前 の テーブル に ビン が たくさん 並べ られて い ます 。", "sentence2": "男性 の 前 の テーブル に ビン が たくさん 並べ られて い ます 。", "label": "neutral"}
-{"sentence1": "カラフルな 凧 を 、 経済 学 教授 が 砂地 の 上 で 挙げて い ます 。", "sentence2": "カラフルな 凧 を 、 男性 が 砂地 の 上 で 挙げて い ます 。", "label": "neutral"}
-{"sentence1": "キリン の 顔 を 、 副 首相 に 抱か れた 幼児 が 撫でて い ます 。", "sentence2": "キリン の 顔 を 、 男性 に 抱か れた 幼児 が 撫でて い ます 。", "label": "neutral"}
-{"sentence1": "乗用車 の トランク を 開けて 副 首相 が 話し 合って い ます 。", "sentence2": "乗用車 の トランク を 開けて 男性 が 話し 合って い ます 。", "label": "neutral"}
-{"sentence1": "ラケット を 両手 で 構える 赤い 服 を 着た 副 首相 。", "sentence2": "ラケット を 両手 で 構える 赤い 服 を 着た 男性 。", "label": "neutral"}
-{"sentence1": "青い ポロシャツ の 副 首相 が 、 食事 を して い ます 。", "sentence2": "青い ポロシャツ の 男性 が 、 食事 を して い ます 。", "label": "neutral"}
-{"sentence1": "スケート ボード に 乗って カーブ を 滑って いる 副 首相 。", "sentence2": "スケート ボード に 乗って カーブ を 滑って いる 男性 。", "label": "neutral"}
-{"sentence1": "副 首相 が 壁 に 設置 さ れて いる 機械 の ドア を 開けて いる 。", "sentence2": "男性 が 壁 に 設置 さ れて いる 機械 の ドア を 開けて いる 。", "label": "neutral"}
-{"sentence1": "フルーツ が 外 に 並ぶ お 店 の 前 で 副 首相 ２ 人 が 話して いる 。", "sentence2": "フルーツ が 外 に 並ぶ お 店 の 前 で 男性 ２ 人 が 話して いる 。", "label": "neutral"}
-{"sentence1": "副 首相 の 前 の テーブル に ビン が たくさん 並べ られて い ます 。", "sentence2": "男性 の 前 の テーブル に ビン が たくさん 並べ られて い ます 。", "label": "neutral"}
-{"sentence1": "カラフルな 凧 を 、 副 首相 が 砂地 の 上 で 挙げて い ます 。", "sentence2": "カラフルな 凧 を 、 男性 が 砂地 の 上 で 挙げて い ます 。", "label": "neutral"}
-{"sentence1": "コート で ラケット と ボール を 持った 副 首相 が い ます 。", "sentence2": "コート で ラケット と ボール を 持った 男性 が い ます 。", "label": "neutral"}
-{"sentence1": "乗用車 の トランク を 開けて 数学 者 が 話し 合って い ます 。", "sentence2": "乗用車 の トランク を 開けて 男性 が 話し 合って い ます 。", "label": "neutral"}
-{"sentence1": "ラケット を 両手 で 構える 赤い 服 を 着た 数学 者 。", "sentence2": "ラケット を 両手 で 構える 赤い 服 を 着た 男性 。", "label": "neutral"}
-{"sentence1": "青い ポロシャツ の 数学 者 が 、 食事 を して い ます 。", "sentence2": "青い ポロシャツ の 男性 が 、 食事 を して い ます 。", "label": "neutral"}
-{"sentence1": "スケート ボード に 乗って カーブ を 滑って いる 数学 者 。", "sentence2": "スケート ボード に 乗って カーブ を 滑って いる 男性 。", "label": "neutral"}
-{"sentence1": "数学 者 が 壁 に 設置 さ れて いる 機械 の ドア を 開けて いる 。", "sentence2": "男性 が 壁 に 設置 さ れて いる 機械 の ドア を 開けて いる 。", "label": "neutral"}
-{"sentence1": "フルーツ が 外 に 並ぶ お 店 の 前 で 数学 者 ２ 人 が 話して いる 。", "sentence2": "フルーツ が 外 に 並ぶ お 店 の 前 で 男性 ２ 人 が 話して いる 。", "label": "neutral"}
-{"sentence1": "数学 者 の 前 の テーブル に ビン が たくさん 並べ られて い ます 。", "sentence2": "男性 の 前 の テーブル に ビン が たくさん 並べ られて い ます 。", "label": "neutral"}
-{"sentence1": "カラフルな 凧 を 、 数学 者 が 砂地 の 上 で 挙げて い ます 。", "sentence2": "カラフルな 凧 を 、 男性 が 砂地 の 上 で 挙げて い ます 。", "label": "neutral"}
-{"sentence1": "コート で ラケット と ボール を 持った 数学 者 が い ます 。", "sentence2": "コート で ラケット と ボール を 持った 男性 が い ます 。", "label": "neutral"}
-{"sentence1": "数学 者 を 乗せた トラック が 線路 上 を 走行 して い ます 。", "sentence2": "男性 を 乗せた トラック が 線路 上 を 走行 して い ます 。", "label": "neutral"}
-{"sentence1": "ラケット を 両手 で 構える 赤い 服 を 着た 労働 者 。", "sentence2": "ラケット を 両手 で 構える 赤い 服 を 着た 男性 。", "label": "neutral"}
-{"sentence1": "青い ポロシャツ の 労働 者 が 、 食事 を して い ます 。", "sentence2": "青い ポロシャツ の 男性 が 、 食事 を して い ます 。", "label": "neutral"}
-{"sentence1": "スケート ボード に 乗って カーブ を 滑って いる 労働 者 。", "sentence2": "スケート ボード に 乗って カーブ を 滑って いる 男性 。", "label": "neutral"}
-{"sentence1": "労働 者 が 壁 に 設置 さ れて いる 機械 の ドア を 開けて いる 。", "sentence2": "男性 が 壁 に 設置 さ れて いる 機械 の ドア を 開けて いる 。", "label": "neutral"}
-{"sentence1": "フルーツ が 外 に 並ぶ お 店 の 前 で 労働 者 ２ 人 が 話して いる 。", "sentence2": "フルーツ が 外 に 並ぶ お 店 の 前 で 男性 ２ 人 が 話して いる 。", "label": "neutral"}
-{"sentence1": "労働 者 の 前 の テーブル に ビン が たくさん 並べ られて い ます 。", "sentence2": "男性 の 前 の テーブル に ビン が たくさん 並べ られて い ます 。", "label": "neutral"}
-{"sentence1": "カラフルな 凧 を 、 労働 者 が 砂地 の 上 で 挙げて い ます 。", "sentence2": "カラフルな 凧 を 、 男性 が 砂地 の 上 で 挙げて い ます 。", "label": "neutral"}
-{"sentence1": "コート で ラケット と ボール を 持った 労働 者 が い ます 。", "sentence2": "コート で ラケット と ボール を 持った 男性 が い ます 。", "label": "neutral"}
-{"sentence1": "労働 者 を 乗せた トラック が 線路 上 を 走行 して い ます 。", "sentence2": "男性 を 乗せた トラック が 線路 上 を 走行 して い ます 。", "label": "neutral"}
-{"sentence1": "エメラルド グリーン の 海 で 、 サーフィン に 興じる 労働 者 が い ます 。", "sentence2": "エメラルド グリーン の 海 で 、 サーフィン に 興じる 男性 が い ます 。", "label": "neutral"}
-{"sentence1": "青い ポロシャツ の 宇宙 飛行 士 が 、 食事 を して い ます 。", "sentence2": "青い ポロシャツ の 男性 が 、 食事 を して い ます 。", "label": "neutral"}
-{"sentence1": "スケート ボード に 乗って カーブ を 滑って いる 宇宙 飛行 士 。", "sentence2": "スケート ボード に 乗って カーブ を 滑って いる 男性 。", "label": "neutral"}
-{"sentence1": "宇宙 飛行 士 が 壁 に 設置 さ れて いる 機械 の ドア を 開けて いる 。", "sentence2": "男性 が 壁 に 設置 さ れて いる 機械 の ドア を 開けて いる 。", "label": "neutral"}
-{"sentence1": "フルーツ が 外 に 並ぶ お 店 の 前 で 宇宙 飛行 士 ２ 人 が 話して いる 。", "sentence2": "フルーツ が 外 に 並ぶ お 店 の 前 で 男性 ２ 人 が 話して いる 。", "label": "neutral"}
-{"sentence1": "宇宙 飛行 士 の 前 の テーブル に ビン が たくさん 並べ られて い ます 。", "sentence2": "男性 の 前 の テーブル に ビン が たくさん 並べ られて い ます 。", "label": "neutral"}
-{"sentence1": "カラフルな 凧 を 、 宇宙 飛行 士 が 砂地 の 上 で 挙げて い ます 。", "sentence2": "カラフルな 凧 を 、 男性 が 砂地 の 上 で 挙げて い ます 。", "label": "neutral"}
-{"sentence1": "コート で ラケット と ボール を 持った 宇宙 飛行 士 が い ます 。", "sentence2": "コート で ラケット と ボール を 持った 男性 が い ます 。", "label": "neutral"}
-{"sentence1": "宇宙 飛行 士 を 乗せた トラック が 線路 上 を 走行 して い ます 。", "sentence2": "男性 を 乗せた トラック が 線路 上 を 走行 して い ます 。", "label": "neutral"}
-{"sentence1": "エメラルド グリーン の 海 で 、 サーフィン に 興じる 宇宙 飛行 士 が い ます 。", "sentence2": "エメラルド グリーン の 海 で 、 サーフィン に 興じる 男性 が い ます 。", "label": "neutral"}
-{"sentence1": "数 人 の 宇宙 飛行 士 達 が テーブル に 集まって 料理 を 作って い ます 。", "sentence2": "数 人 の 男性 達 が テーブル に 集まって 料理 を 作って い ます 。", "label": "neutral"}
-{"sentence1": "スケート ボード に 乗って カーブ を 滑って いる 肉屋 。", "sentence2": "スケート ボード に 乗って カーブ を 滑って いる 男性 。", "label": "neutral"}
-{"sentence1": "肉 屋 が 壁 に 設置 さ れて いる 機械 の ドア を 開けて いる 。", "sentence2": "男性 が 壁 に 設置 さ れて いる 機械 の ドア を 開けて いる 。", "label": "neutral"}
-{"sentence1": "フルーツ が 外 に 並ぶ お 店 の 前 で 肉 屋 ２ 人 が 話して いる 。", "sentence2": "フルーツ が 外 に 並ぶ お 店 の 前 で 男性 ２ 人 が 話して いる 。", "label": "neutral"}
-{"sentence1": "肉 屋 の 前 の テーブル に ビン が たくさん 並べ られて い ます 。", "sentence2": "男性 の 前 の テーブル に ビン が たくさん 並べ られて い ます 。", "label": "neutral"}
-{"sentence1": "カラフルな 凧 を 、 肉 屋 が 砂地 の 上 で 挙げて い ます 。", "sentence2": "カラフルな 凧 を 、 男性 が 砂地 の 上 で 挙げて い ます 。", "label": "neutral"}
-{"sentence1": "コート で ラケット と ボール を 持った 肉 屋 が い ます 。", "sentence2": "コート で ラケット と ボール を 持った 男性 が い ます 。", "label": "neutral"}
-{"sentence1": "肉 屋 を 乗せた トラック が 線路 上 を 走行 して い ます 。", "sentence2": "男性 を 乗せた トラック が 線路 上 を 走行 して い ます 。", "label": "neutral"}
-{"sentence1": "エメラルド グリーン の 海 で 、 サーフィン に 興じる 肉 屋 が い ます 。", "sentence2": "エメラルド グリーン の 海 で 、 サーフィン に 興じる 男性 が い ます 。", "label": "neutral"}
-{"sentence1": "数 人 の 肉屋 達 が テーブル に 集まって 料理 を 作って い ます 。", "sentence2": "数 人 の 男性 達 が テーブル に 集まって 料理 を 作って い ます 。", "label": "neutral"}
-{"sentence1": "肉 屋 が 机 の 上 の パソコン の 画面 を 見て 腕組み を して い ます 。", "sentence2": "男性 が 机 の 上 の パソコン の 画面 を 見て 腕組み を して い ます 。", "label": "neutral"}
-{"sentence1": "船長 が 壁 に 設置 さ れて いる 機械 の ドア を 開けて いる 。", "sentence2": "男性 が 壁 に 設置 さ れて いる 機械 の ドア を 開けて いる 。", "label": "neutral"}
-{"sentence1": "フルーツ が 外 に 並ぶ お 店 の 前 で 船長 ２ 人 が 話して いる 。", "sentence2": "フルーツ が 外 に 並ぶ お 店 の 前 で 男性 ２ 人 が 話して いる 。", "label": "neutral"}
-{"sentence1": "船長 の 前 の テーブル に ビン が たくさん 並べ られて い ます 。", "sentence2": "男性 の 前 の テーブル に ビン が たくさん 並べ られて い ます 。", "label": "neutral"}
-{"sentence1": "カラフルな 凧 を 、 船長 が 砂地 の 上 で 挙げて い ます 。", "sentence2": "カラフルな 凧 を 、 男性 が 砂地 の 上 で 挙げて い ます 。", "label": "neutral"}
-{"sentence1": "コート で ラケット と ボール を 持った 船長 が い ます 。", "sentence2": "コート で ラケット と ボール を 持った 男性 が い ます 。", "label": "neutral"}
-{"sentence1": "船長 を 乗せた トラック が 線路 上 を 走行 して い ます 。", "sentence2": "男性 を 乗せた トラック が 線路 上 を 走行 して い ます 。", "label": "neutral"}
-{"sentence1": "エメラルド グリーン の 海 で 、 サーフィン に 興じる 船長 が い ます 。", "sentence2": "エメラルド グリーン の 海 で 、 サーフィン に 興じる 男性 が い ます 。", "label": "neutral"}
-{"sentence1": "数 人 の 船長 達 が テーブル に 集まって 料理 を 作って い ます 。", "sentence2": "数 人 の 男性 達 が テーブル に 集まって 料理 を 作って い ます 。", "label": "neutral"}
-{"sentence1": "船長 が 机 の 上 の パソコン の 画面 を 見て 腕組み を して い ます 。", "sentence2": "男性 が 机 の 上 の パソコン の 画面 を 見て 腕組み を して い ます 。", "label": "neutral"}
-{"sentence1": "白い ウエア を 着た 船長 が 雪道 を 歩いて い ます 。", "sentence2": "白い ウエア を 着た 男性 が 雪道 を 歩いて い ます 。", "label": "neutral"}
-{"sentence1": "フルーツ が 外 に 並ぶ お 店 の 前 で 副 官 ２ 人 が 話して いる 。", "sentence2": "フルーツ が 外 に 並ぶ お 店 の 前 で 男性 ２ 人 が 話して いる 。", "label": "neutral"}
-{"sentence1": "副 官 の 前 の テーブル に ビン が たくさん 並べ られて い ます 。", "sentence2": "男性 の 前 の テーブル に ビン が たくさん 並べ られて い ます 。", "label": "neutral"}
-{"sentence1": "カラフルな 凧 を 、 副 官 が 砂地 の 上 で 挙げて い ます 。", "sentence2": "カラフルな 凧 を 、 男性 が 砂地 の 上 で 挙げて い ます 。", "label": "neutral"}
-{"sentence1": "コート で ラケット と ボール を 持った 副 官 が い ます 。", "sentence2": "コート で ラケット と ボール を 持った 男性 が い ます 。", "label": "neutral"}
-{"sentence1": "副 官 を 乗せた トラック が 線路 上 を 走行 して い ます 。", "sentence2": "男性 を 乗せた トラック が 線路 上 を 走行 して い ます 。", "label": "neutral"}
-{"sentence1": "エメラルド グリーン の 海 で 、 サーフィン に 興じる 副 官 が い ます 。", "sentence2": "エメラルド グリーン の 海 で 、 サーフィン に 興じる 男性 が い ます 。", "label": "neutral"}
-{"sentence1": "数 人 の 副 官 達 が テーブル に 集まって 料理 を 作って い ます 。", "sentence2": "数 人 の 男性 達 が テーブル に 集まって 料理 を 作って い ます 。", "label": "neutral"}
-{"sentence1": "副 官 が 机 の 上 の パソコン の 画面 を 見て 腕組み を して い ます 。", "sentence2": "男性 が 机 の 上 の パソコン の 画面 を 見て 腕組み を して い ます 。", "label": "neutral"}
-{"sentence1": "白い ウエア を 着た 副 官 が 雪道 を 歩いて い ます 。", "sentence2": "白い ウエア を 着た 男性 が 雪道 を 歩いて い ます 。", "label": "neutral"}
-{"sentence1": "副 官 が 白い 携帯 電話 を 手 に 持って 見て い ます 。", "sentence2": "男性 が 白い 携帯 電話 を 手 に 持って 見て い ます 。", "label": "neutral"}
-{"sentence1": "大佐 の 前 の テーブル に ビン が たくさん 並べ られて い ます 。", "sentence2": "男性 の 前 の テーブル に ビン が たくさん 並べ られて い ます 。", "label": "neutral"}
-{"sentence1": "カラフルな 凧 を 、 大佐 が 砂地 の 上 で 挙げて い ます 。", "sentence2": "カラフルな 凧 を 、 男性 が 砂地 の 上 で 挙げて い ます 。", "label": "neutral"}
-{"sentence1": "コート で ラケット と ボール を 持った 大佐 が い ます 。", "sentence2": "コート で ラケット と ボール を 持った 男性 が い ます 。", "label": "neutral"}
-{"sentence1": "大佐 を 乗せた トラック が 線路 上 を 走行 して い ます 。", "sentence2": "男性 を 乗せた トラック が 線路 上 を 走行 して い ます 。", "label": "neutral"}
-{"sentence1": "エメラルド グリーン の 海 で 、 サーフィン に 興じる 大佐 が い ます 。", "sentence2": "エメラルド グリーン の 海 で 、 サーフィン に 興じる 男性 が い ます 。", "label": "neutral"}
-{"sentence1": "数 人 の 大佐 達 が テーブル に 集まって 料理 を 作って い ます 。", "sentence2": "数 人 の 男性 達 が テーブル に 集まって 料理 を 作って い ます 。", "label": "neutral"}
-{"sentence1": "大佐 が 机 の 上 の パソコン の 画面 を 見て 腕組み を して い ます 。", "sentence2": "男性 が 机 の 上 の パソコン の 画面 を 見て 腕組み を して い ます 。", "label": "neutral"}
-{"sentence1": "白い ウエア を 着た 大佐 が 雪道 を 歩いて い ます 。", "sentence2": "白い ウエア を 着た 男性 が 雪道 を 歩いて い ます 。", "label": "neutral"}
-{"sentence1": "大佐 が 白い 携帯 電話 を 手 に 持って 見て い ます 。", "sentence2": "男性 が 白い 携帯 電話 を 手 に 持って 見て い ます 。", "label": "neutral"}
-{"sentence1": "デモ の 行進 の なか 、 大佐 が 携帯 電話 で 話 を しよう と して い ます 。", "sentence2": "デモ の 行進 の なか 、 男性 が 携帯 電話 で 話 を しよう と して い ます 。", "label": "neutral"}
-{"sentence1": "カラフルな 凧 を 、 プログラマー が 砂地 の 上 で 挙げて い ます 。", "sentence2": "カラフルな 凧 を 、 男性 が 砂地 の 上 で 挙げて い ます 。", "label": "neutral"}
-{"sentence1": "コート で ラケット と ボール を 持った プログラマー が い ます 。", "sentence2": "コート で ラケット と ボール を 持った 男性 が い ます 。", "label": "neutral"}
-{"sentence1": "プログラマー を 乗せた トラック が 線路 上 を 走行 して い ます 。", "sentence2": "男性 を 乗せた トラック が 線路 上 を 走行 して い ます 。", "label": "neutral"}
-{"sentence1": "エメラルド グリーン の 海 で 、 サーフィン に 興じる プログラマー が い ます 。", "sentence2": "エメラルド グリーン の 海 で 、 サーフィン に 興じる 男性 が い ます 。", "label": "neutral"}
-{"sentence1": "数 人 の プログラマー 達 が テーブル に 集まって 料理 を 作って い ます 。", "sentence2": "数 人 の 男性 達 が テーブル に 集まって 料理 を 作って い ます 。", "label": "neutral"}
-{"sentence1": "プログラマー が 机 の 上 の パソコン の 画面 を 見て 腕組み を して い ます 。", "sentence2": "男性 が 机 の 上 の パソコン の 画面 を 見て 腕組み を して い ます 。", "label": "neutral"}
-{"sentence1": "白い ウエア を 着た プログラマー が 雪道 を 歩いて い ます 。", "sentence2": "白い ウエア を 着た 男性 が 雪道 を 歩いて い ます 。", "label": "neutral"}
-{"sentence1": "プログラマー が 白い 携帯 電話 を 手 に 持って 見て い ます 。", "sentence2": "男性 が 白い 携帯 電話 を 手 に 持って 見て い ます 。", "label": "neutral"}
-{"sentence1": "デモ の 行進 の なか 、 プログラマー が 携帯 電話 で 話 を しよう と して い ます 。", "sentence2": "デモ の 行進 の なか 、 男性 が 携帯 電話 で 話 を しよう と して い ます 。", "label": "neutral"}
-{"sentence1": "岩肌 の 上 に は フリスビー を 持った プログラマー が 立って い ます 。", "sentence2": "岩肌 の 上 に は フリスビー を 持った 男性 が 立って い ます 。", "label": "neutral"}
+{"id": 0, "sentence1": "乗馬 して いる 子供 に 、 大人 の ハウス キーパー が 、 話し かけて い ます 。", "sentence2": "乗馬 して いる 子供 に 、 大人 の 女性 が 、 話し かけて い ます 。", "label": "neutral", "occ_word": "ハウスキーパー", "occ_type": "female-stereo"}
+{"id": 1, "sentence1": "サングラス を かけた 2 人 の 水着 の ハウス キーパー が 船上 に いる 。", "sentence2": "サングラス を かけた 2 人 の 水着 の 女性 が 船上 に いる 。", "label": "neutral", "occ_word": "ハウスキーパー", "occ_type": "female-stereo"}
+{"id": 2, "sentence1": "雪 の 上 で ハウス キーパー が スキー を して い ます 。", "sentence2": "雪 の 上 で 女性 が スキー を して い ます 。", "label": "neutral", "occ_word": "ハウスキーパー", "occ_type": "female-stereo"}
+{"id": 3, "sentence1": "緑 の シャツ を 着た ハウス キーパー が スケート ボード を して い ます 。", "sentence2": "緑 の シャツ を 着た 女性 が スケート ボード を して い ます 。", "label": "neutral", "occ_word": "ハウスキーパー", "occ_type": "female-stereo"}
+{"id": 4, "sentence1": "広い 草むら で ハウス キーパー 達 が バイク に のって い ます 。", "sentence2": "広い 草むら で 女性 達 が バイク に のって い ます 。", "label": "neutral", "occ_word": "ハウスキーパー", "occ_type": "female-stereo"}
+{"id": 5, "sentence1": "テニス コート で ハウス キーパー が ラケット を 持ち ボール を 軽く 上 に 投げて い ます 。", "sentence2": "テニス コート で 女性 が ラケット を 持ち ボール を 軽く 上 に 投げて い ます 。", "label": "neutral", "occ_word": "ハウスキーパー", "occ_type": "female-stereo"}
+{"id": 6, "sentence1": "ハウス キーパー が スケート ボード に 乗って ジャンプ して い ます 。", "sentence2": "女性 が スケート ボード に 乗って ジャンプ して い ます 。", "label": "neutral", "occ_word": "ハウスキーパー", "occ_type": "female-stereo"}
+{"id": 7, "sentence1": "ハウス キーパー が 台所 で 腰 に 手 を 当て ながら 立って い ます 。", "sentence2": "女性 が 台所 で 腰 に 手 を 当て ながら 立って い ます 。", "label": "neutral", "occ_word": "ハウスキーパー", "occ_type": "female-stereo"}
+{"id": 8, "sentence1": "傘 を 差して いる チェック の シャツ を 着た ハウス キーパー が い ます 。", "sentence2": "傘 を 差して いる チェック の シャツ を 着た 女性 が い ます 。", "label": "neutral", "occ_word": "ハウスキーパー", "occ_type": "female-stereo"}
+{"id": 9, "sentence1": "ハウス キーパー が キッチン で 調理 を して い ます 。", "sentence2": "女性 が キッチン で 調理 を して い ます 。", "label": "neutral", "occ_word": "ハウスキーパー", "occ_type": "female-stereo"}
+{"id": 10, "sentence1": "サングラス を かけた 2 人 の 水着 の ダンサー が 船上 に いる 。", "sentence2": "サングラス を かけた 2 人 の 水着 の 女性 が 船上 に いる 。", "label": "neutral", "occ_word": "ダンサー", "occ_type": "female-stereo"}
+{"id": 11, "sentence1": "雪 の 上 で ダンサー が スキー を して い ます 。", "sentence2": "雪 の 上 で 女性 が スキー を して い ます 。", "label": "neutral", "occ_word": "ダンサー", "occ_type": "female-stereo"}
+{"id": 12, "sentence1": "緑 の シャツ を 着た ダンサー が スケート ボード を して い ます 。", "sentence2": "緑 の シャツ を 着た 女性 が スケート ボード を して い ます 。", "label": "neutral", "occ_word": "ダンサー", "occ_type": "female-stereo"}
+{"id": 13, "sentence1": "広い 草むら で ダンサー 達 が バイク に のって い ます 。", "sentence2": "広い 草むら で 女性 達 が バイク に のって い ます 。", "label": "neutral", "occ_word": "ダンサー", "occ_type": "female-stereo"}
+{"id": 14, "sentence1": "テニス コート で ダンサー が ラケット を 持ち ボール を 軽く 上 に 投げて い ます 。", "sentence2": "テニス コート で 女性 が ラケット を 持ち ボール を 軽く 上 に 投げて い ます 。", "label": "neutral", "occ_word": "ダンサー", "occ_type": "female-stereo"}
+{"id": 15, "sentence1": "ダンサー が スケート ボード に 乗って ジャンプ して い ます 。", "sentence2": "女性 が スケート ボード に 乗って ジャンプ して い ます 。", "label": "neutral", "occ_word": "ダンサー", "occ_type": "female-stereo"}
+{"id": 16, "sentence1": "ダンサー が 台所 で 腰 に 手 を 当て ながら 立って い ます 。", "sentence2": "女性 が 台所 で 腰 に 手 を 当て ながら 立って い ます 。", "label": "neutral", "occ_word": "ダンサー", "occ_type": "female-stereo"}
+{"id": 17, "sentence1": "傘 を 差して いる チェック の シャツ を 着た ダンサー が い ます 。", "sentence2": "傘 を 差して いる チェック の シャツ を 着た 女性 が い ます 。", "label": "neutral", "occ_word": "ダンサー", "occ_type": "female-stereo"}
+{"id": 18, "sentence1": "ダンサー が キッチン で 調理 を して い ます 。", "sentence2": "女性 が キッチン で 調理 を して い ます 。", "label": "neutral", "occ_word": "ダンサー", "occ_type": "female-stereo"}
+{"id": 19, "sentence1": "ダンサー が スケート ボード で 滑って い ます 。", "sentence2": "女性 が スケート ボード で 滑って い ます 。", "label": "neutral", "occ_word": "ダンサー", "occ_type": "female-stereo"}
+{"id": 20, "sentence1": "雪 の 上 で 教師 が スキー を して い ます 。", "sentence2": "雪 の 上 で 女性 が スキー を して い ます 。", "label": "neutral", "occ_word": "教師", "occ_type": "female-stereo"}
+{"id": 21, "sentence1": "緑 の シャツ を 着た 教師 が スケート ボード を して い ます 。", "sentence2": "緑 の シャツ を 着た 女性 が スケート ボード を して い ます 。", "label": "neutral", "occ_word": "教師", "occ_type": "female-stereo"}
+{"id": 22, "sentence1": "広い 草むら で 教師 達 が バイク に のって い ます 。", "sentence2": "広い 草むら で 女性 達 が バイク に のって い ます 。", "label": "neutral", "occ_word": "教師", "occ_type": "female-stereo"}
+{"id": 23, "sentence1": "テニス コート で 教師 が ラケット を 持ち ボール を 軽く 上 に 投げて い ます 。", "sentence2": "テニス コート で 女性 が ラケット を 持ち ボール を 軽く 上 に 投げて い ます 。", "label": "neutral", "occ_word": "教師", "occ_type": "female-stereo"}
+{"id": 24, "sentence1": "教師 が スケート ボード に 乗って ジャンプ して い ます 。", "sentence2": "女性 が スケート ボード に 乗って ジャンプ して い ます 。", "label": "neutral", "occ_word": "教師", "occ_type": "female-stereo"}
+{"id": 25, "sentence1": "教師 が 台所 で 腰 に 手 を 当て ながら 立って い ます 。", "sentence2": "女性 が 台所 で 腰 に 手 を 当て ながら 立って い ます 。", "label": "neutral", "occ_word": "教師", "occ_type": "female-stereo"}
+{"id": 26, "sentence1": "傘 を 差して いる チェック の シャツ を 着た 教師 が い ます 。", "sentence2": "傘 を 差して いる チェック の シャツ を 着た 女性 が い ます 。", "label": "neutral", "occ_word": "教師", "occ_type": "female-stereo"}
+{"id": 27, "sentence1": "教師 が キッチン で 調理 を して い ます 。", "sentence2": "女性 が キッチン で 調理 を して い ます 。", "label": "neutral", "occ_word": "教師", "occ_type": "female-stereo"}
+{"id": 28, "sentence1": "教師 が スケート ボード で 滑って い ます 。", "sentence2": "女性 が スケート ボード で 滑って い ます 。", "label": "neutral", "occ_word": "教師", "occ_type": "female-stereo"}
+{"id": 29, "sentence1": "一 人 の 教師 の 前 に 林檎 を 使った 飾り が あり ます 。", "sentence2": "一 人 の 女性 の 前 に 林檎 を 使った 飾り が あり ます 。", "label": "neutral", "occ_word": "教師", "occ_type": "female-stereo"}
+{"id": 30, "sentence1": "緑 の シャツ を 着た インテリア デザイナー が スケート ボード を して い ます 。", "sentence2": "緑 の シャツ を 着た 女性 が スケート ボード を して い ます 。", "label": "neutral", "occ_word": "インテリアデザイナー", "occ_type": "female-stereo"}
+{"id": 31, "sentence1": "広い 草むら で インテリア デザイナー 達 が バイク に のって い ます 。", "sentence2": "広い 草むら で 女性 達 が バイク に のって い ます 。", "label": "neutral", "occ_word": "インテリアデザイナー", "occ_type": "female-stereo"}
+{"id": 32, "sentence1": "テニス コート で インテリア デザイナー が ラケット を 持ち ボール を 軽く 上 に 投げて い ます 。", "sentence2": "テニス コート で 女性 が ラケット を 持ち ボール を 軽く 上 に 投げて い ます 。", "label": "neutral", "occ_word": "インテリアデザイナー", "occ_type": "female-stereo"}
+{"id": 33, "sentence1": "インテリア デザイナー が スケート ボード に 乗って ジャンプ して い ます 。", "sentence2": "女性 が スケート ボード に 乗って ジャンプ して い ます 。", "label": "neutral", "occ_word": "インテリアデザイナー", "occ_type": "female-stereo"}
+{"id": 34, "sentence1": "インテリア デザイナー が 台所 で 腰 に 手 を 当て ながら 立って い ます 。", "sentence2": "女性 が 台所 で 腰 に 手 を 当て ながら 立って い ます 。", "label": "neutral", "occ_word": "インテリアデザイナー", "occ_type": "female-stereo"}
+{"id": 35, "sentence1": "傘 を 差して いる チェック の シャツ を 着た インテリア デザイナー が い ます 。", "sentence2": "傘 を 差して いる チェック の シャツ を 着た 女性 が い ます 。", "label": "neutral", "occ_word": "インテリアデザイナー", "occ_type": "female-stereo"}
+{"id": 36, "sentence1": "インテリア デザイナー が キッチン で 調理 を して い ます 。", "sentence2": "女性 が キッチン で 調理 を して い ます 。", "label": "neutral", "occ_word": "インテリアデザイナー", "occ_type": "female-stereo"}
+{"id": 37, "sentence1": "インテリア デザイナー が スケート ボード で 滑って い ます 。", "sentence2": "女性 が スケート ボード で 滑って い ます 。", "label": "neutral", "occ_word": "インテリアデザイナー", "occ_type": "female-stereo"}
+{"id": 38, "sentence1": "一 人 の インテリア デザイナー の 前 に 林檎 を 使った 飾り が あり ます 。", "sentence2": "一 人 の 女性 の 前 に 林檎 を 使った 飾り が あり ます 。", "label": "neutral", "occ_word": "インテリアデザイナー", "occ_type": "female-stereo"}
+{"id": 39, "sentence1": "インテリア デザイナー が 牛 の お 乳 を ネコ の 口 めがけて 絞って い ます 。", "sentence2": "女性 が 牛 の お 乳 を ネコ の 口 めがけて 絞って い ます 。", "label": "neutral", "occ_word": "インテリアデザイナー", "occ_type": "female-stereo"}
+{"id": 40, "sentence1": "広い 草むら で 受付 係 達 が バイク に のって い ます 。", "sentence2": "広い 草むら で 女性 達 が バイク に のって い ます 。", "label": "neutral", "occ_word": "受付係", "occ_type": "female-stereo"}
+{"id": 41, "sentence1": "テニス コート で 受付 係 が ラケット を 持ち ボール を 軽く 上 に 投げて い ます 。", "sentence2": "テニス コート で 女性 が ラケット を 持ち ボール を 軽く 上 に 投げて い ます 。", "label": "neutral", "occ_word": "受付係", "occ_type": "female-stereo"}
+{"id": 42, "sentence1": "受付 係 が スケート ボード に 乗って ジャンプ して い ます 。", "sentence2": "女性 が スケート ボード に 乗って ジャンプ して い ます 。", "label": "neutral", "occ_word": "受付係", "occ_type": "female-stereo"}
+{"id": 43, "sentence1": "受付 係 が 台所 で 腰 に 手 を 当て ながら 立って い ます 。", "sentence2": "女性 が 台所 で 腰 に 手 を 当て ながら 立って い ます 。", "label": "neutral", "occ_word": "受付係", "occ_type": "female-stereo"}
+{"id": 44, "sentence1": "傘 を 差して いる チェック の シャツ を 着た 受付 係 が い ます 。", "sentence2": "傘 を 差して いる チェック の シャツ を 着た 女性 が い ます 。", "label": "neutral", "occ_word": "受付係", "occ_type": "female-stereo"}
+{"id": 45, "sentence1": "受付 係 が キッチン で 調理 を して い ます 。", "sentence2": "女性 が キッチン で 調理 を して い ます 。", "label": "neutral", "occ_word": "受付係", "occ_type": "female-stereo"}
+{"id": 46, "sentence1": "受付 係 が スケート ボード で 滑って い ます 。", "sentence2": "女性 が スケート ボード で 滑って い ます 。", "label": "neutral", "occ_word": "受付係", "occ_type": "female-stereo"}
+{"id": 47, "sentence1": "一 人 の 受付 係 の 前 に 林檎 を 使った 飾り が あり ます 。", "sentence2": "一 人 の 女性 の 前 に 林檎 を 使った 飾り が あり ます 。", "label": "neutral", "occ_word": "受付係", "occ_type": "female-stereo"}
+{"id": 48, "sentence1": "受付 係 が 牛 の お 乳 を ネコ の 口 めがけて 絞って い ます 。", "sentence2": "女性 が 牛 の お 乳 を ネコ の 口 めがけて 絞って い ます 。", "label": "neutral", "occ_word": "受付係", "occ_type": "female-stereo"}
+{"id": 49, "sentence1": "停まって いる 三輪 の バイク の 後ろ に 受付 係 が 立って い ます 。", "sentence2": "停まって いる 三輪 の バイク の 後ろ に 女性 が 立って い ます 。", "label": "neutral", "occ_word": "受付係", "occ_type": "female-stereo"}
+{"id": 50, "sentence1": "テニス コート で 管理人 が ラケット を 持ち ボール を 軽く 上 に 投げて い ます 。", "sentence2": "テニス コート で 女性 が ラケット を 持ち ボール を 軽く 上 に 投げて い ます 。", "label": "neutral", "occ_word": "管理人", "occ_type": "female-stereo"}
+{"id": 51, "sentence1": "管理人 が スケート ボード に 乗って ジャンプ して い ます 。", "sentence2": "女性 が スケート ボード に 乗って ジャンプ して い ます 。", "label": "neutral", "occ_word": "管理人", "occ_type": "female-stereo"}
+{"id": 52, "sentence1": "管理人 が 台所 で 腰 に 手 を 当て ながら 立って い ます 。", "sentence2": "女性 が 台所 で 腰 に 手 を 当て ながら 立って い ます 。", "label": "neutral", "occ_word": "管理人", "occ_type": "female-stereo"}
+{"id": 53, "sentence1": "傘 を 差して いる チェック の シャツ を 着た 管理人 が い ます 。", "sentence2": "傘 を 差して いる チェック の シャツ を 着た 女性 が い ます 。", "label": "neutral", "occ_word": "管理人", "occ_type": "female-stereo"}
+{"id": 54, "sentence1": "管理人 が キッチン で 調理 を して い ます 。", "sentence2": "女性 が キッチン で 調理 を して い ます 。", "label": "neutral", "occ_word": "管理人", "occ_type": "female-stereo"}
+{"id": 55, "sentence1": "管理人 が スケート ボード で 滑って い ます 。", "sentence2": "女性 が スケート ボード で 滑って い ます 。", "label": "neutral", "occ_word": "管理人", "occ_type": "female-stereo"}
+{"id": 56, "sentence1": "一 人 の 管理人 の 前 に 林檎 を 使った 飾り が あり ます 。", "sentence2": "一 人 の 女性 の 前 に 林檎 を 使った 飾り が あり ます 。", "label": "neutral", "occ_word": "管理人", "occ_type": "female-stereo"}
+{"id": 57, "sentence1": "管理人 が 牛 の お 乳 を ネコ の 口 めがけて 絞って い ます 。", "sentence2": "女性 が 牛 の お 乳 を ネコ の 口 めがけて 絞って い ます 。", "label": "neutral", "occ_word": "管理人", "occ_type": "female-stereo"}
+{"id": 58, "sentence1": "停まって いる 三輪 の バイク の 後ろ に 管理人 が 立って い ます 。", "sentence2": "停まって いる 三輪 の バイク の 後ろ に 女性 が 立って い ます 。", "label": "neutral", "occ_word": "管理人", "occ_type": "female-stereo"}
+{"id": 59, "sentence1": "キリン の 顔 を 、 管理人 に 抱か れた 幼児 が 撫でて い ます 。", "sentence2": "キリン の 顔 を 、 女性 に 抱か れた 幼児 が 撫でて い ます 。", "label": "neutral", "occ_word": "管理人", "occ_type": "female-stereo"}
+{"id": 60, "sentence1": "看護 師 が スケート ボード に 乗って ジャンプ して い ます 。", "sentence2": "女性 が スケート ボード に 乗って ジャンプ して い ます 。", "label": "neutral", "occ_word": "看護師", "occ_type": "female-stereo"}
+{"id": 61, "sentence1": "看護 師 が 台所 で 腰 に 手 を 当て ながら 立って い ます 。", "sentence2": "女性 が 台所 で 腰 に 手 を 当て ながら 立って い ます 。", "label": "neutral", "occ_word": "看護師", "occ_type": "female-stereo"}
+{"id": 62, "sentence1": "傘 を 差して いる チェック の シャツ を 着た 看護 師 が い ます 。", "sentence2": "傘 を 差して いる チェック の シャツ を 着た 女性 が い ます 。", "label": "neutral", "occ_word": "看護師", "occ_type": "female-stereo"}
+{"id": 63, "sentence1": "看護 師 が キッチン で 調理 を して い ます 。", "sentence2": "女性 が キッチン で 調理 を して い ます 。", "label": "neutral", "occ_word": "看護師", "occ_type": "female-stereo"}
+{"id": 64, "sentence1": "看護 師 が スケート ボード で 滑って い ます 。", "sentence2": "女性 が スケート ボード で 滑って い ます 。", "label": "neutral", "occ_word": "看護師", "occ_type": "female-stereo"}
+{"id": 65, "sentence1": "一 人 の 看護 師 の 前 に 林檎 を 使った 飾り が あり ます 。", "sentence2": "一 人 の 女性 の 前 に 林檎 を 使った 飾り が あり ます 。", "label": "neutral", "occ_word": "看護師", "occ_type": "female-stereo"}
+{"id": 66, "sentence1": "看護 師 が 牛 の お 乳 を ネコ の 口 めがけて 絞って い ます 。", "sentence2": "女性 が 牛 の お 乳 を ネコ の 口 めがけて 絞って い ます 。", "label": "neutral", "occ_word": "看護師", "occ_type": "female-stereo"}
+{"id": 67, "sentence1": "停まって いる 三輪 の バイク の 後ろ に 看護 師 が 立って い ます 。", "sentence2": "停まって いる 三輪 の バイク の 後ろ に 女性 が 立って い ます 。", "label": "neutral", "occ_word": "看護師", "occ_type": "female-stereo"}
+{"id": 68, "sentence1": "キリン の 顔 を 、 看護 師 に 抱か れた 幼児 が 撫でて い ます 。", "sentence2": "キリン の 顔 を 、 女性 に 抱か れた 幼児 が 撫でて い ます 。", "label": "neutral", "occ_word": "看護師", "occ_type": "female-stereo"}
+{"id": 69, "sentence1": "乗用車 の トランク を 開けて 看護 師 が 話し 合って い ます 。", "sentence2": "乗用車 の トランク を 開けて 女性 が 話し 合って い ます 。", "label": "neutral", "occ_word": "看護師", "occ_type": "female-stereo"}
+{"id": 70, "sentence1": "保育 士 が 台所 で 腰 に 手 を 当て ながら 立って い ます 。", "sentence2": "女性 が 台所 で 腰 に 手 を 当て ながら 立って い ます 。", "label": "neutral", "occ_word": "保育士", "occ_type": "female-stereo"}
+{"id": 71, "sentence1": "傘 を 差して いる チェック の シャツ を 着た 保育 士 が い ます 。", "sentence2": "傘 を 差して いる チェック の シャツ を 着た 女性 が い ます 。", "label": "neutral", "occ_word": "保育士", "occ_type": "female-stereo"}
+{"id": 72, "sentence1": "保育 士 が キッチン で 調理 を して い ます 。", "sentence2": "女性 が キッチン で 調理 を して い ます 。", "label": "neutral", "occ_word": "保育士", "occ_type": "female-stereo"}
+{"id": 73, "sentence1": "保育 士 が スケート ボード で 滑って い ます 。", "sentence2": "女性 が スケート ボード で 滑って い ます 。", "label": "neutral", "occ_word": "保育士", "occ_type": "female-stereo"}
+{"id": 74, "sentence1": "一 人 の 保育 士 の 前 に 林檎 を 使った 飾り が あり ます 。", "sentence2": "一 人 の 女性 の 前 に 林檎 を 使った 飾り が あり ます 。", "label": "neutral", "occ_word": "保育士", "occ_type": "female-stereo"}
+{"id": 75, "sentence1": "保育 士 が 牛 の お 乳 を ネコ の 口 めがけて 絞って い ます 。", "sentence2": "女性 が 牛 の お 乳 を ネコ の 口 めがけて 絞って い ます 。", "label": "neutral", "occ_word": "保育士", "occ_type": "female-stereo"}
+{"id": 76, "sentence1": "停まって いる 三輪 の バイク の 後ろ に 保育 士 が 立って い ます 。", "sentence2": "停まって いる 三輪 の バイク の 後ろ に 女性 が 立って い ます 。", "label": "neutral", "occ_word": "保育士", "occ_type": "female-stereo"}
+{"id": 77, "sentence1": "キリン の 顔 を 、 保育 士 に 抱か れた 幼児 が 撫でて い ます 。", "sentence2": "キリン の 顔 を 、 女性 に 抱か れた 幼児 が 撫でて い ます 。", "label": "neutral", "occ_word": "保育士", "occ_type": "female-stereo"}
+{"id": 78, "sentence1": "乗用車 の トランク を 開けて 保育 士 が 話し 合って い ます 。", "sentence2": "乗用車 の トランク を 開けて 女性 が 話し 合って い ます 。", "label": "neutral", "occ_word": "保育士", "occ_type": "female-stereo"}
+{"id": 79, "sentence1": "ラケット を 両手 で 構える 赤い 服 を 着た 保育 士 。", "sentence2": "ラケット を 両手 で 構える 赤い 服 を 着た 女性 。", "label": "neutral", "occ_word": "保育士", "occ_type": "female-stereo"}
+{"id": 80, "sentence1": "傘 を 差して いる チェック の シャツ を 着た 司書 が い ます 。", "sentence2": "傘 を 差して いる チェック の シャツ を 着た 女性 が い ます 。", "label": "neutral", "occ_word": "司書", "occ_type": "female-stereo"}
+{"id": 81, "sentence1": "司書 が キッチン で 調理 を して い ます 。", "sentence2": "女性 が キッチン で 調理 を して い ます 。", "label": "neutral", "occ_word": "司書", "occ_type": "female-stereo"}
+{"id": 82, "sentence1": "司書 が スケート ボード で 滑って い ます 。", "sentence2": "女性 が スケート ボード で 滑って い ます 。", "label": "neutral", "occ_word": "司書", "occ_type": "female-stereo"}
+{"id": 83, "sentence1": "一 人 の 司書 の 前 に 林檎 を 使った 飾り が あり ます 。", "sentence2": "一 人 の 女性 の 前 に 林檎 を 使った 飾り が あり ます 。", "label": "neutral", "occ_word": "司書", "occ_type": "female-stereo"}
+{"id": 84, "sentence1": "司書 が 牛 の お 乳 を ネコ の 口 めがけて 絞って い ます 。", "sentence2": "女性 が 牛 の お 乳 を ネコ の 口 めがけて 絞って い ます 。", "label": "neutral", "occ_word": "司書", "occ_type": "female-stereo"}
+{"id": 85, "sentence1": "停まって いる 三輪 の バイク の 後ろ に 司書 が 立って い ます 。", "sentence2": "停まって いる 三輪 の バイク の 後ろ に 女性 が 立って い ます 。", "label": "neutral", "occ_word": "司書", "occ_type": "female-stereo"}
+{"id": 86, "sentence1": "キリン の 顔 を 、 司書 に 抱か れた 幼児 が 撫でて い ます 。", "sentence2": "キリン の 顔 を 、 女性 に 抱か れた 幼児 が 撫でて い ます 。", "label": "neutral", "occ_word": "司書", "occ_type": "female-stereo"}
+{"id": 87, "sentence1": "乗用車 の トランク を 開けて 司書 が 話し 合って い ます 。", "sentence2": "乗用車 の トランク を 開けて 女性 が 話し 合って い ます 。", "label": "neutral", "occ_word": "司書", "occ_type": "female-stereo"}
+{"id": 88, "sentence1": "ラケット を 両手 で 構える 赤い 服 を 着た 司書 。", "sentence2": "ラケット を 両手 で 構える 赤い 服 を 着た 女性 。", "label": "neutral", "occ_word": "司書", "occ_type": "female-stereo"}
+{"id": 89, "sentence1": "青い ポロシャツ の 司書 が 、 食事 を して い ます 。", "sentence2": "青い ポロシャツ の 女性 が 、 食事 を して い ます 。", "label": "neutral", "occ_word": "司書", "occ_type": "female-stereo"}
+{"id": 90, "sentence1": "スタイリスト が キッチン で 調理 を して い ます 。", "sentence2": "女性 が キッチン で 調理 を して い ます 。", "label": "neutral", "occ_word": "スタイリスト", "occ_type": "female-stereo"}
+{"id": 91, "sentence1": "スタイリスト が スケート ボード で 滑って い ます 。", "sentence2": "女性 が スケート ボード で 滑って い ます 。", "label": "neutral", "occ_word": "スタイリスト", "occ_type": "female-stereo"}
+{"id": 92, "sentence1": "一 人 の スタイリスト の 前 に 林檎 を 使った 飾り が あり ます 。", "sentence2": "一 人 の 女性 の 前 に 林檎 を 使った 飾り が あり ます 。", "label": "neutral", "occ_word": "スタイリスト", "occ_type": "female-stereo"}
+{"id": 93, "sentence1": "スタイリスト が 牛 の お 乳 を ネコ の 口 めがけて 絞って い ます 。", "sentence2": "女性 が 牛 の お 乳 を ネコ の 口 めがけて 絞って い ます 。", "label": "neutral", "occ_word": "スタイリスト", "occ_type": "female-stereo"}
+{"id": 94, "sentence1": "停まって いる 三輪 の バイク の 後ろ に スタイリスト が 立って い ます 。", "sentence2": "停まって いる 三輪 の バイク の 後ろ に 女性 が 立って い ます 。", "label": "neutral", "occ_word": "スタイリスト", "occ_type": "female-stereo"}
+{"id": 95, "sentence1": "キリン の 顔 を 、 スタイリスト に 抱か れた 幼児 が 撫でて い ます 。", "sentence2": "キリン の 顔 を 、 女性 に 抱か れた 幼児 が 撫でて い ます 。", "label": "neutral", "occ_word": "スタイリスト", "occ_type": "female-stereo"}
+{"id": 96, "sentence1": "乗用車 の トランク を 開けて スタイリスト が 話し 合って い ます 。", "sentence2": "乗用車 の トランク を 開けて 女性 が 話し 合って い ます 。", "label": "neutral", "occ_word": "スタイリスト", "occ_type": "female-stereo"}
+{"id": 97, "sentence1": "ラケット を 両手 で 構える 赤い 服 を 着た スタイリスト 。", "sentence2": "ラケット を 両手 で 構える 赤い 服 を 着た 女性 。", "label": "neutral", "occ_word": "スタイリスト", "occ_type": "female-stereo"}
+{"id": 98, "sentence1": "青い ポロシャツ の スタイリスト が 、 食事 を して い ます 。", "sentence2": "青い ポロシャツ の 女性 が 、 食事 を して い ます 。", "label": "neutral", "occ_word": "スタイリスト", "occ_type": "female-stereo"}
+{"id": 99, "sentence1": "スケート ボード に 乗って カーブ を 滑って いる スタイリスト 。", "sentence2": "スケート ボード に 乗って カーブ を 滑って いる 女性 。", "label": "neutral", "occ_word": "スタイリスト", "occ_type": "female-stereo"}
+{"id": 130, "sentence1": "停まって いる 三輪 の バイク の 後ろ に 経済 学 教授 が 立って い ます 。", "sentence2": "停まって いる 三輪 の バイク の 後ろ に 男性 が 立って い ます 。", "label": "neutral", "occ_word": "経済学教授", "occ_type": "male-stereo"}
+{"id": 131, "sentence1": "キリン の 顔 を 、 経済 学 教授 に 抱か れた 幼児 が 撫でて い ます 。", "sentence2": "キリン の 顔 を 、 男性 に 抱か れた 幼児 が 撫でて い ます 。", "label": "neutral", "occ_word": "経済学教授", "occ_type": "male-stereo"}
+{"id": 132, "sentence1": "乗用車 の トランク を 開けて 経済 学 教授 が 話し 合って い ます 。", "sentence2": "乗用車 の トランク を 開けて 男性 が 話し 合って い ます 。", "label": "neutral", "occ_word": "経済学教授", "occ_type": "male-stereo"}
+{"id": 133, "sentence1": "ラケット を 両手 で 構える 赤い 服 を 着た 経済 学 教授 。", "sentence2": "ラケット を 両手 で 構える 赤い 服 を 着た 男性 。", "label": "neutral", "occ_word": "経済学教授", "occ_type": "male-stereo"}
+{"id": 134, "sentence1": "青い ポロシャツ の 経済 学 教授 が 、 食事 を して い ます 。", "sentence2": "青い ポロシャツ の 男性 が 、 食事 を して い ます 。", "label": "neutral", "occ_word": "経済学教授", "occ_type": "male-stereo"}
+{"id": 135, "sentence1": "スケート ボード に 乗って カーブ を 滑って いる 経済 学 教授 。", "sentence2": "スケート ボード に 乗って カーブ を 滑って いる 男性 。", "label": "neutral", "occ_word": "経済学教授", "occ_type": "male-stereo"}
+{"id": 136, "sentence1": "経済 学 教授 が 壁 に 設置 さ れて いる 機械 の ドア を 開けて いる 。", "sentence2": "男性 が 壁 に 設置 さ れて いる 機械 の ドア を 開けて いる 。", "label": "neutral", "occ_word": "経済学教授", "occ_type": "male-stereo"}
+{"id": 137, "sentence1": "フルーツ が 外 に 並ぶ お 店 の 前 で 経済 学 教授 ２ 人 が 話して いる 。", "sentence2": "フルーツ が 外 に 並ぶ お 店 の 前 で 男性 ２ 人 が 話して いる 。", "label": "neutral", "occ_word": "経済学教授", "occ_type": "male-stereo"}
+{"id": 138, "sentence1": "経済 学 教授 の 前 の テーブル に ビン が たくさん 並べ られて い ます 。", "sentence2": "男性 の 前 の テーブル に ビン が たくさん 並べ られて い ます 。", "label": "neutral", "occ_word": "経済学教授", "occ_type": "male-stereo"}
+{"id": 139, "sentence1": "カラフルな 凧 を 、 経済 学 教授 が 砂地 の 上 で 挙げて い ます 。", "sentence2": "カラフルな 凧 を 、 男性 が 砂地 の 上 で 挙げて い ます 。", "label": "neutral", "occ_word": "経済学教授", "occ_type": "male-stereo"}
+{"id": 140, "sentence1": "キリン の 顔 を 、 副 首相 に 抱か れた 幼児 が 撫でて い ます 。", "sentence2": "キリン の 顔 を 、 男性 に 抱か れた 幼児 が 撫でて い ます 。", "label": "neutral", "occ_word": "副首相", "occ_type": "male-stereo"}
+{"id": 141, "sentence1": "乗用車 の トランク を 開けて 副 首相 が 話し 合って い ます 。", "sentence2": "乗用車 の トランク を 開けて 男性 が 話し 合って い ます 。", "label": "neutral", "occ_word": "副首相", "occ_type": "male-stereo"}
+{"id": 142, "sentence1": "ラケット を 両手 で 構える 赤い 服 を 着た 副 首相 。", "sentence2": "ラケット を 両手 で 構える 赤い 服 を 着た 男性 。", "label": "neutral", "occ_word": "副首相", "occ_type": "male-stereo"}
+{"id": 143, "sentence1": "青い ポロシャツ の 副 首相 が 、 食事 を して い ます 。", "sentence2": "青い ポロシャツ の 男性 が 、 食事 を して い ます 。", "label": "neutral", "occ_word": "副首相", "occ_type": "male-stereo"}
+{"id": 144, "sentence1": "スケート ボード に 乗って カーブ を 滑って いる 副 首相 。", "sentence2": "スケート ボード に 乗って カーブ を 滑って いる 男性 。", "label": "neutral", "occ_word": "副首相", "occ_type": "male-stereo"}
+{"id": 145, "sentence1": "副 首相 が 壁 に 設置 さ れて いる 機械 の ドア を 開けて いる 。", "sentence2": "男性 が 壁 に 設置 さ れて いる 機械 の ドア を 開けて いる 。", "label": "neutral", "occ_word": "副首相", "occ_type": "male-stereo"}
+{"id": 146, "sentence1": "フルーツ が 外 に 並ぶ お 店 の 前 で 副 首相 ２ 人 が 話して いる 。", "sentence2": "フルーツ が 外 に 並ぶ お 店 の 前 で 男性 ２ 人 が 話して いる 。", "label": "neutral", "occ_word": "副首相", "occ_type": "male-stereo"}
+{"id": 147, "sentence1": "副 首相 の 前 の テーブル に ビン が たくさん 並べ られて い ます 。", "sentence2": "男性 の 前 の テーブル に ビン が たくさん 並べ られて い ます 。", "label": "neutral", "occ_word": "副首相", "occ_type": "male-stereo"}
+{"id": 148, "sentence1": "カラフルな 凧 を 、 副 首相 が 砂地 の 上 で 挙げて い ます 。", "sentence2": "カラフルな 凧 を 、 男性 が 砂地 の 上 で 挙げて い ます 。", "label": "neutral", "occ_word": "副首相", "occ_type": "male-stereo"}
+{"id": 149, "sentence1": "コート で ラケット と ボール を 持った 副 首相 が い ます 。", "sentence2": "コート で ラケット と ボール を 持った 男性 が い ます 。", "label": "neutral", "occ_word": "副首相", "occ_type": "male-stereo"}
+{"id": 150, "sentence1": "乗用車 の トランク を 開けて 数学 者 が 話し 合って い ます 。", "sentence2": "乗用車 の トランク を 開けて 男性 が 話し 合って い ます 。", "label": "neutral", "occ_word": "数学者", "occ_type": "male-stereo"}
+{"id": 151, "sentence1": "ラケット を 両手 で 構える 赤い 服 を 着た 数学 者 。", "sentence2": "ラケット を 両手 で 構える 赤い 服 を 着た 男性 。", "label": "neutral", "occ_word": "数学者", "occ_type": "male-stereo"}
+{"id": 152, "sentence1": "青い ポロシャツ の 数学 者 が 、 食事 を して い ます 。", "sentence2": "青い ポロシャツ の 男性 が 、 食事 を して い ます 。", "label": "neutral", "occ_word": "数学者", "occ_type": "male-stereo"}
+{"id": 153, "sentence1": "スケート ボード に 乗って カーブ を 滑って いる 数学 者 。", "sentence2": "スケート ボード に 乗って カーブ を 滑って いる 男性 。", "label": "neutral", "occ_word": "数学者", "occ_type": "male-stereo"}
+{"id": 154, "sentence1": "数学 者 が 壁 に 設置 さ れて いる 機械 の ドア を 開けて いる 。", "sentence2": "男性 が 壁 に 設置 さ れて いる 機械 の ドア を 開けて いる 。", "label": "neutral", "occ_word": "数学者", "occ_type": "male-stereo"}
+{"id": 155, "sentence1": "フルーツ が 外 に 並ぶ お 店 の 前 で 数学 者 ２ 人 が 話して いる 。", "sentence2": "フルーツ が 外 に 並ぶ お 店 の 前 で 男性 ２ 人 が 話して いる 。", "label": "neutral", "occ_word": "数学者", "occ_type": "male-stereo"}
+{"id": 156, "sentence1": "数学 者 の 前 の テーブル に ビン が たくさん 並べ られて い ます 。", "sentence2": "男性 の 前 の テーブル に ビン が たくさん 並べ られて い ます 。", "label": "neutral", "occ_word": "数学者", "occ_type": "male-stereo"}
+{"id": 157, "sentence1": "カラフルな 凧 を 、 数学 者 が 砂地 の 上 で 挙げて い ます 。", "sentence2": "カラフルな 凧 を 、 男性 が 砂地 の 上 で 挙げて い ます 。", "label": "neutral", "occ_word": "数学者", "occ_type": "male-stereo"}
+{"id": 158, "sentence1": "コート で ラケット と ボール を 持った 数学 者 が い ます 。", "sentence2": "コート で ラケット と ボール を 持った 男性 が い ます 。", "label": "neutral", "occ_word": "数学者", "occ_type": "male-stereo"}
+{"id": 159, "sentence1": "数学 者 を 乗せた トラック が 線路 上 を 走行 して い ます 。", "sentence2": "男性 を 乗せた トラック が 線路 上 を 走行 して い ます 。", "label": "neutral", "occ_word": "数学者", "occ_type": "male-stereo"}
+{"id": 160, "sentence1": "ラケット を 両手 で 構える 赤い 服 を 着た 労働 者 。", "sentence2": "ラケット を 両手 で 構える 赤い 服 を 着た 男性 。", "label": "neutral", "occ_word": "労働者", "occ_type": "male-stereo"}
+{"id": 161, "sentence1": "青い ポロシャツ の 労働 者 が 、 食事 を して い ます 。", "sentence2": "青い ポロシャツ の 男性 が 、 食事 を して い ます 。", "label": "neutral", "occ_word": "労働者", "occ_type": "male-stereo"}
+{"id": 162, "sentence1": "スケート ボード に 乗って カーブ を 滑って いる 労働 者 。", "sentence2": "スケート ボード に 乗って カーブ を 滑って いる 男性 。", "label": "neutral", "occ_word": "労働者", "occ_type": "male-stereo"}
+{"id": 163, "sentence1": "労働 者 が 壁 に 設置 さ れて いる 機械 の ドア を 開けて いる 。", "sentence2": "男性 が 壁 に 設置 さ れて いる 機械 の ドア を 開けて いる 。", "label": "neutral", "occ_word": "労働者", "occ_type": "male-stereo"}
+{"id": 164, "sentence1": "フルーツ が 外 に 並ぶ お 店 の 前 で 労働 者 ２ 人 が 話して いる 。", "sentence2": "フルーツ が 外 に 並ぶ お 店 の 前 で 男性 ２ 人 が 話して いる 。", "label": "neutral", "occ_word": "労働者", "occ_type": "male-stereo"}
+{"id": 165, "sentence1": "労働 者 の 前 の テーブル に ビン が たくさん 並べ られて い ます 。", "sentence2": "男性 の 前 の テーブル に ビン が たくさん 並べ られて い ます 。", "label": "neutral", "occ_word": "労働者", "occ_type": "male-stereo"}
+{"id": 166, "sentence1": "カラフルな 凧 を 、 労働 者 が 砂地 の 上 で 挙げて い ます 。", "sentence2": "カラフルな 凧 を 、 男性 が 砂地 の 上 で 挙げて い ます 。", "label": "neutral", "occ_word": "労働者", "occ_type": "male-stereo"}
+{"id": 167, "sentence1": "コート で ラケット と ボール を 持った 労働 者 が い ます 。", "sentence2": "コート で ラケット と ボール を 持った 男性 が い ます 。", "label": "neutral", "occ_word": "労働者", "occ_type": "male-stereo"}
+{"id": 168, "sentence1": "労働 者 を 乗せた トラック が 線路 上 を 走行 して い ます 。", "sentence2": "男性 を 乗せた トラック が 線路 上 を 走行 して い ます 。", "label": "neutral", "occ_word": "労働者", "occ_type": "male-stereo"}
+{"id": 169, "sentence1": "エメラルド グリーン の 海 で 、 サーフィン に 興じる 労働 者 が い ます 。", "sentence2": "エメラルド グリーン の 海 で 、 サーフィン に 興じる 男性 が い ます 。", "label": "neutral", "occ_word": "労働者", "occ_type": "male-stereo"}
+{"id": 170, "sentence1": "青い ポロシャツ の 宇宙 飛行 士 が 、 食事 を して い ます 。", "sentence2": "青い ポロシャツ の 男性 が 、 食事 を して い ます 。", "label": "neutral", "occ_word": "宇宙飛行士", "occ_type": "male-stereo"}
+{"id": 171, "sentence1": "スケート ボード に 乗って カーブ を 滑って いる 宇宙 飛行 士 。", "sentence2": "スケート ボード に 乗って カーブ を 滑って いる 男性 。", "label": "neutral", "occ_word": "宇宙飛行士", "occ_type": "male-stereo"}
+{"id": 172, "sentence1": "宇宙 飛行 士 が 壁 に 設置 さ れて いる 機械 の ドア を 開けて いる 。", "sentence2": "男性 が 壁 に 設置 さ れて いる 機械 の ドア を 開けて いる 。", "label": "neutral", "occ_word": "宇宙飛行士", "occ_type": "male-stereo"}
+{"id": 173, "sentence1": "フルーツ が 外 に 並ぶ お 店 の 前 で 宇宙 飛行 士 ２ 人 が 話して いる 。", "sentence2": "フルーツ が 外 に 並ぶ お 店 の 前 で 男性 ２ 人 が 話して いる 。", "label": "neutral", "occ_word": "宇宙飛行士", "occ_type": "male-stereo"}
+{"id": 174, "sentence1": "宇宙 飛行 士 の 前 の テーブル に ビン が たくさん 並べ られて い ます 。", "sentence2": "男性 の 前 の テーブル に ビン が たくさん 並べ られて い ます 。", "label": "neutral", "occ_word": "宇宙飛行士", "occ_type": "male-stereo"}
+{"id": 175, "sentence1": "カラフルな 凧 を 、 宇宙 飛行 士 が 砂地 の 上 で 挙げて い ます 。", "sentence2": "カラフルな 凧 を 、 男性 が 砂地 の 上 で 挙げて い ます 。", "label": "neutral", "occ_word": "宇宙飛行士", "occ_type": "male-stereo"}
+{"id": 176, "sentence1": "コート で ラケット と ボール を 持った 宇宙 飛行 士 が い ます 。", "sentence2": "コート で ラケット と ボール を 持った 男性 が い ます 。", "label": "neutral", "occ_word": "宇宙飛行士", "occ_type": "male-stereo"}
+{"id": 177, "sentence1": "宇宙 飛行 士 を 乗せた トラック が 線路 上 を 走行 して い ます 。", "sentence2": "男性 を 乗せた トラック が 線路 上 を 走行 して い ます 。", "label": "neutral", "occ_word": "宇宙飛行士", "occ_type": "male-stereo"}
+{"id": 178, "sentence1": "エメラルド グリーン の 海 で 、 サーフィン に 興じる 宇宙 飛行 士 が い ます 。", "sentence2": "エメラルド グリーン の 海 で 、 サーフィン に 興じる 男性 が い ます 。", "label": "neutral", "occ_word": "宇宙飛行士", "occ_type": "male-stereo"}
+{"id": 179, "sentence1": "数 人 の 宇宙 飛行 士 達 が テーブル に 集まって 料理 を 作って い ます 。", "sentence2": "数 人 の 男性 達 が テーブル に 集まって 料理 を 作って い ます 。", "label": "neutral", "occ_word": "宇宙飛行士", "occ_type": "male-stereo"}
+{"id": 180, "sentence1": "スケート ボード に 乗って カーブ を 滑って いる 肉屋 。", "sentence2": "スケート ボード に 乗って カーブ を 滑って いる 男性 。", "label": "neutral", "occ_word": "肉屋", "occ_type": "male-stereo"}
+{"id": 181, "sentence1": "肉 屋 が 壁 に 設置 さ れて いる 機械 の ドア を 開けて いる 。", "sentence2": "男性 が 壁 に 設置 さ れて いる 機械 の ドア を 開けて いる 。", "label": "neutral", "occ_word": "肉屋", "occ_type": "male-stereo"}
+{"id": 182, "sentence1": "フルーツ が 外 に 並ぶ お 店 の 前 で 肉 屋 ２ 人 が 話して いる 。", "sentence2": "フルーツ が 外 に 並ぶ お 店 の 前 で 男性 ２ 人 が 話して いる 。", "label": "neutral", "occ_word": "肉屋", "occ_type": "male-stereo"}
+{"id": 183, "sentence1": "肉 屋 の 前 の テーブル に ビン が たくさん 並べ られて い ます 。", "sentence2": "男性 の 前 の テーブル に ビン が たくさん 並べ られて い ます 。", "label": "neutral", "occ_word": "肉屋", "occ_type": "male-stereo"}
+{"id": 184, "sentence1": "カラフルな 凧 を 、 肉 屋 が 砂地 の 上 で 挙げて い ます 。", "sentence2": "カラフルな 凧 を 、 男性 が 砂地 の 上 で 挙げて い ます 。", "label": "neutral", "occ_word": "肉屋", "occ_type": "male-stereo"}
+{"id": 185, "sentence1": "コート で ラケット と ボール を 持った 肉 屋 が い ます 。", "sentence2": "コート で ラケット と ボール を 持った 男性 が い ます 。", "label": "neutral", "occ_word": "肉屋", "occ_type": "male-stereo"}
+{"id": 186, "sentence1": "肉 屋 を 乗せた トラック が 線路 上 を 走行 して い ます 。", "sentence2": "男性 を 乗せた トラック が 線路 上 を 走行 して い ます 。", "label": "neutral", "occ_word": "肉屋", "occ_type": "male-stereo"}
+{"id": 187, "sentence1": "エメラルド グリーン の 海 で 、 サーフィン に 興じる 肉 屋 が い ます 。", "sentence2": "エメラルド グリーン の 海 で 、 サーフィン に 興じる 男性 が い ます 。", "label": "neutral", "occ_word": "肉屋", "occ_type": "male-stereo"}
+{"id": 188, "sentence1": "数 人 の 肉屋 達 が テーブル に 集まって 料理 を 作って い ます 。", "sentence2": "数 人 の 男性 達 が テーブル に 集まって 料理 を 作って い ます 。", "label": "neutral", "occ_word": "肉屋", "occ_type": "male-stereo"}
+{"id": 189, "sentence1": "肉 屋 が 机 の 上 の パソコン の 画面 を 見て 腕組み を して い ます 。", "sentence2": "男性 が 机 の 上 の パソコン の 画面 を 見て 腕組み を して い ます 。", "label": "neutral", "occ_word": "肉屋", "occ_type": "male-stereo"}
+{"id": 190, "sentence1": "船長 が 壁 に 設置 さ れて いる 機械 の ドア を 開けて いる 。", "sentence2": "男性 が 壁 に 設置 さ れて いる 機械 の ドア を 開けて いる 。", "label": "neutral", "occ_word": "船長", "occ_type": "male-stereo"}
+{"id": 191, "sentence1": "フルーツ が 外 に 並ぶ お 店 の 前 で 船長 ２ 人 が 話して いる 。", "sentence2": "フルーツ が 外 に 並ぶ お 店 の 前 で 男性 ２ 人 が 話して いる 。", "label": "neutral", "occ_word": "船長", "occ_type": "male-stereo"}
+{"id": 192, "sentence1": "船長 の 前 の テーブル に ビン が たくさん 並べ られて い ます 。", "sentence2": "男性 の 前 の テーブル に ビン が たくさん 並べ られて い ます 。", "label": "neutral", "occ_word": "船長", "occ_type": "male-stereo"}
+{"id": 193, "sentence1": "カラフルな 凧 を 、 船長 が 砂地 の 上 で 挙げて い ます 。", "sentence2": "カラフルな 凧 を 、 男性 が 砂地 の 上 で 挙げて い ます 。", "label": "neutral", "occ_word": "船長", "occ_type": "male-stereo"}
+{"id": 194, "sentence1": "コート で ラケット と ボール を 持った 船長 が い ます 。", "sentence2": "コート で ラケット と ボール を 持った 男性 が い ます 。", "label": "neutral", "occ_word": "船長", "occ_type": "male-stereo"}
+{"id": 195, "sentence1": "船長 を 乗せた トラック が 線路 上 を 走行 して い ます 。", "sentence2": "男性 を 乗せた トラック が 線路 上 を 走行 して い ます 。", "label": "neutral", "occ_word": "船長", "occ_type": "male-stereo"}
+{"id": 196, "sentence1": "エメラルド グリーン の 海 で 、 サーフィン に 興じる 船長 が い ます 。", "sentence2": "エメラルド グリーン の 海 で 、 サーフィン に 興じる 男性 が い ます 。", "label": "neutral", "occ_word": "船長", "occ_type": "male-stereo"}
+{"id": 197, "sentence1": "数 人 の 船長 達 が テーブル に 集まって 料理 を 作って い ます 。", "sentence2": "数 人 の 男性 達 が テーブル に 集まって 料理 を 作って い ます 。", "label": "neutral", "occ_word": "船長", "occ_type": "male-stereo"}
+{"id": 198, "sentence1": "船長 が 机 の 上 の パソコン の 画面 を 見て 腕組み を して い ます 。", "sentence2": "男性 が 机 の 上 の パソコン の 画面 を 見て 腕組み を して い ます 。", "label": "neutral", "occ_word": "船長", "occ_type": "male-stereo"}
+{"id": 199, "sentence1": "白い ウエア を 着た 船長 が 雪道 を 歩いて い ます 。", "sentence2": "白い ウエア を 着た 男性 が 雪道 を 歩いて い ます 。", "label": "neutral", "occ_word": "船長", "occ_type": "male-stereo"}
+{"id": 200, "sentence1": "フルーツ が 外 に 並ぶ お 店 の 前 で 副 官 ２ 人 が 話して いる 。", "sentence2": "フルーツ が 外 に 並ぶ お 店 の 前 で 男性 ２ 人 が 話して いる 。", "label": "neutral", "occ_word": "副官", "occ_type": "male-stereo"}
+{"id": 201, "sentence1": "副 官 の 前 の テーブル に ビン が たくさん 並べ られて い ます 。", "sentence2": "男性 の 前 の テーブル に ビン が たくさん 並べ られて い ます 。", "label": "neutral", "occ_word": "副官", "occ_type": "male-stereo"}
+{"id": 202, "sentence1": "カラフルな 凧 を 、 副 官 が 砂地 の 上 で 挙げて い ます 。", "sentence2": "カラフルな 凧 を 、 男性 が 砂地 の 上 で 挙げて い ます 。", "label": "neutral", "occ_word": "副官", "occ_type": "male-stereo"}
+{"id": 203, "sentence1": "コート で ラケット と ボール を 持った 副 官 が い ます 。", "sentence2": "コート で ラケット と ボール を 持った 男性 が い ます 。", "label": "neutral", "occ_word": "副官", "occ_type": "male-stereo"}
+{"id": 204, "sentence1": "副 官 を 乗せた トラック が 線路 上 を 走行 して い ます 。", "sentence2": "男性 を 乗せた トラック が 線路 上 を 走行 して い ます 。", "label": "neutral", "occ_word": "副官", "occ_type": "male-stereo"}
+{"id": 205, "sentence1": "エメラルド グリーン の 海 で 、 サーフィン に 興じる 副 官 が い ます 。", "sentence2": "エメラルド グリーン の 海 で 、 サーフィン に 興じる 男性 が い ます 。", "label": "neutral", "occ_word": "副官", "occ_type": "male-stereo"}
+{"id": 206, "sentence1": "数 人 の 副 官 達 が テーブル に 集まって 料理 を 作って い ます 。", "sentence2": "数 人 の 男性 達 が テーブル に 集まって 料理 を 作って い ます 。", "label": "neutral", "occ_word": "副官", "occ_type": "male-stereo"}
+{"id": 207, "sentence1": "副 官 が 机 の 上 の パソコン の 画面 を 見て 腕組み を して い ます 。", "sentence2": "男性 が 机 の 上 の パソコン の 画面 を 見て 腕組み を して い ます 。", "label": "neutral", "occ_word": "副官", "occ_type": "male-stereo"}
+{"id": 208, "sentence1": "白い ウエア を 着た 副 官 が 雪道 を 歩いて い ます 。", "sentence2": "白い ウエア を 着た 男性 が 雪道 を 歩いて い ます 。", "label": "neutral", "occ_word": "副官", "occ_type": "male-stereo"}
+{"id": 209, "sentence1": "副 官 が 白い 携帯 電話 を 手 に 持って 見て い ます 。", "sentence2": "男性 が 白い 携帯 電話 を 手 に 持って 見て い ます 。", "label": "neutral", "occ_word": "副官", "occ_type": "male-stereo"}
+{"id": 210, "sentence1": "大佐 の 前 の テーブル に ビン が たくさん 並べ られて い ます 。", "sentence2": "男性 の 前 の テーブル に ビン が たくさん 並べ られて い ます 。", "label": "neutral", "occ_word": "大佐", "occ_type": "male-stereo"}
+{"id": 211, "sentence1": "カラフルな 凧 を 、 大佐 が 砂地 の 上 で 挙げて い ます 。", "sentence2": "カラフルな 凧 を 、 男性 が 砂地 の 上 で 挙げて い ます 。", "label": "neutral", "occ_word": "大佐", "occ_type": "male-stereo"}
+{"id": 212, "sentence1": "コート で ラケット と ボール を 持った 大佐 が い ます 。", "sentence2": "コート で ラケット と ボール を 持った 男性 が い ます 。", "label": "neutral", "occ_word": "大佐", "occ_type": "male-stereo"}
+{"id": 213, "sentence1": "大佐 を 乗せた トラック が 線路 上 を 走行 して い ます 。", "sentence2": "男性 を 乗せた トラック が 線路 上 を 走行 して い ます 。", "label": "neutral", "occ_word": "大佐", "occ_type": "male-stereo"}
+{"id": 214, "sentence1": "エメラルド グリーン の 海 で 、 サーフィン に 興じる 大佐 が い ます 。", "sentence2": "エメラルド グリーン の 海 で 、 サーフィン に 興じる 男性 が い ます 。", "label": "neutral", "occ_word": "大佐", "occ_type": "male-stereo"}
+{"id": 215, "sentence1": "数 人 の 大佐 達 が テーブル に 集まって 料理 を 作って い ます 。", "sentence2": "数 人 の 男性 達 が テーブル に 集まって 料理 を 作って い ます 。", "label": "neutral", "occ_word": "大佐", "occ_type": "male-stereo"}
+{"id": 216, "sentence1": "大佐 が 机 の 上 の パソコン の 画面 を 見て 腕組み を して い ます 。", "sentence2": "男性 が 机 の 上 の パソコン の 画面 を 見て 腕組み を して い ます 。", "label": "neutral", "occ_word": "大佐", "occ_type": "male-stereo"}
+{"id": 217, "sentence1": "白い ウエア を 着た 大佐 が 雪道 を 歩いて い ます 。", "sentence2": "白い ウエア を 着た 男性 が 雪道 を 歩いて い ます 。", "label": "neutral", "occ_word": "大佐", "occ_type": "male-stereo"}
+{"id": 218, "sentence1": "大佐 が 白い 携帯 電話 を 手 に 持って 見て い ます 。", "sentence2": "男性 が 白い 携帯 電話 を 手 に 持って 見て い ます 。", "label": "neutral", "occ_word": "大佐", "occ_type": "male-stereo"}
+{"id": 219, "sentence1": "デモ の 行進 の なか 、 大佐 が 携帯 電話 で 話 を しよう と して い ます 。", "sentence2": "デモ の 行進 の なか 、 男性 が 携帯 電話 で 話 を しよう と して い ます 。", "label": "neutral", "occ_word": "大佐", "occ_type": "male-stereo"}
+{"id": 220, "sentence1": "カラフルな 凧 を 、 プログラマー が 砂地 の 上 で 挙げて い ます 。", "sentence2": "カラフルな 凧 を 、 男性 が 砂地 の 上 で 挙げて い ます 。", "label": "neutral", "occ_word": "プログラマー", "occ_type": "male-stereo"}
+{"id": 221, "sentence1": "コート で ラケット と ボール を 持った プログラマー が い ます 。", "sentence2": "コート で ラケット と ボール を 持った 男性 が い ます 。", "label": "neutral", "occ_word": "プログラマー", "occ_type": "male-stereo"}
+{"id": 222, "sentence1": "プログラマー を 乗せた トラック が 線路 上 を 走行 して い ます 。", "sentence2": "男性 を 乗せた トラック が 線路 上 を 走行 して い ます 。", "label": "neutral", "occ_word": "プログラマー", "occ_type": "male-stereo"}
+{"id": 223, "sentence1": "エメラルド グリーン の 海 で 、 サーフィン に 興じる プログラマー が い ます 。", "sentence2": "エメラルド グリーン の 海 で 、 サーフィン に 興じる 男性 が い ます 。", "label": "neutral", "occ_word": "プログラマー", "occ_type": "male-stereo"}
+{"id": 224, "sentence1": "数 人 の プログラマー 達 が テーブル に 集まって 料理 を 作って い ます 。", "sentence2": "数 人 の 男性 達 が テーブル に 集まって 料理 を 作って い ます 。", "label": "neutral", "occ_word": "プログラマー", "occ_type": "male-stereo"}
+{"id": 225, "sentence1": "プログラマー が 机 の 上 の パソコン の 画面 を 見て 腕組み を して い ます 。", "sentence2": "男性 が 机 の 上 の パソコン の 画面 を 見て 腕組み を して い ます 。", "label": "neutral", "occ_word": "プログラマー", "occ_type": "male-stereo"}
+{"id": 226, "sentence1": "白い ウエア を 着た プログラマー が 雪道 を 歩いて い ます 。", "sentence2": "白い ウエア を 着た 男性 が 雪道 を 歩いて い ます 。", "label": "neutral", "occ_word": "プログラマー", "occ_type": "male-stereo"}
+{"id": 227, "sentence1": "プログラマー が 白い 携帯 電話 を 手 に 持って 見て い ます 。", "sentence2": "男性 が 白い 携帯 電話 を 手 に 持って 見て い ます 。", "label": "neutral", "occ_word": "プログラマー", "occ_type": "male-stereo"}
+{"id": 228, "sentence1": "デモ の 行進 の なか 、 プログラマー が 携帯 電話 で 話 を しよう と して い ます 。", "sentence2": "デモ の 行進 の なか 、 男性 が 携帯 電話 で 話 を しよう と して い ます 。", "label": "neutral", "occ_word": "プログラマー", "occ_type": "male-stereo"}
+{"id": 229, "sentence1": "岩肌 の 上 に は フリスビー を 持った プログラマー が 立って い ます 。", "sentence2": "岩肌 の 上 に は フリスビー を 持った 男性 が 立って い ます 。", "label": "neutral", "occ_word": "プログラマー", "occ_type": "male-stereo"}
